@@ -1,0 +1,51 @@
+{
+  "url": "https://filtercoffee.netlify.app/",
+  "requestedUrl": "https://filtercoffee.netlify.app/",
+  "timestamp": 1628778750563,
+  "ranks": {
+    "hundos": 9,
+    "performance": 11,
+    "accessibility": 12,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 901.229,
+  "firstMeaningfulPaint": 901.229,
+  "speedIndex": 1275.58695799326,
+  "largestContentfulPaint": 1317.229,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 901.229,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 280.667,
+  "weight": {
+    "summary": "3 requests • 55 KiB",
+    "total": 56127,
+    "image": 54782,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 955,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 390,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 11,
+    "violations": 4
+  }
+}

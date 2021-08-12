@@ -1,0 +1,51 @@
+{
+  "url": "https://11ty-notes.vercel.app/",
+  "requestedUrl": "https://11ty-notes.vercel.app/",
+  "timestamp": 1628778891296,
+  "ranks": {
+    "hundos": 14,
+    "performance": 15,
+    "accessibility": 11,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 389
+  },
+  "firstContentfulPaint": 1862.3760000000002,
+  "firstMeaningfulPaint": 1862.3760000000002,
+  "speedIndex": 1862.3760000000002,
+  "largestContentfulPaint": 1862.3760000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1862.3760000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 44.78200000000001,
+  "weight": {
+    "summary": "4 requests • 35 KiB",
+    "total": 35684,
+    "image": 0,
+    "imageCount": 0,
+    "script": 6027,
+    "scriptCount": 1,
+    "document": 1048,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 28609,
+    "stylesheetCount": 2,
+    "thirdParty": 34636,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 61,
+    "violations": 3
+  }
+}

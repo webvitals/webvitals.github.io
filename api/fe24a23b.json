@@ -1,0 +1,51 @@
+{
+  "url": "https://eleventy-classic-blog-starter.netlify.app/",
+  "requestedUrl": "https://eleventy-classic-blog-starter.netlify.app/",
+  "timestamp": 1628778985339,
+  "ranks": {
+    "hundos": 1,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 891.332,
+  "firstMeaningfulPaint": 891.332,
+  "speedIndex": 891.332,
+  "largestContentfulPaint": 891.332,
+  "totalBlockingTime": 3.5,
+  "cumulativeLayoutShift": 0.002146211412217882,
+  "timeToInteractive": 919.832,
+  "maxPotentialFirstInputDelay": 57,
+  "timeToFirstByte": 36.196,
+  "weight": {
+    "summary": "7 requests • 384 KiB",
+    "total": 393456,
+    "image": 336614,
+    "imageCount": 3,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 5917,
+    "font": 50925,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 220,
+    "violations": 0
+  }
+}

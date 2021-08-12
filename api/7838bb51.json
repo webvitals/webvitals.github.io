@@ -1,0 +1,57 @@
+{
+  "url": "https://wordpress.org/themes/astra/",
+  "requestedUrl": "https://wordpress.org/themes/astra/",
+  "timestamp": 1628780655030,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 1,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.51,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 324
+  },
+  "firstContentfulPaint": 3233.4900000000007,
+  "firstMeaningfulPaint": 8932.486,
+  "speedIndex": 4031.4351409716264,
+  "largestContentfulPaint": 4280.902,
+  "totalBlockingTime": 904.3715000000002,
+  "cumulativeLayoutShift": 0.0013205941518147787,
+  "timeToInteractive": 9870.8855,
+  "maxPotentialFirstInputDelay": 379,
+  "timeToFirstByte": 42.74799999999999,
+  "weight": {
+    "summary": "56 requests • 912 KiB",
+    "total": 934078,
+    "image": 50173,
+    "imageCount": 12,
+    "script": 718890,
+    "scriptCount": 20,
+    "document": 16987,
+    "font": 47977,
+    "fontCount": 5,
+    "stylesheet": 99516,
+    "stylesheetCount": 13,
+    "thirdParty": 796911,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1903,
+    "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 3
+  }
+}
