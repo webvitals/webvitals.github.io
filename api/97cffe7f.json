@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/hello-fashion/",
+  "requestedUrl": "https://wordpress.org/themes/hello-fashion/",
+  "timestamp": 1628784194347,
+  "ranks": {
+    "hundos": 120,
+    "performance": 129,
+    "accessibility": 33,
+    "cumulative": 120
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.54,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 327
+  },
+  "firstContentfulPaint": 3078.4890000000005,
+  "firstMeaningfulPaint": 8859.08,
+  "speedIndex": 4820.203195054923,
+  "largestContentfulPaint": 3734.4489999999996,
+  "totalBlockingTime": 789.5,
+  "cumulativeLayoutShift": 0.0013865462409125432,
+  "timeToInteractive": 10515.775000000001,
+  "maxPotentialFirstInputDelay": 263,
+  "timeToFirstByte": 180.44800000000004,
+  "weight": {
+    "summary": "56 requests • 1,220 KiB",
+    "total": 1249103,
+    "image": 365234,
+    "imageCount": 12,
+    "script": 718918,
+    "scriptCount": 20,
+    "document": 16905,
+    "font": 47979,
+    "fontCount": 5,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 1112162,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1897,
+    "violations": 5
+  }
+}

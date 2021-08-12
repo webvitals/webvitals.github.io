@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/foodshop/",
+  "requestedUrl": "https://wordpress.org/themes/foodshop/",
+  "timestamp": 1628786576736,
+  "ranks": {
+    "hundos": 154,
+    "performance": 163,
+    "accessibility": 135,
+    "cumulative": 153
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.51,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 324
+  },
+  "firstContentfulPaint": 3266.9259999999995,
+  "firstMeaningfulPaint": 4016.380500000001,
+  "speedIndex": 4531.539341058347,
+  "largestContentfulPaint": 4969.130999999999,
+  "totalBlockingTime": 589,
+  "cumulativeLayoutShift": 0.0023616741365856597,
+  "timeToInteractive": 10337.984499999999,
+  "maxPotentialFirstInputDelay": 357,
+  "timeToFirstByte": 177.82700000000003,
+  "weight": {
+    "summary": "55 requests • 1,355 KiB",
+    "total": 1387290,
+    "image": 514379,
+    "imageCount": 12,
+    "script": 718060,
+    "scriptCount": 20,
+    "document": 16728,
+    "font": 38063,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1251226,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 959,
+    "violations": 5
+  }
+}

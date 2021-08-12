@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/barlow/",
+  "requestedUrl": "https://wordpress.org/themes/barlow/",
+  "timestamp": 1628787967747,
+  "ranks": {
+    "hundos": 168,
+    "performance": 171,
+    "accessibility": 153,
+    "cumulative": 168
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.5,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 323
+  },
+  "firstContentfulPaint": 3318.4279999999994,
+  "firstMeaningfulPaint": 4056.4939999999997,
+  "speedIndex": 5044.865205081442,
+  "largestContentfulPaint": 4692.700000000001,
+  "totalBlockingTime": 640,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10462.0315,
+  "maxPotentialFirstInputDelay": 359,
+  "timeToFirstByte": 167.19199999999998,
+  "weight": {
+    "summary": "55 requests • 1,278 KiB",
+    "total": 1308889,
+    "image": 436513,
+    "imageCount": 12,
+    "script": 718072,
+    "scriptCount": 20,
+    "document": 16210,
+    "font": 38034,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1173355,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 886,
+    "violations": 5
+  }
+}

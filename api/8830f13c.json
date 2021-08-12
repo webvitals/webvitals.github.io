@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/education-business-school/",
+  "requestedUrl": "https://wordpress.org/themes/education-business-school/",
+  "timestamp": 1628784286412,
+  "ranks": {
+    "hundos": 17,
+    "performance": 11,
+    "accessibility": 152,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 333
+  },
+  "firstContentfulPaint": 3128.8539999999994,
+  "firstMeaningfulPaint": 3128.8539999999994,
+  "speedIndex": 4278.796944585222,
+  "largestContentfulPaint": 3512.7000000000003,
+  "totalBlockingTime": 668.5,
+  "cumulativeLayoutShift": 0.0016233596801757814,
+  "timeToInteractive": 9437.105500000001,
+  "maxPotentialFirstInputDelay": 328,
+  "timeToFirstByte": 178.77299999999997,
+  "weight": {
+    "summary": "55 requests • 898 KiB",
+    "total": 919069,
+    "image": 46183,
+    "imageCount": 12,
+    "script": 718065,
+    "scriptCount": 20,
+    "document": 16698,
+    "font": 38063,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 783054,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 907,
+    "violations": 5
+  }
+}

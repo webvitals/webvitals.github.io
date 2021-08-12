@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/empowerwp/",
+  "requestedUrl": "https://wordpress.org/themes/empowerwp/",
+  "timestamp": 1628786173702,
+  "ranks": {
+    "hundos": 32,
+    "performance": 19,
+    "accessibility": 41,
+    "cumulative": 30
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 332
+  },
+  "firstContentfulPaint": 2500.1560000000004,
+  "firstMeaningfulPaint": 8554.137999999999,
+  "speedIndex": 3813.8291253717002,
+  "largestContentfulPaint": 3448.6400000000003,
+  "totalBlockingTime": 900.4999999999995,
+  "cumulativeLayoutShift": 0.002457829687330458,
+  "timeToInteractive": 9658.452999999998,
+  "maxPotentialFirstInputDelay": 403,
+  "timeToFirstByte": 176.88899999999998,
+  "weight": {
+    "summary": "56 requests • 914 KiB",
+    "total": 935499,
+    "image": 51909,
+    "imageCount": 12,
+    "script": 718862,
+    "scriptCount": 20,
+    "document": 16726,
+    "font": 47919,
+    "fontCount": 5,
+    "stylesheet": 99548,
+    "stylesheetCount": 13,
+    "thirdParty": 798635,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1890,
+    "violations": 5
+  }
+}

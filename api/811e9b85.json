@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/elite-commerce/",
+  "requestedUrl": "https://wordpress.org/themes/elite-commerce/",
+  "timestamp": 1628786891986,
+  "ranks": {
+    "hundos": 115,
+    "performance": 113,
+    "accessibility": 119,
+    "cumulative": 114
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 328
+  },
+  "firstContentfulPaint": 3299.4019999999996,
+  "firstMeaningfulPaint": 3299.4019999999996,
+  "speedIndex": 4817.776611776709,
+  "largestContentfulPaint": 3385.902,
+  "totalBlockingTime": 897.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9976.662,
+  "maxPotentialFirstInputDelay": 359,
+  "timeToFirstByte": 180.42900000000003,
+  "weight": {
+    "summary": "55 requests • 1,018 KiB",
+    "total": 1042552,
+    "image": 169561,
+    "imageCount": 12,
+    "script": 718106,
+    "scriptCount": 20,
+    "document": 16784,
+    "font": 38034,
+    "fontCount": 4,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 906390,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1034,
+    "violations": 5
+  }
+}

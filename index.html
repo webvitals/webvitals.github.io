@@ -3,48 +3,135 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Speedlify</title>
+		<title>Web Vitals Monitoring</title>
 		<meta name="description" content="Benchmark web pages over time.">
 		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/css/site.css">
 		<script>
 		document.documentElement.classList.add("js");
 		</script>
 	</head>
-	<body>
-		<h1 class="speedlify-hed"><a href="/">speedlify</a></h1>
-		<p class="speedlify-subhed">
+	<body class="dark:bg-gray-900 dark:text-white">
+
+<nav class="bg-gray-800">
+  <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+    <div class="relative flex items-center justify-between h-16">
+      <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+      </div>
+      <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
+        <div class="flex-shrink-0 flex items-center font-black">
+        	<a href="/ ">webvitals</a>
+        </div>
+        <div class=" sm:block ml-6">
+          <div class="flex space-x-4">
+            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+            <a href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</a>
+
+          </div>
+        </div>
+      </div>
+      <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+        <button class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
+          <span class="sr-only">View notifications</span>
+          <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+</nav>
+
+	
+		<p class="font-black text-3xl m-8 text-center">
 			Benchmark web pages over time.
-			Created by <a href="https://www.zachleat.com/">@zachleat</a>.
-		</p>
-		<p class="speedlify-subhed">
-			<a href="https://github.com/zachleat/speedlify/#deploy-to-netlify">Deploy your own instance of Speedlify and test your web sites</a>.
 		</p>
 
-		<table class="leaderboard leaderboard-list">
-	<caption>Choose a category</caption>
-	<thead data-sr-only>
-		<tr>
-			<th>Category</th>
-			<th>Site Count</th>
-			<th>Last Run Date</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td><a href="/wix/">Wix templates</a></td>
-			<td><span class="count">×3<span class="leaderboard-hide-sm"> sites</span></span></td>
-			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1628780555895">Aug 12 <span class="leaderboard-hide-md">11:02</span></timestamp-ago></span></td>
-		</tr>
-		<tr>
-			<td><a href="/wordpress/">Wordpress templates</a></td>
-			<td><span class="count">×192<span class="leaderboard-hide-sm"> sites</span></span></td>
-			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1628780668048">Aug 12 <span class="leaderboard-hide-md">11:04</span></timestamp-ago></span></td>
-		</tr>
-	</tbody>
-</table>
 
-		<footer>
-			MIT licensed. Read <a href="https://www.zachleat.com/web/speedlify/">the blog post</a>. Source code on <a href="https://github.com/zachleat/speedlify/">GitHub</a>. Created by <a href="https://www.zachleat.com/">@zachleat</a>.
+		
+
+<div class="container mx-auto p-4">
+	<p class="text-center">Choose a category</p>
+	<div class="sm:flex sm:items-center lg:justify-between mx-auto">
+		<div class="flex-1 min-w-0 my-8">
+	    <h2 class="text-2xl font-bold leading-7  sm:text-3xl sm:truncate">
+	      <a href="/wix/" class="text-2xl font-bold leading-7 sm:text-3xl text-black dark:text-white">
+	      			Wix templates
+	      </a>
+	    </h2>
+	    <div class="mt-1 flex flex-col sm:flex-row sm:flex-wrap sm:mt-0 sm:space-x-6">
+	       <div class="mt-2 flex items-center text-sm text-gray-500">
+			<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+			  <path d="M7 3a1 1 0 000 2h6a1 1 0 100-2H7zM4 7a1 1 0 011-1h10a1 1 0 110 2H5a1 1 0 01-1-1zM2 11a2 2 0 012-2h12a2 2 0 012 2v4a2 2 0 01-2 2H4a2 2 0 01-2-2v-4z" />
+			</svg>
+	        ×3 sites
+	      </div>
+	      <div class="mt-2 flex items-center text-sm text-gray-500">
+	      	
+			<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+			  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
+			</svg>
+	         <span class="text-sm"><timestamp-ago timestamp="1628782777579">Aug 12 <span class="leaderboard-hide-md">11:39</span></timestamp-ago>
+	         </span>
+	         
+	      </div>
+	    </div>
+	  </div>
+	  <div class="mt-5 flex lg:mt-0 lg:ml-4">
+
+	    <span class="sm:ml-3">
+	      <a href="/wix/"  class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+	        <svg class="-ml-1 mr-2 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+	          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+	        </svg>
+	        View 
+	      </a>
+	    </span>
+	  </div>
+	</div>
+	<div class="sm:flex sm:items-center lg:justify-between mx-auto">
+		<div class="flex-1 min-w-0 my-8">
+	    <h2 class="text-2xl font-bold leading-7  sm:text-3xl sm:truncate">
+	      <a href="/wordpress/" class="text-2xl font-bold leading-7 sm:text-3xl text-black dark:text-white">
+	      			Wordpress templates
+	      </a>
+	    </h2>
+	    <div class="mt-1 flex flex-col sm:flex-row sm:flex-wrap sm:mt-0 sm:space-x-6">
+	       <div class="mt-2 flex items-center text-sm text-gray-500">
+			<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+			  <path d="M7 3a1 1 0 000 2h6a1 1 0 100-2H7zM4 7a1 1 0 011-1h10a1 1 0 110 2H5a1 1 0 01-1-1zM2 11a2 2 0 012-2h12a2 2 0 012 2v4a2 2 0 01-2 2H4a2 2 0 01-2-2v-4z" />
+			</svg>
+	        ×192 sites
+	      </div>
+	      <div class="mt-2 flex items-center text-sm text-gray-500">
+	      	
+			<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+			  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd" />
+			</svg>
+	         <span class="text-sm"><timestamp-ago timestamp="1628789713511">Aug 12 <span class="leaderboard-hide-md">13:35</span></timestamp-ago>
+	         </span>
+	         
+	      </div>
+	    </div>
+	  </div>
+	  <div class="mt-5 flex lg:mt-0 lg:ml-4">
+
+	    <span class="sm:ml-3">
+	      <a href="/wordpress/"  class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+	        <svg class="-ml-1 mr-2 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+	          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+	        </svg>
+	        View 
+	      </a>
+	    </span>
+	  </div>
+	</div>
+</div>
+
+
+		<footer class="text-center">
+			web vitals tech
 		</footer>
 
 		<script defer src="/chartist.js"></script>

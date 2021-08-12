@@ -1,47 +1,47 @@
 {
   "url": "https://wordpress.org/themes/twentytwentyone/",
   "requestedUrl": "https://wordpress.org/themes/twentytwentyone/",
-  "timestamp": 1628780601620,
+  "timestamp": 1628782788866,
   "ranks": {
-    "hundos": 2,
-    "performance": 3,
-    "accessibility": 2,
-    "cumulative": 2
+    "hundos": 147,
+    "performance": 144,
+    "accessibility": 73,
+    "cumulative": 146
   },
   "lighthouse": {
     "version": "8.2.0",
-    "performance": 0.51,
+    "performance": 0.52,
     "accessibility": 0.98,
     "bestPractices": 0.8,
     "seo": 0.95,
-    "total": 324
+    "total": 325
   },
-  "firstContentfulPaint": 3086.1539999999995,
-  "firstMeaningfulPaint": 8675.725,
-  "speedIndex": 4196.937584953096,
-  "largestContentfulPaint": 4290.380499999999,
-  "totalBlockingTime": 880.5,
-  "cumulativeLayoutShift": 0.0016233596801757814,
-  "timeToInteractive": 9850.2455,
-  "maxPotentialFirstInputDelay": 364,
-  "timeToFirstByte": 44.40499999999999,
+  "firstContentfulPaint": 3102.6589999999997,
+  "firstMeaningfulPaint": 8680.462,
+  "speedIndex": 4006.098915879635,
+  "largestContentfulPaint": 3625.3989999999994,
+  "totalBlockingTime": 1176,
+  "cumulativeLayoutShift": 0.001628105163574219,
+  "timeToInteractive": 10225.5315,
+  "maxPotentialFirstInputDelay": 450,
+  "timeToFirstByte": 153.11399999999998,
   "weight": {
     "summary": "56 requests • 1,000 KiB",
-    "total": 1024315,
+    "total": 1024247,
     "image": 140641,
     "imageCount": 12,
-    "script": 719005,
+    "script": 718890,
     "scriptCount": 20,
-    "document": 16619,
-    "font": 47976,
+    "document": 16632,
+    "font": 47978,
     "fontCount": 5,
-    "stylesheet": 99516,
+    "stylesheet": 99548,
     "stylesheetCount": 13,
-    "thirdParty": 887535,
+    "thirdParty": 887427,
     "thirdPartyCount": 45
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "axe": {
@@ -49,9 +49,9 @@
     "violations": 5
   },
   "previousRanks": {
-    "hundos": 1,
-    "performance": 1,
+    "hundos": 2,
+    "performance": 3,
     "accessibility": 2,
-    "cumulative": 1
+    "cumulative": 2
   }
 }

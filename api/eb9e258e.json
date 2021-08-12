@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/businessfocus/",
+  "requestedUrl": "https://wordpress.org/themes/businessfocus/",
+  "timestamp": 1628788470602,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 77,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.61,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 334
+  },
+  "firstContentfulPaint": 2520.5710000000004,
+  "firstMeaningfulPaint": 8740.724,
+  "speedIndex": 3548.701271388208,
+  "largestContentfulPaint": 3488.931,
+  "totalBlockingTime": 757.6584999999995,
+  "cumulativeLayoutShift": 0.002054445425669352,
+  "timeToInteractive": 10105.656500000001,
+  "maxPotentialFirstInputDelay": 413,
+  "timeToFirstByte": 169.585,
+  "weight": {
+    "summary": "56 requests • 1,117 KiB",
+    "total": 1144023,
+    "image": 260357,
+    "imageCount": 12,
+    "script": 718569,
+    "scriptCount": 20,
+    "document": 17116,
+    "font": 47921,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1007062,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1675,
+    "violations": 5
+  }
+}

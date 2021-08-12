@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/flash/",
+  "requestedUrl": "https://wordpress.org/themes/flash/",
+  "timestamp": 1628787653612,
+  "ranks": {
+    "hundos": 91,
+    "performance": 78,
+    "accessibility": 40,
+    "cumulative": 84
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 329
+  },
+  "firstContentfulPaint": 3057.722999999999,
+  "firstMeaningfulPaint": 8765.158000000001,
+  "speedIndex": 3828.7022101234134,
+  "largestContentfulPaint": 3709.5229999999992,
+  "totalBlockingTime": 839,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9700.189999999999,
+  "maxPotentialFirstInputDelay": 356,
+  "timeToFirstByte": 152.83,
+  "weight": {
+    "summary": "56 requests • 905 KiB",
+    "total": 926775,
+    "image": 43103,
+    "imageCount": 12,
+    "script": 718857,
+    "scriptCount": 20,
+    "document": 16783,
+    "font": 47949,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 789869,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1890,
+    "violations": 5
+  }
+}

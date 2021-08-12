@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/tutorstarter/",
+  "requestedUrl": "https://wordpress.org/themes/tutorstarter/",
+  "timestamp": 1628783916601,
+  "ranks": {
+    "hundos": 116,
+    "performance": 125,
+    "accessibility": 120,
+    "cumulative": 116
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.54,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 327
+  },
+  "firstContentfulPaint": 3235.5710000000004,
+  "firstMeaningfulPaint": 3965.0975000000003,
+  "speedIndex": 4635.879919521265,
+  "largestContentfulPaint": 3401.1450000000004,
+  "totalBlockingTime": 951.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10563.2155,
+  "maxPotentialFirstInputDelay": 712,
+  "timeToFirstByte": 181.74200000000002,
+  "weight": {
+    "summary": "56 requests • 1,361 KiB",
+    "total": 1393909,
+    "image": 510652,
+    "imageCount": 12,
+    "script": 718110,
+    "scriptCount": 20,
+    "document": 17109,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1257414,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1033,
+    "violations": 5
+  }
+}

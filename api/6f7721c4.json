@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/nisarg/",
+  "requestedUrl": "https://wordpress.org/themes/nisarg/",
+  "timestamp": 1628784413221,
+  "ranks": {
+    "hundos": 84,
+    "performance": 95,
+    "accessibility": 182,
+    "cumulative": 98
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 329
+  },
+  "firstContentfulPaint": 3241.858000000001,
+  "firstMeaningfulPaint": 8912.946,
+  "speedIndex": 4458.3031075438075,
+  "largestContentfulPaint": 3514.1200000000003,
+  "totalBlockingTime": 773,
+  "cumulativeLayoutShift": 0.001352273941040039,
+  "timeToInteractive": 10256.9125,
+  "maxPotentialFirstInputDelay": 397,
+  "timeToFirstByte": 163.04700000000003,
+  "weight": {
+    "summary": "56 requests • 1,200 KiB",
+    "total": 1228520,
+    "image": 344912,
+    "imageCount": 12,
+    "script": 718833,
+    "scriptCount": 20,
+    "document": 16713,
+    "font": 47979,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1091721,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1880,
+    "violations": 6
+  }
+}

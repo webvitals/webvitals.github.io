@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/virtue/",
+  "requestedUrl": "https://wordpress.org/themes/virtue/",
+  "timestamp": 1628783863749,
+  "ranks": {
+    "hundos": 11,
+    "performance": 15,
+    "accessibility": 60,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 333
+  },
+  "firstContentfulPaint": 3049.636000000001,
+  "firstMeaningfulPaint": 8668.541000000001,
+  "speedIndex": 4588.292157218433,
+  "largestContentfulPaint": 3493.6360000000004,
+  "totalBlockingTime": 622,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10361.5,
+  "maxPotentialFirstInputDelay": 343,
+  "timeToFirstByte": 171.49699999999999,
+  "weight": {
+    "summary": "56 requests • 1,257 KiB",
+    "total": 1286828,
+    "image": 403030,
+    "imageCount": 12,
+    "script": 718802,
+    "scriptCount": 20,
+    "document": 16928,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 1149845,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1878,
+    "violations": 5
+  }
+}

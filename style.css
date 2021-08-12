@@ -667,27 +667,7 @@ speedlify-score > :not(.speedlify-score) {
 speedlify-score > :first-child {
 	margin-left: 0;
 }
-html {
-	overflow-y: scroll;
-	margin: 0;
-}
-body {
-	font-family: system-ui, sans-serif;
-	background-color: #2e2e2e;
-	color: #fff;
-	margin: 0.5rem; /* 8px /16 */
-}
-footer {
-	font-style: italic;
-	text-align: center;
-}
-code {
-	font-family: Monaco, monospace;
-}
 
-html:not(.js) [data-js-only] {
-	display: none !important;
-}
 [data-sr-only] {
 	border: 0;
 	clip: rect(0 0 0 0);

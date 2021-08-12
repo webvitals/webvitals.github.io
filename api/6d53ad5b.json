@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/bosa/",
+  "requestedUrl": "https://wordpress.org/themes/bosa/",
+  "timestamp": 1628788802631,
+  "ranks": {
+    "hundos": 79,
+    "performance": 83,
+    "accessibility": 76,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 329
+  },
+  "firstContentfulPaint": 3254.419000000001,
+  "firstMeaningfulPaint": 8563.252,
+  "speedIndex": 4087.393328986463,
+  "largestContentfulPaint": 3795.0270000000005,
+  "totalBlockingTime": 708.5000000000009,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10619.1685,
+  "maxPotentialFirstInputDelay": 393.0000000000018,
+  "timeToFirstByte": 181.033,
+  "weight": {
+    "summary": "56 requests • 1,258 KiB",
+    "total": 1287936,
+    "image": 404228,
+    "imageCount": 12,
+    "script": 718610,
+    "scriptCount": 20,
+    "document": 17071,
+    "font": 47921,
+    "fontCount": 5,
+    "stylesheet": 99548,
+    "stylesheetCount": 13,
+    "thirdParty": 1150957,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1686,
+    "violations": 5
+  }
+}

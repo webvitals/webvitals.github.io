@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/ecommerce-plus/",
+  "requestedUrl": "https://wordpress.org/themes/ecommerce-plus/",
+  "timestamp": 1628786839882,
+  "ranks": {
+    "hundos": 82,
+    "performance": 101,
+    "accessibility": 75,
+    "cumulative": 79
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 329
+  },
+  "firstContentfulPaint": 3161.659,
+  "firstMeaningfulPaint": 8822.313,
+  "speedIndex": 4997.690358217848,
+  "largestContentfulPaint": 3587.639,
+  "totalBlockingTime": 731,
+  "cumulativeLayoutShift": 0.0013955764770507814,
+  "timeToInteractive": 10656.273000000001,
+  "maxPotentialFirstInputDelay": 358,
+  "timeToFirstByte": 297.832,
+  "weight": {
+    "summary": "56 requests • 1,421 KiB",
+    "total": 1454903,
+    "image": 571472,
+    "imageCount": 12,
+    "script": 718671,
+    "scriptCount": 20,
+    "document": 16751,
+    "font": 47949,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1318208,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1736,
+    "violations": 5
+  }
+}

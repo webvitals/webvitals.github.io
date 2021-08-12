@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/envo-magazine-boxed/",
+  "requestedUrl": "https://wordpress.org/themes/envo-magazine-boxed/",
+  "timestamp": 1628786637961,
+  "ranks": {
+    "hundos": 12,
+    "performance": 13,
+    "accessibility": 80,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 333
+  },
+  "firstContentfulPaint": 3205.7580000000007,
+  "firstMeaningfulPaint": 8434.206,
+  "speedIndex": 4518.04788278096,
+  "largestContentfulPaint": 3624.224,
+  "totalBlockingTime": 585.9389999999994,
+  "cumulativeLayoutShift": 0.001628105163574219,
+  "timeToInteractive": 9776.748,
+  "maxPotentialFirstInputDelay": 340,
+  "timeToFirstByte": 157.925,
+  "weight": {
+    "summary": "55 requests • 1,107 KiB",
+    "total": 1133177,
+    "image": 259867,
+    "imageCount": 12,
+    "script": 718528,
+    "scriptCount": 20,
+    "document": 16652,
+    "font": 38063,
+    "fontCount": 4,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 996743,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1543,
+    "violations": 5
+  }
+}

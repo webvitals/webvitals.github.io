@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/amphibious/",
+  "requestedUrl": "https://wordpress.org/themes/amphibious/",
+  "timestamp": 1628787844922,
+  "ranks": {
+    "hundos": 178,
+    "performance": 172,
+    "accessibility": 37,
+    "cumulative": 175
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.49,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 322
+  },
+  "firstContentfulPaint": 3221.411000000001,
+  "firstMeaningfulPaint": 8729.2025,
+  "speedIndex": 3933.8711021395693,
+  "largestContentfulPaint": 4980.747500000001,
+  "totalBlockingTime": 733,
+  "cumulativeLayoutShift": 0.0013773422241210938,
+  "timeToInteractive": 9680.2865,
+  "maxPotentialFirstInputDelay": 334,
+  "timeToFirstByte": 158.50400000000002,
+  "weight": {
+    "summary": "56 requests • 993 KiB",
+    "total": 1016967,
+    "image": 133623,
+    "imageCount": 12,
+    "script": 718722,
+    "scriptCount": 20,
+    "document": 16620,
+    "font": 47919,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 880349,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1894,
+    "violations": 5
+  }
+}

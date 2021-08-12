@@ -3,26 +3,55 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Speedlify</title>
+		<title>Web Vitals Monitoring</title>
 		<meta name="description" content="Benchmark web pages over time.">
 		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/css/site.css">
 		<script>
 		document.documentElement.classList.add("js");
 		</script>
 	</head>
-	<body>
-		<h1 class="speedlify-hed"><a href="/">speedlify</a>:wix</h1>
-		<p class="speedlify-subhed">
+	<body class="dark:bg-gray-900 dark:text-white">
+
+<nav class="bg-gray-800">
+  <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+    <div class="relative flex items-center justify-between h-16">
+      <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+      </div>
+      <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
+        <div class="flex-shrink-0 flex items-center font-black">
+        	<a href="/ ">webvitals</a>
+        </div>
+        <div class=" sm:block ml-6">
+          <div class="flex space-x-4">
+            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+            <a href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</a>
+
+          </div>
+        </div>
+      </div>
+      <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+        <button class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
+          <span class="sr-only">View notifications</span>
+          <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+</nav>
+
+	
+		<p class="font-black text-3xl m-8 text-center">
 			Benchmark Wix templates over time.
 				Updates <em>at most</em> once every 1380 minutes. Only the last 10 runs (and the oldest run) are shown.
-			Created by <a href="https://www.zachleat.com/">@zachleat</a>.
-		</p>
-		<p class="speedlify-subhed">
-			<a href="https://github.com/zachleat/speedlify/#deploy-to-netlify">Deploy your own instance of Speedlify and test your web sites</a>.
 		</p>
 
-		<div class="leaderboard-wrapper">
-	<table class="leaderboard">
+
+		<div class="bg-gray-800 text-white">
+	<table class="">
 		<thead>
 			<tr>
 				<th>Rank</th>
@@ -38,14 +67,19 @@
 				<td class="leaderboard-number"><a href="#site-bc3edc99" class="leaderboard-directlink"><span>#</span>1</a></td>
 				<td class="leaderboard-hide-md leaderboard-trophies">🥇
 				</td>
-				<td class="leaderboard-url"><a href="https://www.wix.com/website-template/view/html/2898"><code class="url">wix.com/website-template/view/html/2898</code></a></td>
-				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2898","requestedUrl":"https://www.wix.com/website-template/view/html/2898","timestamp":1628780475896,"ranks":{"hundos":1,"performance":1,"accessibility":2,"cumulative":1},"lighthouse":{"version":"8.2.0","performance":0.5,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":299},"firstContentfulPaint":3415.486,"firstMeaningfulPaint":3415.486,"speedIndex":5510.162277587383,"largestContentfulPaint":3415.486,"totalBlockingTime":1000.4999999999991,"cumulativeLayoutShift":0.000020350874829562795,"timeToInteractive":14212.46,"maxPotentialFirstInputDelay":299,"timeToFirstByte":158.07099999999997,"weight":{"summary":"158 requests • 2,206 KiB","total":2258632,"image":58906,"imageCount":28,"script":934729,"scriptCount":70,"document":112892,"font":109973,"fontCount":4,"stylesheet":9437,"stylesheetCount":4,"thirdParty":2000927,"thirdPartyCount":128},"run":{"number":2,"total":3},"axe":{"passes":1208,"violations":15}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">299</span></td>
-				<td class="leaderboard-data-right"><a href="#details-bc3edc99" data-expand-alias data-js-only><span class="leaderboard-expand-icon"></span> Data<span class="leaderboard-hide-md"> and Graphs</span></a></td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2898"><code class="">wix.com/website-template/view/html/2898</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2898","requestedUrl":"https://www.wix.com/website-template/view/html/2898","timestamp":1628782695665,"ranks":{"hundos":1,"performance":1,"accessibility":2,"cumulative":1},"lighthouse":{"version":"8.2.0","performance":0.48,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":297},"firstContentfulPaint":3143.049,"firstMeaningfulPaint":3143.049,"speedIndex":6352.331967449012,"largestContentfulPaint":3143.049,"totalBlockingTime":1391.500000000001,"cumulativeLayoutShift":0.000020350874829562795,"timeToInteractive":13190.364000000001,"maxPotentialFirstInputDelay":445,"timeToFirstByte":248.10999999999999,"weight":{"summary":"157 requests • 2,204 KiB","total":2256500,"image":58466,"imageCount":28,"script":934853,"scriptCount":70,"document":112373,"font":110100,"fontCount":4,"stylesheet":9437,"stylesheetCount":4,"thirdParty":1998694,"thirdPartyCount":127},"run":{"number":2,"total":3},"axe":{"passes":1208,"violations":15},"previousRanks":{"hundos":1,"performance":1,"accessibility":2,"cumulative":1}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">297</span></td>
+				<td>
+					<a href="#details-bc3edc99" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
 			</tr>
 			<tr class="leaderboard-list-entry-details">
 				<td colspan="6">
-					<details class="leaderboard-details" id="details-bc3edc99">
-						<summary>Show Data</summary>
+					<details class="" id="details-bc3edc99">
+						<span>Show Data</span>
 						<div class="layout color--lighthouse">
 							<div class="tablewrap">
 								<table data-make-chart class="results">
@@ -64,6 +98,22 @@
 										</tr>
 									</thead>
 									<tbody>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool">🥇</td>
+											<td>#1</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="48">48</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3143.049&SI=6352.331967449012&LCP=3143.049&TTI=13190.364000000001&TBT=1391.500000000001&CLS=0.000020350874829562795&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>15</td>
+										</tr>
 										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:01</span></code></td>
 											<td class="results-bool">🥇</td>
@@ -108,6 +158,24 @@
 									</thead>
 									<tbody>
 										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3143.049">3.14s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="445">445ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1391.500000000001">1.39s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3143.049">3.14s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6352.331967449012">6.35s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="13190.364000000001">13.19s</td>
+										</tr>
+										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:01</span></code></td>
 											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
 											<td data-numeric-value="3415.486">3.42s</td>
@@ -151,6 +219,16 @@
 									</thead>
 									<tbody>
 										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td data-numeric-value="2203.61328125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="109.7392578125"><span class="filesize">110<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="9.2158203125"><span class="filesize">9<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="912.9423828125"><span class="filesize">913<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×70</span></td>
+											<td data-numeric-value="57.095703125"><span class="filesize">57<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="107.51953125"><span class="filesize">108<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1951.849609375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×127</span></td>
+										</tr>
+										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:01</span></code></td>
 											<td data-numeric-value="2205.6953125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
 											<td data-numeric-value="110.24609375"><span class="filesize">110<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
@@ -173,14 +251,19 @@
 				<td class="leaderboard-number"><a href="#site-8baecbb8" class="leaderboard-directlink"><span>#</span>2</a></td>
 				<td class="leaderboard-hide-md leaderboard-trophies">🥈
 				</td>
-				<td class="leaderboard-url"><a href="https://www.wix.com/website-template/view/html/2686"><code class="url">wix.com/website-template/view/html/2686</code></a></td>
-				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2686","requestedUrl":"https://www.wix.com/website-template/view/html/2686","timestamp":1628780406239,"ranks":{"hundos":2,"performance":2,"accessibility":3,"cumulative":2},"lighthouse":{"version":"8.2.0","performance":0.41,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":290},"firstContentfulPaint":3274.443,"firstMeaningfulPaint":3274.443,"speedIndex":9238.76923462267,"largestContentfulPaint":3274.443,"totalBlockingTime":1831.0000000000036,"cumulativeLayoutShift":0,"timeToInteractive":20237.183999999997,"maxPotentialFirstInputDelay":359,"timeToFirstByte":201.13299999999998,"weight":{"summary":"192 requests • 2,958 KiB","total":3028973,"image":1035770,"imageCount":31,"script":1470316,"scriptCount":79,"document":133023,"font":132967,"fontCount":5,"stylesheet":69658,"stylesheetCount":10,"thirdParty":2749897,"thirdPartyCount":151},"run":{"number":1,"total":3},"axe":{"passes":1057,"violations":15},"previousRanks":{"hundos":1,"performance":1,"accessibility":1,"cumulative":1}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">290</span></td>
-				<td class="leaderboard-data-right"><a href="#details-8baecbb8" data-expand-alias data-js-only><span class="leaderboard-expand-icon"></span> Data<span class="leaderboard-hide-md"> and Graphs</span></a></td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2686"><code class="">wix.com/website-template/view/html/2686</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2686","requestedUrl":"https://www.wix.com/website-template/view/html/2686","timestamp":1628782730767,"ranks":{"hundos":2,"performance":2,"accessibility":3,"cumulative":2},"lighthouse":{"version":"8.2.0","performance":0.38,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":287},"firstContentfulPaint":3644.5910000000003,"firstMeaningfulPaint":3644.5910000000003,"speedIndex":7626.8998334115095,"largestContentfulPaint":3644.5910000000003,"totalBlockingTime":1965.5135,"cumulativeLayoutShift":0,"timeToInteractive":20230.879999999997,"maxPotentialFirstInputDelay":367,"timeToFirstByte":147.96900000000002,"weight":{"summary":"193 requests • 2,959 KiB","total":3029604,"image":1035291,"imageCount":31,"script":1470232,"scriptCount":79,"document":132684,"font":132967,"fontCount":5,"stylesheet":69665,"stylesheetCount":10,"thirdParty":2751414,"thirdPartyCount":152},"run":{"number":3,"total":3},"axe":{"passes":1057,"violations":15},"previousRanks":{"hundos":2,"performance":2,"accessibility":3,"cumulative":2}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">287</span></td>
+				<td>
+					<a href="#details-8baecbb8" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
 			</tr>
 			<tr class="leaderboard-list-entry-details">
 				<td colspan="6">
-					<details class="leaderboard-details" id="details-8baecbb8">
-						<summary>Show Data</summary>
+					<details class="" id="details-8baecbb8">
+						<span>Show Data</span>
 						<div class="layout color--lighthouse">
 							<div class="tablewrap">
 								<table data-make-chart class="results">
@@ -199,6 +282,22 @@
 										</tr>
 									</thead>
 									<tbody>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool">🥈</td>
+											<td>#2</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="38">38</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3644.5910000000003&SI=7626.8998334115095&LCP=3644.5910000000003&TTI=20230.879999999997&TBT=1965.5135&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>15</td>
+										</tr>
 										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:00</span></code></td>
 											<td class="results-bool">🥈</td>
@@ -258,6 +357,24 @@
 										</tr>
 									</thead>
 									<tbody>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3644.5910000000003">3.64s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="367">367ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1965.5135">1.97s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3644.5910000000003">3.64s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7626.8998334115095">7.63s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="20230.879999999997">20.23s</td>
+										</tr>
 										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:00</span></code></td>
 											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
@@ -320,6 +437,16 @@
 									</thead>
 									<tbody>
 										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td data-numeric-value="2958.59765625"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="129.57421875"><span class="filesize">130<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="68.0322265625"><span class="filesize">68<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×10</span></td>
+											<td data-numeric-value="1435.7734375"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×79</span></td>
+											<td data-numeric-value="1011.0263671875"><span class="filesize">1011<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×31</span></td>
+											<td data-numeric-value="129.8505859375"><span class="filesize">130<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="2686.927734375"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×152</span></td>
+										</tr>
+										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:00</span></code></td>
 											<td data-numeric-value="2957.9814453125"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
 											<td data-numeric-value="129.9052734375"><span class="filesize">130<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
@@ -352,14 +479,19 @@
 				<td class="leaderboard-number"><a href="#site-503edf30" class="leaderboard-directlink"><span>#</span>3</a></td>
 				<td class="leaderboard-hide-md leaderboard-trophies">🥉
 				</td>
-				<td class="leaderboard-url"><a href="https://www.wix.com/website-template/view/html/2101"><code class="url">wix.com/website-template/view/html/2101</code></a></td>
-				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2101","requestedUrl":"https://www.wix.com/website-template/view/html/2101","timestamp":1628780440004,"ranks":{"hundos":3,"performance":3,"accessibility":1,"cumulative":3},"lighthouse":{"version":"8.2.0","performance":0.37,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":286},"firstContentfulPaint":3461.5840000000003,"firstMeaningfulPaint":3461.5840000000003,"speedIndex":10446.848843841659,"largestContentfulPaint":3882.8455000000004,"totalBlockingTime":1555.4769999999992,"cumulativeLayoutShift":0,"timeToInteractive":16792.4015,"maxPotentialFirstInputDelay":436,"timeToFirstByte":141.087,"weight":{"summary":"192 requests • 1,905 KiB","total":1951099,"image":43742,"imageCount":16,"script":1449565,"scriptCount":86,"document":122647,"font":89754,"fontCount":4,"stylesheet":54604,"stylesheetCount":10,"thirdParty":1688106,"thirdPartyCount":152},"run":{"number":1,"total":3},"axe":{"passes":898,"violations":12}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">286</span></td>
-				<td class="leaderboard-data-right"><a href="#details-503edf30" data-expand-alias data-js-only><span class="leaderboard-expand-icon"></span> Data<span class="leaderboard-hide-md"> and Graphs</span></a></td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2101"><code class="">wix.com/website-template/view/html/2101</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2101","requestedUrl":"https://www.wix.com/website-template/view/html/2101","timestamp":1628782713477,"ranks":{"hundos":3,"performance":3,"accessibility":1,"cumulative":3},"lighthouse":{"version":"8.2.0","performance":0.25,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":274},"firstContentfulPaint":3430.3640000000005,"firstMeaningfulPaint":3430.3640000000005,"speedIndex":8873.827624160229,"largestContentfulPaint":6691.569,"totalBlockingTime":2209.500000000001,"cumulativeLayoutShift":0,"timeToInteractive":17917.634,"maxPotentialFirstInputDelay":456,"timeToFirstByte":144.464,"weight":{"summary":"200 requests • 1,917 KiB","total":1962557,"image":43410,"imageCount":16,"script":1455137,"scriptCount":86,"document":123315,"font":89699,"fontCount":4,"stylesheet":54605,"stylesheetCount":10,"thirdParty":1699658,"thirdPartyCount":162},"run":{"number":2,"total":3},"axe":{"passes":898,"violations":12},"previousRanks":{"hundos":3,"performance":3,"accessibility":1,"cumulative":3}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">274</span></td>
+				<td>
+					<a href="#details-503edf30" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
 			</tr>
 			<tr class="leaderboard-list-entry-details">
 				<td colspan="6">
-					<details class="leaderboard-details" id="details-503edf30">
-						<summary>Show Data</summary>
+					<details class="" id="details-503edf30">
+						<span>Show Data</span>
 						<div class="layout color--lighthouse">
 							<div class="tablewrap">
 								<table data-make-chart class="results">
@@ -378,6 +510,22 @@
 										</tr>
 									</thead>
 									<tbody>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool">🥉</td>
+											<td>#3</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="25">25</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3430.3640000000005&SI=8873.827624160229&LCP=6691.569&TTI=17917.634&TBT=2209.500000000001&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>12</td>
+										</tr>
 										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:00</span></code></td>
 											<td class="results-bool">🥉</td>
@@ -422,6 +570,24 @@
 									</thead>
 									<tbody>
 										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6691.569">6.69s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="456">456ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="2209.500000000001">2.21s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3430.3640000000005">3.43s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="8873.827624160229">8.87s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="17917.634">17.92s</td>
+										</tr>
+										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:00</span></code></td>
 											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
 											<td data-numeric-value="3882.8455000000004">3.88s</td>
@@ -464,6 +630,16 @@
 										</tr>
 									</thead>
 									<tbody>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td data-numeric-value="1916.5595703125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="120.4248046875"><span class="filesize">120<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="53.3251953125"><span class="filesize">53<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×10</span></td>
+											<td data-numeric-value="1421.0322265625"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×86</span></td>
+											<td data-numeric-value="42.392578125"><span class="filesize">42<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×16</span></td>
+											<td data-numeric-value="87.5966796875"><span class="filesize">88<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1659.822265625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×162</span></td>
+										</tr>
 										<tr>
 											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:00</span></code></td>
 											<td data-numeric-value="1905.3701171875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
@@ -508,8 +684,8 @@
 	</dl>
 </div><!-- /leaderboard-wrapper -->
 
-		<footer>
-			MIT licensed. Read <a href="https://www.zachleat.com/web/speedlify/">the blog post</a>. Source code on <a href="https://github.com/zachleat/speedlify/">GitHub</a>. Created by <a href="https://www.zachleat.com/">@zachleat</a>.
+		<footer class="text-center">
+			web vitals tech
 		</footer>
 
 		<script defer src="/chartist.js"></script>

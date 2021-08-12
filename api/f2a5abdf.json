@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/techno/",
+  "requestedUrl": "https://wordpress.org/themes/techno/",
+  "timestamp": 1628788590679,
+  "ranks": {
+    "hundos": 105,
+    "performance": 106,
+    "accessibility": 99,
+    "cumulative": 104
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 328
+  },
+  "firstContentfulPaint": 3243.9649999999997,
+  "firstMeaningfulPaint": 3243.9649999999997,
+  "speedIndex": 4180.399777019078,
+  "largestContentfulPaint": 3543.7679999999996,
+  "totalBlockingTime": 912.4665000000014,
+  "cumulativeLayoutShift": 0.0023335310485627916,
+  "timeToInteractive": 9716.859500000002,
+  "maxPotentialFirstInputDelay": 438,
+  "timeToFirstByte": 187.53300000000002,
+  "weight": {
+    "summary": "55 requests • 1,037 KiB",
+    "total": 1061675,
+    "image": 188700,
+    "imageCount": 12,
+    "script": 718315,
+    "scriptCount": 20,
+    "document": 16514,
+    "font": 38063,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 925571,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1288,
+    "violations": 5
+  }
+}

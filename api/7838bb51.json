@@ -1,47 +1,47 @@
 {
   "url": "https://wordpress.org/themes/astra/",
   "requestedUrl": "https://wordpress.org/themes/astra/",
-  "timestamp": 1628780655030,
+  "timestamp": 1628782811236,
   "ranks": {
-    "hundos": 3,
-    "performance": 2,
-    "accessibility": 1,
-    "cumulative": 3
+    "hundos": 139,
+    "performance": 133,
+    "accessibility": 22,
+    "cumulative": 138
   },
   "lighthouse": {
     "version": "8.2.0",
-    "performance": 0.51,
+    "performance": 0.53,
     "accessibility": 0.98,
     "bestPractices": 0.8,
     "seo": 0.95,
-    "total": 324
+    "total": 326
   },
-  "firstContentfulPaint": 3233.4900000000007,
-  "firstMeaningfulPaint": 8932.486,
-  "speedIndex": 4031.4351409716264,
-  "largestContentfulPaint": 4280.902,
-  "totalBlockingTime": 904.3715000000002,
-  "cumulativeLayoutShift": 0.0013205941518147787,
-  "timeToInteractive": 9870.8855,
-  "maxPotentialFirstInputDelay": 379,
-  "timeToFirstByte": 42.74799999999999,
+  "firstContentfulPaint": 3216.9429999999998,
+  "firstMeaningfulPaint": 8666.211,
+  "speedIndex": 4177.176491848114,
+  "largestContentfulPaint": 3775.1404999999995,
+  "totalBlockingTime": 913,
+  "cumulativeLayoutShift": 0.0013773422241210938,
+  "timeToInteractive": 9773.466499999999,
+  "maxPotentialFirstInputDelay": 384,
+  "timeToFirstByte": 175.05200000000002,
   "weight": {
     "summary": "56 requests • 912 KiB",
-    "total": 934078,
+    "total": 934141,
     "image": 50173,
     "imageCount": 12,
-    "script": 718890,
+    "script": 718939,
     "scriptCount": 20,
-    "document": 16987,
-    "font": 47977,
+    "document": 16968,
+    "font": 47978,
     "fontCount": 5,
-    "stylesheet": 99516,
+    "stylesheet": 99525,
     "stylesheetCount": 13,
-    "thirdParty": 796911,
+    "thirdParty": 796959,
     "thirdPartyCount": 45
   },
   "run": {
-    "number": 3,
+    "number": 1,
     "total": 3
   },
   "axe": {
@@ -50,7 +50,7 @@
   },
   "previousRanks": {
     "hundos": 3,
-    "performance": 3,
+    "performance": 2,
     "accessibility": 1,
     "cumulative": 3
   }
