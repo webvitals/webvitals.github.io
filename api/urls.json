@@ -59,26 +59,6 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/news-bulletin/": {
-    "requestedUrl": "https://wordpress.org/themes/news-bulletin/",
-    "url": "https://wordpress.org/themes/news-bulletin/",
-    "hash": "122a5727",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://link-in-bio-11ty.glitch.me/": {
-    "requestedUrl": "https://link-in-bio-11ty.glitch.me/",
-    "url": "https://link-in-bio-11ty.glitch.me/",
-    "hash": "1262a36d",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
   "https://filtercoffee.netlify.app/": {
     "requestedUrl": "https://filtercoffee.netlify.app/",
     "url": "https://filtercoffee.netlify.app/",
@@ -99,6 +79,26 @@
     ],
     "vertical": "wix"
   },
+  "https://wordpress.org/themes/twentysixteen/": {
+    "requestedUrl": "https://wordpress.org/themes/twentysixteen/",
+    "url": "https://wordpress.org/themes/twentysixteen/",
+    "hash": "13ba1279",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://link-in-bio-11ty.glitch.me/": {
+    "requestedUrl": "https://link-in-bio-11ty.glitch.me/",
+    "url": "https://link-in-bio-11ty.glitch.me/",
+    "hash": "1262a36d",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
   "https://yaes.netlify.app/": {
     "requestedUrl": "https://yaes.netlify.app/",
     "url": "https://yaes.netlify.app/",
@@ -109,10 +109,10 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/twentysixteen/": {
-    "requestedUrl": "https://wordpress.org/themes/twentysixteen/",
-    "url": "https://wordpress.org/themes/twentysixteen/",
-    "hash": "13ba1279",
+  "https://wordpress.org/themes/news-bulletin/": {
+    "requestedUrl": "https://wordpress.org/themes/news-bulletin/",
+    "url": "https://wordpress.org/themes/news-bulletin/",
+    "hash": "122a5727",
     "categories": [
       "wix",
       "wordpress"
@@ -189,16 +189,6 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/clubnature/": {
-    "requestedUrl": "https://wordpress.org/themes/clubnature/",
-    "url": "https://wordpress.org/themes/clubnature/",
-    "hash": "1dc03ce5",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
   "https://wordpress.org/themes/bravada/": {
     "requestedUrl": "https://wordpress.org/themes/bravada/",
     "url": "https://wordpress.org/themes/bravada/",
@@ -209,10 +199,10 @@
     ],
     "vertical": "wix"
   },
-  "https://yatas.netlify.app/": {
-    "requestedUrl": "https://yatas.netlify.app/",
-    "url": "https://yatas.netlify.app/",
-    "hash": "23a6121",
+  "https://wordpress.org/themes/clubnature/": {
+    "requestedUrl": "https://wordpress.org/themes/clubnature/",
+    "url": "https://wordpress.org/themes/clubnature/",
+    "hash": "1dc03ce5",
     "categories": [
       "wix",
       "wordpress"
@@ -223,6 +213,16 @@
     "requestedUrl": "https://wordpress.org/themes/consultare-light/",
     "url": "https://wordpress.org/themes/consultare-light/",
     "hash": "257f3fbd",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://yatas.netlify.app/": {
+    "requestedUrl": "https://yatas.netlify.app/",
+    "url": "https://yatas.netlify.app/",
+    "hash": "23a6121",
     "categories": [
       "wix",
       "wordpress"
@@ -259,20 +259,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/feminine-fashion/": {
-    "requestedUrl": "https://wordpress.org/themes/feminine-fashion/",
-    "url": "https://wordpress.org/themes/feminine-fashion/",
-    "hash": "26f0f2b6",
+  "https://wordpress.org/themes/envo-ecommerce/": {
+    "requestedUrl": "https://wordpress.org/themes/envo-ecommerce/",
+    "url": "https://wordpress.org/themes/envo-ecommerce/",
+    "hash": "28f3a423",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/envo-ecommerce/": {
-    "requestedUrl": "https://wordpress.org/themes/envo-ecommerce/",
-    "url": "https://wordpress.org/themes/envo-ecommerce/",
-    "hash": "28f3a423",
+  "https://wordpress.org/themes/feminine-fashion/": {
+    "requestedUrl": "https://wordpress.org/themes/feminine-fashion/",
+    "url": "https://wordpress.org/themes/feminine-fashion/",
+    "hash": "26f0f2b6",
     "categories": [
       "wix",
       "wordpress"
@@ -359,20 +359,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/neve/": {
-    "requestedUrl": "https://wordpress.org/themes/neve/",
-    "url": "https://wordpress.org/themes/neve/",
-    "hash": "2ff9a13c",
+  "https://wordpress.org/themes/newsup/": {
+    "requestedUrl": "https://wordpress.org/themes/newsup/",
+    "url": "https://wordpress.org/themes/newsup/",
+    "hash": "307f72ee",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/newsup/": {
-    "requestedUrl": "https://wordpress.org/themes/newsup/",
-    "url": "https://wordpress.org/themes/newsup/",
-    "hash": "307f72ee",
+  "https://wordpress.org/themes/neve/": {
+    "requestedUrl": "https://wordpress.org/themes/neve/",
+    "url": "https://wordpress.org/themes/neve/",
+    "hash": "2ff9a13c",
     "categories": [
       "wix",
       "wordpress"
@@ -509,20 +509,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/customify/": {
-    "requestedUrl": "https://wordpress.org/themes/customify/",
-    "url": "https://wordpress.org/themes/customify/",
-    "hash": "3dc504a1",
+  "https://wordpress.org/themes/newsever/": {
+    "requestedUrl": "https://wordpress.org/themes/newsever/",
+    "url": "https://wordpress.org/themes/newsever/",
+    "hash": "3e7e65cf",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/newsever/": {
-    "requestedUrl": "https://wordpress.org/themes/newsever/",
-    "url": "https://wordpress.org/themes/newsever/",
-    "hash": "3e7e65cf",
+  "https://wordpress.org/themes/customify/": {
+    "requestedUrl": "https://wordpress.org/themes/customify/",
+    "url": "https://wordpress.org/themes/customify/",
+    "hash": "3dc504a1",
     "categories": [
       "wix",
       "wordpress"
@@ -729,16 +729,6 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/designexo/": {
-    "requestedUrl": "https://wordpress.org/themes/designexo/",
-    "url": "https://wordpress.org/themes/designexo/",
-    "hash": "56e66084",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
   "https://wordpress.org/themes/twentytwelve/": {
     "requestedUrl": "https://wordpress.org/themes/twentytwelve/",
     "url": "https://wordpress.org/themes/twentytwelve/",
@@ -783,6 +773,16 @@
     "requestedUrl": "https://wordpress.org/themes/tutorstarter/",
     "url": "https://wordpress.org/themes/tutorstarter/",
     "hash": "5d05321b",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/designexo/": {
+    "requestedUrl": "https://wordpress.org/themes/designexo/",
+    "url": "https://wordpress.org/themes/designexo/",
+    "hash": "56e66084",
     "categories": [
       "wix",
       "wordpress"
@@ -1109,20 +1109,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/garden-lite/": {
-    "requestedUrl": "https://wordpress.org/themes/garden-lite/",
-    "url": "https://wordpress.org/themes/garden-lite/",
-    "hash": "77c9ad66",
+  "https://wordpress.org/themes/wp-bootstrap-starter/": {
+    "requestedUrl": "https://wordpress.org/themes/wp-bootstrap-starter/",
+    "url": "https://wordpress.org/themes/wp-bootstrap-starter/",
+    "hash": "763fbce6",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/wp-bootstrap-starter/": {
-    "requestedUrl": "https://wordpress.org/themes/wp-bootstrap-starter/",
-    "url": "https://wordpress.org/themes/wp-bootstrap-starter/",
-    "hash": "763fbce6",
+  "https://wordpress.org/themes/garden-lite/": {
+    "requestedUrl": "https://wordpress.org/themes/garden-lite/",
+    "url": "https://wordpress.org/themes/garden-lite/",
+    "hash": "77c9ad66",
     "categories": [
       "wix",
       "wordpress"
@@ -1229,20 +1229,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/timesnews/": {
-    "requestedUrl": "https://wordpress.org/themes/timesnews/",
-    "url": "https://wordpress.org/themes/timesnews/",
-    "hash": "8395e68d",
+  "https://wordpress.org/themes/buddyx/": {
+    "requestedUrl": "https://wordpress.org/themes/buddyx/",
+    "url": "https://wordpress.org/themes/buddyx/",
+    "hash": "84c3d3d2",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/buddyx/": {
-    "requestedUrl": "https://wordpress.org/themes/buddyx/",
-    "url": "https://wordpress.org/themes/buddyx/",
-    "hash": "84c3d3d2",
+  "https://wordpress.org/themes/timesnews/": {
+    "requestedUrl": "https://wordpress.org/themes/timesnews/",
+    "url": "https://wordpress.org/themes/timesnews/",
+    "hash": "8395e68d",
     "categories": [
       "wix",
       "wordpress"
@@ -1279,6 +1279,16 @@
     ],
     "vertical": "wix"
   },
+  "https://www.wix.com/website-template/view/html/2686": {
+    "requestedUrl": "https://www.wix.com/website-template/view/html/2686",
+    "url": "https://www.wix.com/website-template/view/html/2686",
+    "hash": "8baecbb8",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
   "https://wordpress.org/themes/blocksy/": {
     "requestedUrl": "https://wordpress.org/themes/blocksy/",
     "url": "https://wordpress.org/themes/blocksy/",
@@ -1289,49 +1299,10 @@
     ],
     "vertical": "wix"
   },
-  "https://www.wix.com/website-template/view/html/2686": {
-    "requestedUrl": "https://www.wix.com/website-template/view/html/2686",
-    "url": "https://www.wix.com/website-template/view/html/2686",
-    "hash": "8baecbb8",
-    "categories": [
-      "wordpress"
-    ],
-    "vertical": "wordpress"
-  },
   "https://wordpress.org/themes/spintech/": {
     "requestedUrl": "https://wordpress.org/themes/spintech/",
     "url": "https://wordpress.org/themes/spintech/",
     "hash": "8bd9631a",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://wordpress.org/themes/travel-nomad/": {
-    "requestedUrl": "https://wordpress.org/themes/travel-nomad/",
-    "url": "https://wordpress.org/themes/travel-nomad/",
-    "hash": "8c494318",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://wordpress.org/themes/sinatra/": {
-    "requestedUrl": "https://wordpress.org/themes/sinatra/",
-    "url": "https://wordpress.org/themes/sinatra/",
-    "hash": "8d1e2416",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://wordpress.org/themes/barlow/": {
-    "requestedUrl": "https://wordpress.org/themes/barlow/",
-    "url": "https://wordpress.org/themes/barlow/",
-    "hash": "8decdd81",
     "categories": [
       "wix",
       "wordpress"
@@ -1348,10 +1319,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/calliope/": {
-    "requestedUrl": "https://wordpress.org/themes/calliope/",
-    "url": "https://wordpress.org/themes/calliope/",
-    "hash": "8e8a07b5",
+  "https://wordpress.org/themes/travel-nomad/": {
+    "requestedUrl": "https://wordpress.org/themes/travel-nomad/",
+    "url": "https://wordpress.org/themes/travel-nomad/",
+    "hash": "8c494318",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/barlow/": {
+    "requestedUrl": "https://wordpress.org/themes/barlow/",
+    "url": "https://wordpress.org/themes/barlow/",
+    "hash": "8decdd81",
     "categories": [
       "wix",
       "wordpress"
@@ -1362,6 +1343,16 @@
     "requestedUrl": "https://wordpress.org/themes/primebulletin/",
     "url": "https://wordpress.org/themes/primebulletin/",
     "hash": "8eb42666",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/calliope/": {
+    "requestedUrl": "https://wordpress.org/themes/calliope/",
+    "url": "https://wordpress.org/themes/calliope/",
+    "hash": "8e8a07b5",
     "categories": [
       "wix",
       "wordpress"
@@ -1383,7 +1374,18 @@
     "url": "https://wordpress.org/themes/twentytwentyone/",
     "hash": "95796d40",
     "categories": [
-      "wix"
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/sinatra/": {
+    "requestedUrl": "https://wordpress.org/themes/sinatra/",
+    "url": "https://wordpress.org/themes/sinatra/",
+    "hash": "8d1e2416",
+    "categories": [
+      "wix",
+      "wordpress"
     ],
     "vertical": "wix"
   },
@@ -1411,26 +1413,6 @@
     "requestedUrl": "https://wordpress.org/themes/donovan/",
     "url": "https://wordpress.org/themes/donovan/",
     "hash": "98c2d057",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://wordpress.org/themes/wen-travel/": {
-    "requestedUrl": "https://wordpress.org/themes/wen-travel/",
-    "url": "https://wordpress.org/themes/wen-travel/",
-    "hash": "9a711e4d",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://wordpress.org/themes/customizr/": {
-    "requestedUrl": "https://wordpress.org/themes/customizr/",
-    "url": "https://wordpress.org/themes/customizr/",
-    "hash": "9ba03516",
     "categories": [
       "wix",
       "wordpress"
@@ -1527,20 +1509,20 @@
     ],
     "vertical": "wix"
   },
-  "https://11ty-netlify-jumpstart.netlify.app/": {
-    "requestedUrl": "https://11ty-netlify-jumpstart.netlify.app/",
-    "url": "https://11ty-netlify-jumpstart.netlify.app/",
-    "hash": "ac8f87f5",
+  "https://wordpress.org/themes/poseidon/": {
+    "requestedUrl": "https://wordpress.org/themes/poseidon/",
+    "url": "https://wordpress.org/themes/poseidon/",
+    "hash": "aa2971c1",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/poseidon/": {
-    "requestedUrl": "https://wordpress.org/themes/poseidon/",
-    "url": "https://wordpress.org/themes/poseidon/",
-    "hash": "aa2971c1",
+  "https://11ty-netlify-jumpstart.netlify.app/": {
+    "requestedUrl": "https://11ty-netlify-jumpstart.netlify.app/",
+    "url": "https://11ty-netlify-jumpstart.netlify.app/",
+    "hash": "ac8f87f5",
     "categories": [
       "wix",
       "wordpress"
@@ -1577,10 +1559,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/simple-press/": {
-    "requestedUrl": "https://wordpress.org/themes/simple-press/",
-    "url": "https://wordpress.org/themes/simple-press/",
-    "hash": "b200c3a0",
+  "https://wordpress.org/themes/customizr/": {
+    "requestedUrl": "https://wordpress.org/themes/customizr/",
+    "url": "https://wordpress.org/themes/customizr/",
+    "hash": "9ba03516",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/wen-travel/": {
+    "requestedUrl": "https://wordpress.org/themes/wen-travel/",
+    "url": "https://wordpress.org/themes/wen-travel/",
+    "hash": "9a711e4d",
     "categories": [
       "wix",
       "wordpress"
@@ -1617,20 +1609,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/dynamico/": {
-    "requestedUrl": "https://wordpress.org/themes/dynamico/",
-    "url": "https://wordpress.org/themes/dynamico/",
-    "hash": "b372957e",
+  "https://wordpress.org/themes/simple-press/": {
+    "requestedUrl": "https://wordpress.org/themes/simple-press/",
+    "url": "https://wordpress.org/themes/simple-press/",
+    "hash": "b200c3a0",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/one-page-business/": {
-    "requestedUrl": "https://wordpress.org/themes/one-page-business/",
-    "url": "https://wordpress.org/themes/one-page-business/",
-    "hash": "b4b21095",
+  "https://wordpress.org/themes/dynamico/": {
+    "requestedUrl": "https://wordpress.org/themes/dynamico/",
+    "url": "https://wordpress.org/themes/dynamico/",
+    "hash": "b372957e",
     "categories": [
       "wix",
       "wordpress"
@@ -1657,10 +1649,10 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/envira/": {
-    "requestedUrl": "https://wordpress.org/themes/envira/",
-    "url": "https://wordpress.org/themes/envira/",
-    "hash": "bb00ab83",
+  "https://wordpress.org/themes/one-page-business/": {
+    "requestedUrl": "https://wordpress.org/themes/one-page-business/",
+    "url": "https://wordpress.org/themes/one-page-business/",
+    "hash": "b4b21095",
     "categories": [
       "wix",
       "wordpress"
@@ -1671,6 +1663,16 @@
     "requestedUrl": "https://wordpress.org/themes/consulting/",
     "url": "https://wordpress.org/themes/consulting/",
     "hash": "bb8e8e78",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/envira/": {
+    "requestedUrl": "https://wordpress.org/themes/envira/",
+    "url": "https://wordpress.org/themes/envira/",
+    "hash": "bb00ab83",
     "categories": [
       "wix",
       "wordpress"
@@ -1697,20 +1699,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/newslay/": {
-    "requestedUrl": "https://wordpress.org/themes/newslay/",
-    "url": "https://wordpress.org/themes/newslay/",
-    "hash": "c0fbcb1f",
+  "https://wordpress.org/themes/flash/": {
+    "requestedUrl": "https://wordpress.org/themes/flash/",
+    "url": "https://wordpress.org/themes/flash/",
+    "hash": "c1c29474",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/flash/": {
-    "requestedUrl": "https://wordpress.org/themes/flash/",
-    "url": "https://wordpress.org/themes/flash/",
-    "hash": "c1c29474",
+  "https://wordpress.org/themes/newslay/": {
+    "requestedUrl": "https://wordpress.org/themes/newslay/",
+    "url": "https://wordpress.org/themes/newslay/",
+    "hash": "c0fbcb1f",
     "categories": [
       "wix",
       "wordpress"
@@ -1737,20 +1739,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/top-store/": {
-    "requestedUrl": "https://wordpress.org/themes/top-store/",
-    "url": "https://wordpress.org/themes/top-store/",
-    "hash": "c43596bd",
+  "https://wordpress.org/themes/wpcstore/": {
+    "requestedUrl": "https://wordpress.org/themes/wpcstore/",
+    "url": "https://wordpress.org/themes/wpcstore/",
+    "hash": "c5d2da7f",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/wpcstore/": {
-    "requestedUrl": "https://wordpress.org/themes/wpcstore/",
-    "url": "https://wordpress.org/themes/wpcstore/",
-    "hash": "c5d2da7f",
+  "https://wordpress.org/themes/top-store/": {
+    "requestedUrl": "https://wordpress.org/themes/top-store/",
+    "url": "https://wordpress.org/themes/top-store/",
+    "hash": "c43596bd",
     "categories": [
       "wix",
       "wordpress"
@@ -1777,20 +1779,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/storebiz/": {
-    "requestedUrl": "https://wordpress.org/themes/storebiz/",
-    "url": "https://wordpress.org/themes/storebiz/",
-    "hash": "c7a7aaa",
+  "https://wordpress.org/themes/newscard/": {
+    "requestedUrl": "https://wordpress.org/themes/newscard/",
+    "url": "https://wordpress.org/themes/newscard/",
+    "hash": "c981b37f",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/newscard/": {
-    "requestedUrl": "https://wordpress.org/themes/newscard/",
-    "url": "https://wordpress.org/themes/newscard/",
-    "hash": "c981b37f",
+  "https://wordpress.org/themes/storebiz/": {
+    "requestedUrl": "https://wordpress.org/themes/storebiz/",
+    "url": "https://wordpress.org/themes/storebiz/",
+    "hash": "c7a7aaa",
     "categories": [
       "wix",
       "wordpress"
@@ -1811,16 +1813,6 @@
     "requestedUrl": "https://wordpress.org/themes/ecommerce-plus/",
     "url": "https://wordpress.org/themes/ecommerce-plus/",
     "hash": "cc0425cb",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
-  "https://wordpress.org/themes/oh-my-blog/": {
-    "requestedUrl": "https://wordpress.org/themes/oh-my-blog/",
-    "url": "https://wordpress.org/themes/oh-my-blog/",
-    "hash": "ccd8c0b1",
     "categories": [
       "wix",
       "wordpress"
@@ -1867,6 +1859,26 @@
     ],
     "vertical": "wix"
   },
+  "https://wordpress.org/themes/oh-my-blog/": {
+    "requestedUrl": "https://wordpress.org/themes/oh-my-blog/",
+    "url": "https://wordpress.org/themes/oh-my-blog/",
+    "hash": "ccd8c0b1",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/saturnwp/": {
+    "requestedUrl": "https://wordpress.org/themes/saturnwp/",
+    "url": "https://wordpress.org/themes/saturnwp/",
+    "hash": "d89a276c",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
   "https://wordpress.org/themes/bovity/": {
     "requestedUrl": "https://wordpress.org/themes/bovity/",
     "url": "https://wordpress.org/themes/bovity/",
@@ -1877,20 +1889,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/hestia/": {
-    "requestedUrl": "https://wordpress.org/themes/hestia/",
-    "url": "https://wordpress.org/themes/hestia/",
-    "hash": "dd0f64e6",
+  "https://wordpress.org/themes/honeypress-dark/": {
+    "requestedUrl": "https://wordpress.org/themes/honeypress-dark/",
+    "url": "https://wordpress.org/themes/honeypress-dark/",
+    "hash": "de4a09e7",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/honeypress-dark/": {
-    "requestedUrl": "https://wordpress.org/themes/honeypress-dark/",
-    "url": "https://wordpress.org/themes/honeypress-dark/",
-    "hash": "de4a09e7",
+  "https://wordpress.org/themes/hestia/": {
+    "requestedUrl": "https://wordpress.org/themes/hestia/",
+    "url": "https://wordpress.org/themes/hestia/",
+    "hash": "dd0f64e6",
     "categories": [
       "wix",
       "wordpress"
@@ -1937,16 +1949,6 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/saturnwp/": {
-    "requestedUrl": "https://wordpress.org/themes/saturnwp/",
-    "url": "https://wordpress.org/themes/saturnwp/",
-    "hash": "d89a276c",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
   "https://eleventy-chirpy-blog-template.netlify.app/": {
     "requestedUrl": "https://eleventy-chirpy-blog-template.netlify.app/",
     "url": "https://eleventy-chirpy-blog-template.netlify.app/",
@@ -1967,20 +1969,20 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/imperion/": {
-    "requestedUrl": "https://wordpress.org/themes/imperion/",
-    "url": "https://wordpress.org/themes/imperion/",
-    "hash": "e73d006f",
+  "https://wordpress.org/themes/futurio/": {
+    "requestedUrl": "https://wordpress.org/themes/futurio/",
+    "url": "https://wordpress.org/themes/futurio/",
+    "hash": "e7b39e22",
     "categories": [
       "wix",
       "wordpress"
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/futurio/": {
-    "requestedUrl": "https://wordpress.org/themes/futurio/",
-    "url": "https://wordpress.org/themes/futurio/",
-    "hash": "e7b39e22",
+  "https://wordpress.org/themes/imperion/": {
+    "requestedUrl": "https://wordpress.org/themes/imperion/",
+    "url": "https://wordpress.org/themes/imperion/",
+    "hash": "e73d006f",
     "categories": [
       "wix",
       "wordpress"
@@ -2017,16 +2019,6 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/businessfocus/": {
-    "requestedUrl": "https://wordpress.org/themes/businessfocus/",
-    "url": "https://wordpress.org/themes/businessfocus/",
-    "hash": "eb9e258e",
-    "categories": [
-      "wix",
-      "wordpress"
-    ],
-    "vertical": "wix"
-  },
   "https://books.trey.cc/": {
     "requestedUrl": "https://books.trey.cc/",
     "url": "https://books.trey.cc/",
@@ -2037,10 +2029,10 @@
     ],
     "vertical": "wix"
   },
-  "https://wordpress.org/themes/twentytwenty/": {
-    "requestedUrl": "https://wordpress.org/themes/twentytwenty/",
-    "url": "https://wordpress.org/themes/twentytwenty/",
-    "hash": "eeed6224",
+  "https://wordpress.org/themes/businessfocus/": {
+    "requestedUrl": "https://wordpress.org/themes/businessfocus/",
+    "url": "https://wordpress.org/themes/businessfocus/",
+    "hash": "eb9e258e",
     "categories": [
       "wix",
       "wordpress"
@@ -2051,6 +2043,16 @@
     "requestedUrl": "https://wordpress.org/themes/axtria/",
     "url": "https://wordpress.org/themes/axtria/",
     "hash": "efd21b3",
+    "categories": [
+      "wix",
+      "wordpress"
+    ],
+    "vertical": "wix"
+  },
+  "https://wordpress.org/themes/twentytwenty/": {
+    "requestedUrl": "https://wordpress.org/themes/twentytwenty/",
+    "url": "https://wordpress.org/themes/twentytwenty/",
+    "hash": "eeed6224",
     "categories": [
       "wix",
       "wordpress"
