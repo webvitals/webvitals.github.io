@@ -1,0 +1,57 @@
+{
+  "url": "https://wordpress.org/themes/twentytwenty/",
+  "requestedUrl": "https://wordpress.org/themes/twentytwenty/",
+  "timestamp": 1628782799784,
+  "ranks": {
+    "hundos": 125,
+    "performance": 117,
+    "accessibility": 165,
+    "cumulative": 130
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.54,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 327
+  },
+  "firstContentfulPaint": 3065.0370000000003,
+  "firstMeaningfulPaint": 8820.712,
+  "speedIndex": 3958.799003710406,
+  "largestContentfulPaint": 3863.5150000000003,
+  "totalBlockingTime": 887,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9838.062999999998,
+  "maxPotentialFirstInputDelay": 378,
+  "timeToFirstByte": 174.76,
+  "weight": {
+    "summary": "56 requests • 906 KiB",
+    "total": 927462,
+    "image": 43615,
+    "imageCount": 12,
+    "script": 718935,
+    "scriptCount": 20,
+    "document": 16867,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 790388,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1901,
+    "violations": 6
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 1
+  }
+}

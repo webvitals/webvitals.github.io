@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/consultare-light/",
+  "requestedUrl": "https://wordpress.org/themes/consultare-light/",
+  "timestamp": 1628788569879,
+  "ranks": {
+    "hundos": 68,
+    "performance": 73,
+    "accessibility": 137,
+    "cumulative": 67
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 330
+  },
+  "firstContentfulPaint": 3289.2540000000017,
+  "firstMeaningfulPaint": 3289.2540000000017,
+  "speedIndex": 4886.886755778647,
+  "largestContentfulPaint": 3538.4375000000005,
+  "totalBlockingTime": 686,
+  "cumulativeLayoutShift": 0.002467210716671414,
+  "timeToInteractive": 10147.631000000001,
+  "maxPotentialFirstInputDelay": 436,
+  "timeToFirstByte": 172.06999999999996,
+  "weight": {
+    "summary": "55 requests • 1,235 KiB",
+    "total": 1265143,
+    "image": 392124,
+    "imageCount": 12,
+    "script": 718048,
+    "scriptCount": 20,
+    "document": 16847,
+    "font": 38064,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1128996,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 950,
+    "violations": 5
+  }
+}

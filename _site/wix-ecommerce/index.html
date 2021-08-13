@@ -1,0 +1,1661 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Web Vitals Monitoring</title>
+		<meta name="description" content="Benchmark web pages over time.">
+		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/css/site.css">
+		<script>
+		document.documentElement.classList.add("js");
+		</script>
+	</head>
+	<body class="dark:bg-gray-900 dark:text-white">
+
+<nav class="bg-gray-800">
+  <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+    <div class="relative flex items-center justify-between h-16">
+      <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+      </div>
+      <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
+        <div class="flex-shrink-0 flex items-center font-black">
+        	<a href="/ ">webvitals</a>
+        </div>
+        <div class=" sm:block ml-6">
+          <div class="flex space-x-4">
+            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+            <a href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</a>
+
+          </div>
+        </div>
+      </div>
+      <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+        <button class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
+          <span class="sr-only">View notifications</span>
+          <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+</nav>
+
+	
+		<p class="font-black text-3xl m-8 text-center mb-2">
+			Wix templates web vitals benchmark over time.
+			
+		</p>
+		<p class="text-center p-4">
+				Updates <em>at most</em> once every 1380 minutes. Only the last 10 runs (and the oldest run) are shown.
+		</p>
+
+
+		<div class="bg-gray-800 text-white">
+	<table class="">
+		<thead>
+			<tr>
+				<th>Rank</th>
+				<th class="leaderboard-hide-md">Trophy</th>
+				<th>URL</th>
+				<th class="leaderboard-score">Lighthouse</th>
+				<th class="leaderboard-data-right"><span data-sr-only>Data and Graphs</span></th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			<tr class="leaderboard-list-entry" id="site-6ce2fcd9">
+				<td class="leaderboard-number"><a href="#site-6ce2fcd9" class="leaderboard-directlink"><span>#</span>1</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">🥇
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/1903"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/1903","requestedUrl":"https://www.wix.com/website-template/view/html/1903","timestamp":1628858088665,"ranks":{"hundos":1,"performance":1,"accessibility":5,"cumulative":1},"lighthouse":{"version":"8.2.0","performance":0.53,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":302},"firstContentfulPaint":3319.977,"firstMeaningfulPaint":3319.977,"speedIndex":7412.518997554792,"largestContentfulPaint":3319.977,"totalBlockingTime":697,"cumulativeLayoutShift":0,"timeToInteractive":15489.512499999997,"maxPotentialFirstInputDelay":279,"timeToFirstByte":132.85900000000004,"weight":{"summary":"156 requests • 2,290 KiB","total":2345256,"image":856969,"imageCount":32,"script":1023823,"scriptCount":66,"document":110120,"font":163483,"fontCount":6,"stylesheet":16388,"stylesheetCount":5,"thirdParty":2090198,"thirdPartyCount":126},"run":{"number":1,"total":1},"axe":{"passes":646,"violations":17},"previousRanks":{"hundos":92,"performance":100,"accessibility":39,"cumulative":85}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">302</span></td>
+				<td>
+					<a href="#details-6ce2fcd9" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-6ce2fcd9">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool">🥇</td>
+											<td>#1</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="53">53</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3319.977&SI=7412.518997554792&LCP=3319.977&TTI=15489.512499999997&TBT=697&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>17</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"></td>
+											<td>#85</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="47">47</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3220.8860000000004&SI=7355.959240454839&LCP=3220.8860000000004&TTI=16103.926000000003&TBT=1181.9999999999982&CLS=0.00543504912388318&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>17</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3319.977">3.32s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="279">279ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="697">697ms</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3319.977">3.32s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7412.518997554792">7.41s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="15489.512499999997">15.49s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3220.8860000000004">3.22s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="301">301ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1181.9999999999982">1.18s</td>
+											<td class="results-bool"></td>
+											<td>0.01</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3220.8860000000004">3.22s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7355.959240454839">7.36s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16103.926000000003">16.10s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td data-numeric-value="2290.2890625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="107.5390625"><span class="filesize">108<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.00390625"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="999.8271484375"><span class="filesize">1000<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×66</span></td>
+											<td data-numeric-value="836.8837890625"><span class="filesize">837<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×32</span></td>
+											<td data-numeric-value="159.6513671875"><span class="filesize">160<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×6</span></td>
+											<td data-numeric-value="2041.208984375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×126</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td data-numeric-value="2297.6513671875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="107.5634765625"><span class="filesize">108<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.00390625"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1001.1416015625"><span class="filesize">1001<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×66</span></td>
+											<td data-numeric-value="841.859375"><span class="filesize">842<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×32</span></td>
+											<td data-numeric-value="159.701171875"><span class="filesize">160<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×6</span></td>
+											<td data-numeric-value="2048.310546875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×126</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-fc018fde">
+				<td class="leaderboard-number"><a href="#site-fc018fde" class="leaderboard-directlink"><span>#</span>2</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">🥈
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2952"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2952","requestedUrl":"https://www.wix.com/website-template/view/html/2952","timestamp":1628858047629,"ranks":{"hundos":2,"performance":2,"accessibility":2,"cumulative":2},"lighthouse":{"version":"8.2.0","performance":0.52,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":301},"firstContentfulPaint":3449.1800000000003,"firstMeaningfulPaint":3449.1800000000003,"speedIndex":6566.807790730162,"largestContentfulPaint":3449.1800000000003,"totalBlockingTime":736.4999999999982,"cumulativeLayoutShift":0.005963343388300618,"timeToInteractive":15614.293999999998,"maxPotentialFirstInputDelay":298,"timeToFirstByte":129.311,"weight":{"summary":"149 requests • 1,871 KiB","total":1916374,"image":468442,"imageCount":28,"script":1005448,"scriptCount":62,"document":109246,"font":141161,"fontCount":5,"stylesheet":16388,"stylesheetCount":5,"thirdParty":1661826,"thirdPartyCount":118},"run":{"number":1,"total":1},"axe":{"passes":895,"violations":11},"previousRanks":{"hundos":116,"performance":123,"accessibility":11,"cumulative":111}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">301</span></td>
+				<td>
+					<a href="#details-fc018fde" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-fc018fde">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool">🥈</td>
+											<td>#2</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="52">52</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3449.1800000000003&SI=6566.807790730162&LCP=3449.1800000000003&TTI=15614.293999999998&TBT=736.4999999999982&CLS=0.005963343388300618&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>11</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"></td>
+											<td>#111</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="46">46</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3483.555&SI=7181.784820544099&LCP=3483.555&TTI=16421.760000000002&TBT=1103.5000000000018&CLS=0.005963343388300618&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>11</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3449.1800000000003">3.45s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="298">298ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="736.4999999999982">736ms</td>
+											<td class="results-bool"></td>
+											<td>0.01</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3449.1800000000003">3.45s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6566.807790730162">6.57s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="15614.293999999998">15.61s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3483.555">3.48s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="283">283ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1103.5000000000018">1.10s</td>
+											<td class="results-bool"></td>
+											<td>0.01</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3483.555">3.48s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7181.784820544099">7.18s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16421.760000000002">16.42s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td data-numeric-value="1871.458984375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="106.685546875"><span class="filesize">107<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.00390625"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="981.8828125"><span class="filesize">982<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×62</span></td>
+											<td data-numeric-value="457.462890625"><span class="filesize">457<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="137.8525390625"><span class="filesize">138<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1622.876953125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×118</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td data-numeric-value="1871.71484375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="106.2685546875"><span class="filesize">106<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.00390625"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="982.73828125"><span class="filesize">983<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×62</span></td>
+											<td data-numeric-value="457.533203125"><span class="filesize">458<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="137.8525390625"><span class="filesize">138<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1622.8701171875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×117</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-b7e9e8d5">
+				<td class="leaderboard-number"><a href="#site-b7e9e8d5" class="leaderboard-directlink"><span>#</span>3</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">🥉
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2959"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2959","requestedUrl":"https://www.wix.com/website-template/view/html/2959","timestamp":1628858076231,"ranks":{"hundos":3,"performance":3,"accessibility":1,"cumulative":3},"lighthouse":{"version":"8.2.0","performance":0.48,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":297},"firstContentfulPaint":3424.1639999999998,"firstMeaningfulPaint":3424.1639999999998,"speedIndex":7543.676555542475,"largestContentfulPaint":3424.1639999999998,"totalBlockingTime":888.9999999999982,"cumulativeLayoutShift":0,"timeToInteractive":16252.710000000001,"maxPotentialFirstInputDelay":299,"timeToFirstByte":139.675,"weight":{"summary":"176 requests • 1,665 KiB","total":1704557,"image":145493,"imageCount":37,"script":1113252,"scriptCount":82,"document":127784,"font":116624,"fontCount":4,"stylesheet":16293,"stylesheetCount":5,"thirdParty":1425294,"thirdPartyCount":144},"run":{"number":1,"total":1},"axe":{"passes":1153,"violations":9},"previousRanks":{"hundos":173,"performance":158,"accessibility":3,"cumulative":149}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">297</span></td>
+				<td>
+					<a href="#details-b7e9e8d5" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-b7e9e8d5">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool">🥉</td>
+											<td>#3</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="48">48</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3424.1639999999998&SI=7543.676555542475&LCP=3424.1639999999998&TTI=16252.710000000001&TBT=888.9999999999982&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>9</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"></td>
+											<td>#149</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="44">44</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3445.1709999999994&SI=7234.001433594732&LCP=3445.1709999999994&TTI=16587.815&TBT=1260.5&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>9</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3424.1639999999998">3.42s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="299">299ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="888.9999999999982">0.89s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3424.1639999999998">3.42s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7543.676555542475">7.54s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16252.710000000001">16.25s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3445.1709999999994">3.45s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="297">297ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1260.5">1.26s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3445.1709999999994">3.45s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7234.001433594732">7.23s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16587.815">16.59s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td data-numeric-value="1664.6064453125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="124.7890625"><span class="filesize">125<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="15.9111328125"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1087.16015625"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×82</span></td>
+											<td data-numeric-value="142.0830078125"><span class="filesize">142<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×37</span></td>
+											<td data-numeric-value="113.890625"><span class="filesize">114<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1391.888671875"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×144</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td data-numeric-value="1665.9189453125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="124.52734375"><span class="filesize">125<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="15.9091796875"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1088.3203125"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×82</span></td>
+											<td data-numeric-value="141.966796875"><span class="filesize">142<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×37</span></td>
+											<td data-numeric-value="113.9453125"><span class="filesize">114<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1393.373046875"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×144</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-21fcb4f5">
+				<td class="leaderboard-number"><a href="#site-21fcb4f5" class="leaderboard-directlink"><span>#</span>4</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2948"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2948","requestedUrl":"https://www.wix.com/website-template/view/html/2948","timestamp":1628858103090,"ranks":{"hundos":4,"performance":4,"accessibility":4,"cumulative":4},"lighthouse":{"version":"8.2.0","performance":0.46,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":295},"firstContentfulPaint":3488.45,"firstMeaningfulPaint":3488.45,"speedIndex":9104.906571876645,"largestContentfulPaint":3488.45,"totalBlockingTime":905,"cumulativeLayoutShift":0,"timeToInteractive":17133.295,"maxPotentialFirstInputDelay":270,"timeToFirstByte":151.886,"weight":{"summary":"186 requests • 2,007 KiB","total":2055159,"image":454771,"imageCount":41,"script":1051269,"scriptCount":73,"document":121205,"font":220500,"fontCount":7,"stylesheet":16388,"stylesheetCount":5,"thirdParty":1788337,"thirdPartyCount":155},"run":{"number":1,"total":1},"axe":{"passes":1146,"violations":16},"previousRanks":{"hundos":49,"performance":50,"accessibility":35,"cumulative":36}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">295</span></td>
+				<td>
+					<a href="#details-21fcb4f5" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-21fcb4f5">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:35</span></code></td>
+											<td class="results-bool"></td>
+											<td>#4</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="46">46</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3488.45&SI=9104.906571876645&LCP=3488.45&TTI=17133.295&TBT=905&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>16</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">22:41</span></code></td>
+											<td class="results-bool"></td>
+											<td>#36</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="50">50</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3130.578&SI=9603.461718354047&LCP=3130.578&TTI=16880.485999999997&TBT=850.5000000000009&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>16</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:35</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3488.45">3.49s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="270">270ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="905">0.91s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3488.45">3.49s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="9104.906571876645">9.10s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="17133.295">17.13s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">22:41</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3130.578">3.13s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="254">254ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="850.5000000000009">0.85s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3130.578">3.13s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="9603.461718354047">9.60s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16880.485999999997">16.88s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:35</span></code></td>
+											<td data-numeric-value="2006.9912109375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="118.3642578125"><span class="filesize">118<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.00390625"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1026.6298828125"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×73</span></td>
+											<td data-numeric-value="444.1123046875"><span class="filesize">444<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×41</span></td>
+											<td data-numeric-value="215.33203125"><span class="filesize">215<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×7</span></td>
+											<td data-numeric-value="1746.4228515625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×155</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">22:41</span></code></td>
+											<td data-numeric-value="1995.2744140625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="118.193359375"><span class="filesize">118<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.00390625"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="1023.0048828125"><span class="filesize">1023<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×73</span></td>
+											<td data-numeric-value="444.6240234375"><span class="filesize">445<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×41</span></td>
+											<td data-numeric-value="215.390625"><span class="filesize">215<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×7</span></td>
+											<td data-numeric-value="1734.7861328125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×143</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-a94a9e59">
+				<td class="leaderboard-number"><a href="#site-a94a9e59" class="leaderboard-directlink"><span>#</span>5</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2238"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2238","requestedUrl":"https://www.wix.com/website-template/view/html/2238","timestamp":1628858063372,"ranks":{"hundos":6,"performance":6,"accessibility":7,"cumulative":5},"lighthouse":{"version":"8.2.0","performance":0.44,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":293},"firstContentfulPaint":3054.356,"firstMeaningfulPaint":3054.356,"speedIndex":10548.429646542387,"largestContentfulPaint":3054.356,"totalBlockingTime":1591.000000000004,"cumulativeLayoutShift":0.0037159190853122254,"timeToInteractive":22347.823000000004,"maxPotentialFirstInputDelay":334.00000000000364,"timeToFirstByte":145.89999999999998,"weight":{"summary":"241 requests • 2,758 KiB","total":2824092,"image":247324,"imageCount":23,"script":1952578,"scriptCount":104,"document":180371,"font":128957,"fontCount":11,"stylesheet":115992,"stylesheetCount":20,"thirdParty":2502824,"thirdPartyCount":195},"run":{"number":1,"total":1},"axe":{"passes":1282,"violations":23},"previousRanks":{"hundos":293,"performance":302,"accessibility":47,"cumulative":278}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">293</span></td>
+				<td>
+					<a href="#details-a94a9e59" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-a94a9e59">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool"></td>
+											<td>#5</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="44">44</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3054.356&SI=10548.429646542387&LCP=3054.356&TTI=22347.823000000004&TBT=1591.000000000004&CLS=0.0037159190853122254&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>23</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">14:38</span></code></td>
+											<td class="results-bool"></td>
+											<td>#278</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="40">40</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3200.3120000000004&SI=10493.618837043277&LCP=3200.3120000000004&TTI=22551.721&TBT=2629&CLS=0.0037159190853122254&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>23</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3054.356">3.05s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="334.00000000000364">334ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1591.000000000004">1.59s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3054.356">3.05s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="10548.429646542387">10.55s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="22347.823000000004">22.35s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">14:38</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3200.3120000000004">3.20s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="518">518ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="2629">2.63s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3200.3120000000004">3.20s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="10493.618837043277">10.49s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="22551.721">22.55s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:34</span></code></td>
+											<td data-numeric-value="2757.90234375"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="176.1435546875"><span class="filesize">176<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="113.2734375"><span class="filesize">113<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×20</span></td>
+											<td data-numeric-value="1906.814453125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×104</span></td>
+											<td data-numeric-value="241.52734375"><span class="filesize">242<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×23</span></td>
+											<td data-numeric-value="125.9345703125"><span class="filesize">126<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×11</span></td>
+											<td data-numeric-value="2444.1640625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×195</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">14:38</span></code></td>
+											<td data-numeric-value="2755.2529296875"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="176.18359375"><span class="filesize">176<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="113.2734375"><span class="filesize">113<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×18</span></td>
+											<td data-numeric-value="1905.45703125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×104</span></td>
+											<td data-numeric-value="241.7705078125"><span class="filesize">242<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×23</span></td>
+											<td data-numeric-value="125.9365234375"><span class="filesize">126<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×9</span></td>
+											<td data-numeric-value="2442.150390625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×192</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-42b73fb4">
+				<td class="leaderboard-number"><a href="#site-42b73fb4" class="leaderboard-directlink"><span>#</span>6</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2949"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2949","requestedUrl":"https://www.wix.com/website-template/view/html/2949","timestamp":1628858021533,"ranks":{"hundos":5,"performance":5,"accessibility":8,"cumulative":6},"lighthouse":{"version":"8.2.0","performance":0.44,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":293},"firstContentfulPaint":3045.7309999999998,"firstMeaningfulPaint":3045.7309999999998,"speedIndex":8786.736998420263,"largestContentfulPaint":3045.7309999999998,"totalBlockingTime":1675.5,"cumulativeLayoutShift":0.030268780939724474,"timeToInteractive":22751.650499999996,"maxPotentialFirstInputDelay":978,"timeToFirstByte":128.19599999999997,"weight":{"summary":"252 requests • 3,031 KiB","total":3104040,"image":558468,"imageCount":51,"script":1873601,"scriptCount":105,"document":258963,"font":127516,"fontCount":5,"stylesheet":61810,"stylesheetCount":11,"thirdParty":2703434,"thirdPartyCount":209},"run":{"number":1,"total":1},"axe":{"passes":4377,"violations":27},"previousRanks":{"hundos":343,"performance":345,"accessibility":51,"cumulative":335}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">293</span></td>
+				<td>
+					<a href="#details-42b73fb4" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-42b73fb4">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td class="results-bool"></td>
+											<td>#6</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="44">44</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3045.7309999999998&SI=8786.736998420263&LCP=3045.7309999999998&TTI=22751.650499999996&TBT=1675.5&CLS=0.030268780939724474&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>27</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">14:37</span></code></td>
+											<td class="results-bool"></td>
+											<td>#335</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="38">38</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3312.197&SI=9079.228158761473&LCP=3312.197&TTI=23364.280999999995&TBT=3965.4999999999977&CLS=0.05452411322775634&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>27</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3045.7309999999998">3.05s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="978">0.98s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1675.5">1.68s</td>
+											<td class="results-bool"></td>
+											<td>0.03</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3045.7309999999998">3.05s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="8786.736998420263">8.79s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="22751.650499999996">22.75s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">14:37</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3312.197">3.31s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="1681">1.68s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="3965.4999999999977">3.97s</td>
+											<td class="results-bool"></td>
+											<td>0.05</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3312.197">3.31s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="9079.228158761473">9.08s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="23364.280999999995">23.36s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td data-numeric-value="3031.2890625"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="252.8935546875"><span class="filesize">253<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="60.361328125"><span class="filesize">60<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×11</span></td>
+											<td data-numeric-value="1829.6884765625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×105</span></td>
+											<td data-numeric-value="545.37890625"><span class="filesize">545<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×51</span></td>
+											<td data-numeric-value="124.52734375"><span class="filesize">125<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="2640.072265625"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×209</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">14:37</span></code></td>
+											<td data-numeric-value="3071.806640625"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="253.263671875"><span class="filesize">253<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="60.361328125"><span class="filesize">60<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×11</span></td>
+											<td data-numeric-value="1829.15625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×105</span></td>
+											<td data-numeric-value="586.443359375"><span class="filesize">586<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×54</span></td>
+											<td data-numeric-value="124.58203125"><span class="filesize">125<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="2680.8076171875"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×213</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-bc3edc99">
+				<td class="leaderboard-number"><a href="#site-bc3edc99" class="leaderboard-directlink"><span>#</span>7</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/2898"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/2898","requestedUrl":"https://www.wix.com/website-template/view/html/2898","timestamp":1628858034543,"ranks":{"hundos":7,"performance":7,"accessibility":3,"cumulative":7},"lighthouse":{"version":"8.2.0","performance":0.37,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":286},"firstContentfulPaint":3273.7055000000005,"firstMeaningfulPaint":3592.2055000000005,"speedIndex":6739.6375417396075,"largestContentfulPaint":7303.9325,"totalBlockingTime":764.0000000000009,"cumulativeLayoutShift":0.000020350874829562795,"timeToInteractive":13763.694500000001,"maxPotentialFirstInputDelay":279.0000000000018,"timeToFirstByte":127.576,"weight":{"summary":"156 requests • 2,204 KiB","total":2256891,"image":57870,"imageCount":28,"script":935697,"scriptCount":70,"document":112603,"font":109973,"fontCount":4,"stylesheet":9437,"stylesheetCount":4,"thirdParty":1998961,"thirdPartyCount":127},"run":{"number":1,"total":1},"axe":{"passes":1205,"violations":15},"previousRanks":{"hundos":53,"performance":54,"accessibility":31,"cumulative":53}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">286</span></td>
+				<td>
+					<a href="#details-bc3edc99" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-bc3edc99">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td class="results-bool"></td>
+											<td>#7</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="37">37</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3273.7055000000005&SI=6739.6375417396075&LCP=7303.9325&TTI=13763.694500000001&TBT=764.0000000000009&CLS=0.000020350874829562795&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>15</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"></td>
+											<td>#53</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="49">49</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3433.2749999999996&SI=5804.453623124574&LCP=3433.2749999999996&TTI=14287.643&TBT=1042.000000000001&CLS=0.000020350874829562795&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>15</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool">🥇</td>
+											<td>#1</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="48">48</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3143.049&SI=6352.331967449012&LCP=3143.049&TTI=13190.364000000001&TBT=1391.500000000001&CLS=0.000020350874829562795&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>15</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:01</span></code></td>
+											<td class="results-bool">🥇</td>
+											<td>#1</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="50">50</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3415.486&SI=5510.162277587383&LCP=3415.486&TTI=14212.46&TBT=1000.4999999999991&CLS=0.000020350874829562795&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>15</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7303.9325">7.30s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="279.0000000000018">279ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="764.0000000000009">764ms</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3273.7055000000005">3.27s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6739.6375417396075">6.74s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="13763.694500000001">13.76s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3433.2749999999996">3.43s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="279">279ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1042.000000000001">1.04s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3433.2749999999996">3.43s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="5804.453623124574">5.80s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="14287.643">14.29s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3143.049">3.14s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="445">445ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1391.500000000001">1.39s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3143.049">3.14s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6352.331967449012">6.35s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="13190.364000000001">13.19s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:01</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3415.486">3.42s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="299">299ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1000.4999999999991">1.00s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3415.486">3.42s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="5510.162277587383">5.51s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="14212.46">14.21s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td data-numeric-value="2203.9951171875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="109.9638671875"><span class="filesize">110<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="9.2158203125"><span class="filesize">9<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="913.7666015625"><span class="filesize">914<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×70</span></td>
+											<td data-numeric-value="56.513671875"><span class="filesize">57<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="107.3955078125"><span class="filesize">107<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1952.1103515625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×127</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:45</span></code></td>
+											<td data-numeric-value="2148.71484375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="109.927734375"><span class="filesize">110<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="9.2158203125"><span class="filesize">9<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="914.53515625"><span class="filesize">915<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×70</span></td>
+											<td data-numeric-value="57.5302734375"><span class="filesize">58<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="107.3935546875"><span class="filesize">107<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1896.82421875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×127</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:38</span></code></td>
+											<td data-numeric-value="2203.61328125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="109.7392578125"><span class="filesize">110<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="9.2158203125"><span class="filesize">9<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="912.9423828125"><span class="filesize">913<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×70</span></td>
+											<td data-numeric-value="57.095703125"><span class="filesize">57<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="107.51953125"><span class="filesize">108<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1951.849609375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×127</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">11:01</span></code></td>
+											<td data-numeric-value="2205.6953125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="110.24609375"><span class="filesize">110<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="9.2158203125"><span class="filesize">9<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="912.8212890625"><span class="filesize">913<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×70</span></td>
+											<td data-numeric-value="57.525390625"><span class="filesize">58<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×28</span></td>
+											<td data-numeric-value="107.3955078125"><span class="filesize">107<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1954.0302734375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×128</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-3b2b4d74">
+				<td class="leaderboard-number"><a href="#site-3b2b4d74" class="leaderboard-directlink"><span>#</span>8</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">
+				</td>
+				<td class="w-full"><a href="https://www.wix.com/website-template/view/html/1896"><code class="">name</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://www.wix.com/website-template/view/html/1896","requestedUrl":"https://www.wix.com/website-template/view/html/1896","timestamp":1628858003147,"ranks":{"hundos":8,"performance":8,"accessibility":6,"cumulative":8},"lighthouse":{"version":"8.2.0","performance":0.31,"accessibility":0.69,"bestPractices":0.8,"seo":1,"total":280},"firstContentfulPaint":3209.568,"firstMeaningfulPaint":3209.568,"speedIndex":8802.321698094183,"largestContentfulPaint":6996.784,"totalBlockingTime":1025.5,"cumulativeLayoutShift":0.0018916626346238193,"timeToInteractive":16119.309999999998,"maxPotentialFirstInputDelay":347,"timeToFirstByte":145.06799999999998,"weight":{"summary":"187 requests • 1,938 KiB","total":1984547,"image":91360,"imageCount":27,"script":1442257,"scriptCount":82,"document":118114,"font":99114,"fontCount":4,"stylesheet":53752,"stylesheetCount":9,"thirdParty":1728724,"thirdPartyCount":150},"run":{"number":1,"total":1},"axe":{"passes":558,"violations":19},"previousRanks":{"hundos":495,"performance":490,"accessibility":41,"cumulative":473}}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">280</span></td>
+				<td>
+					<a href="#details-3b2b4d74" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-3b2b4d74">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td class="results-bool"></td>
+											<td>#8</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="31">31</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=3209.568&SI=8802.321698094183&LCP=6996.784&TTI=16119.309999999998&TBT=1025.5&CLS=0.0018916626346238193&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>19</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:44</span></code></td>
+											<td class="results-bool"></td>
+											<td>#473</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="32">32</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=2914.687&SI=7402.212484451715&LCP=6285.583999999999&TTI=16372.703000000001&TBT=1282.5000000000005&CLS=0.0018916626346238193&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="69">69</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool">🚫</td>
+											<td>19</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6996.784">7.00s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="347">347ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1025.5">1.03s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3209.568">3.21s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="8802.321698094183">8.80s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16119.309999999998">16.12s</td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:44</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="6285.583999999999">6.29s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="409">409ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1282.5000000000005">1.28s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="2914.687">2.91s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="7402.212484451715">7.40s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="16372.703000000001">16.37s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">08:33</span></code></td>
+											<td data-numeric-value="1938.0341796875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="115.345703125"><span class="filesize">115<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="52.4921875"><span class="filesize">52<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×9</span></td>
+											<td data-numeric-value="1408.4541015625"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×82</span></td>
+											<td data-numeric-value="89.21875"><span class="filesize">89<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×27</span></td>
+											<td data-numeric-value="96.791015625"><span class="filesize">97<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1688.20703125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×150</span></td>
+										</tr>
+										<tr>
+											<td><code class="date">Aug 12 <span class="leaderboard-hide-md">18:44</span></code></td>
+											<td data-numeric-value="1943.9990234375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="114.83984375"><span class="filesize">115<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="52.490234375"><span class="filesize">52<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×9</span></td>
+											<td data-numeric-value="1409.1044921875"><span class="filesize">1<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×82</span></td>
+											<td data-numeric-value="89.6904296875"><span class="filesize">90<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×27</span></td>
+											<td data-numeric-value="96.79296875"><span class="filesize">97<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="1692.59375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×152</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+		</tbody>
+	</table><!-- /leaderboard -->
+	<dl class="category-stats">
+		<div class="category-stats-entry">
+			<dt>Performance 💯</dt>
+			<dd>0<span> / 8</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>Accessibility 💯</dt>
+			<dd>0<span> / 8</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>Best Practices 💯</dt>
+			<dd>0<span> / 8</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>SEO 💯</dt>
+			<dd>8<span> / 8</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>Perfect 4×💯</dt>
+			<dd>0<span> / 8</span></dd>
+		</div>
+	</dl>
+</div><!-- /leaderboard-wrapper -->
+
+		<footer class="text-center">
+			web vitals tech
+		</footer>
+
+		<script defer src="/chartist.js"></script>
+		<script defer src="/script.js"></script>
+	</body>
+</html>

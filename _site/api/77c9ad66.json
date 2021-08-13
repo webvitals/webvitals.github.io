@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/garden-lite/",
+  "requestedUrl": "https://wordpress.org/themes/garden-lite/",
+  "timestamp": 1628785461186,
+  "ranks": {
+    "hundos": 40,
+    "performance": 48,
+    "accessibility": 121,
+    "cumulative": 39
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.58,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 331
+  },
+  "firstContentfulPaint": 3064.4669999999996,
+  "firstMeaningfulPaint": 3064.4669999999996,
+  "speedIndex": 4299.057402925406,
+  "largestContentfulPaint": 3522.816,
+  "totalBlockingTime": 721.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10514.146,
+  "maxPotentialFirstInputDelay": 380,
+  "timeToFirstByte": 151.51,
+  "weight": {
+    "summary": "55 requests • 1,503 KiB",
+    "total": 1538887,
+    "image": 665979,
+    "imageCount": 12,
+    "script": 718102,
+    "scriptCount": 20,
+    "document": 16683,
+    "font": 38063,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1402827,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1026,
+    "violations": 5
+  }
+}

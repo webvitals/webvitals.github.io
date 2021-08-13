@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/sydney/",
+  "requestedUrl": "https://wordpress.org/themes/sydney/",
+  "timestamp": 1628787117002,
+  "ranks": {
+    "hundos": 166,
+    "performance": 168,
+    "accessibility": 63,
+    "cumulative": 166
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.5,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 323
+  },
+  "firstContentfulPaint": 3304.751,
+  "firstMeaningfulPaint": 8745.492000000002,
+  "speedIndex": 4400.4551112386425,
+  "largestContentfulPaint": 4681.855,
+  "totalBlockingTime": 705.2155000000002,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10185.11,
+  "maxPotentialFirstInputDelay": 343,
+  "timeToFirstByte": 200.48099999999997,
+  "weight": {
+    "summary": "56 requests • 1,151 KiB",
+    "total": 1178326,
+    "image": 294575,
+    "imageCount": 12,
+    "script": 718942,
+    "scriptCount": 20,
+    "document": 16747,
+    "font": 47979,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1041339,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1872,
+    "violations": 5
+  }
+}

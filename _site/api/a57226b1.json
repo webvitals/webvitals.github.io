@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/bard/",
+  "requestedUrl": "https://wordpress.org/themes/bard/",
+  "timestamp": 1628783602736,
+  "ranks": {
+    "hundos": 19,
+    "performance": 27,
+    "accessibility": 160,
+    "cumulative": 36
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 332
+  },
+  "firstContentfulPaint": 3212.756,
+  "firstMeaningfulPaint": 8682.476,
+  "speedIndex": 4192.694299795865,
+  "largestContentfulPaint": 3477.9299999999994,
+  "totalBlockingTime": 683.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10438.284,
+  "maxPotentialFirstInputDelay": 351,
+  "timeToFirstByte": 167.094,
+  "weight": {
+    "summary": "56 requests • 1,349 KiB",
+    "total": 1381078,
+    "image": 497038,
+    "imageCount": 12,
+    "script": 718910,
+    "scriptCount": 20,
+    "document": 17092,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1243804,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1918,
+    "violations": 6
+  }
+}

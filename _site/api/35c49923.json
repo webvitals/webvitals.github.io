@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/enternews/",
+  "requestedUrl": "https://wordpress.org/themes/enternews/",
+  "timestamp": 1628787419534,
+  "ranks": {
+    "hundos": 7,
+    "performance": 9,
+    "accessibility": 86,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 333
+  },
+  "firstContentfulPaint": 3231.3329999999996,
+  "firstMeaningfulPaint": 3231.3329999999996,
+  "speedIndex": 4004.535002060794,
+  "largestContentfulPaint": 3478.8494999999994,
+  "totalBlockingTime": 674,
+  "cumulativeLayoutShift": 0.001319846471150716,
+  "timeToInteractive": 10115.033500000001,
+  "maxPotentialFirstInputDelay": 370,
+  "timeToFirstByte": 172.35500000000002,
+  "weight": {
+    "summary": "56 requests • 1,147 KiB",
+    "total": 1174311,
+    "image": 290737,
+    "imageCount": 12,
+    "script": 718487,
+    "scriptCount": 20,
+    "document": 17026,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99548,
+    "stylesheetCount": 13,
+    "thirdParty": 1037545,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1466,
+    "violations": 5
+  }
+}

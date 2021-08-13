@@ -1,0 +1,50 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/731",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/731",
+  "timestamp": 1628826826199,
+  "ranks": {
+    "hundos": 412,
+    "performance": 400,
+    "accessibility": 288,
+    "cumulative": 397
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.35,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 284
+  },
+  "firstContentfulPaint": 3098.9030000000002,
+  "firstMeaningfulPaint": 3098.9030000000002,
+  "speedIndex": 6178.100457264106,
+  "largestContentfulPaint": 6158.817,
+  "totalBlockingTime": 1066.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 15627.739000000001,
+  "maxPotentialFirstInputDelay": 365,
+  "timeToFirstByte": 141.845,
+  "weight": {
+    "summary": "169 requests • 1,531 KiB",
+    "total": 1567950,
+    "image": 46214,
+    "imageCount": 21,
+    "script": 1148580,
+    "scriptCount": 74,
+    "document": 118438,
+    "font": 40478,
+    "fontCount": 1,
+    "stylesheet": 38432,
+    "stylesheetCount": 8,
+    "thirdParty": 1312604,
+    "thirdPartyCount": 131
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "error": "{}"
+  }
+}

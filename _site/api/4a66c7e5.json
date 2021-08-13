@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/envo-storefront/",
+  "requestedUrl": "https://wordpress.org/themes/envo-storefront/",
+  "timestamp": 1628783687179,
+  "ranks": {
+    "hundos": 108,
+    "performance": 110,
+    "accessibility": 57,
+    "cumulative": 107
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 328
+  },
+  "firstContentfulPaint": 3307.0670000000005,
+  "firstMeaningfulPaint": 8756.107,
+  "speedIndex": 4270.139568787789,
+  "largestContentfulPaint": 3563.402,
+  "totalBlockingTime": 892.5,
+  "cumulativeLayoutShift": 0.001319846471150716,
+  "timeToInteractive": 10054.960000000001,
+  "maxPotentialFirstInputDelay": 350,
+  "timeToFirstByte": 175.76,
+  "weight": {
+    "summary": "56 requests • 1,022 KiB",
+    "total": 1046664,
+    "image": 163107,
+    "imageCount": 12,
+    "script": 718841,
+    "scriptCount": 20,
+    "document": 16701,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99502,
+    "stylesheetCount": 13,
+    "thirdParty": 909893,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1882,
+    "violations": 5
+  }
+}

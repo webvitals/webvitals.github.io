@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/bravada/",
+  "requestedUrl": "https://wordpress.org/themes/bravada/",
+  "timestamp": 1628787157893,
+  "ranks": {
+    "hundos": 6,
+    "performance": 8,
+    "accessibility": 189,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 333
+  },
+  "firstContentfulPaint": 3169.746,
+  "firstMeaningfulPaint": 8618.837999999998,
+  "speedIndex": 3934.7886470877347,
+  "largestContentfulPaint": 3526.898,
+  "totalBlockingTime": 647.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10476.543000000001,
+  "maxPotentialFirstInputDelay": 345,
+  "timeToFirstByte": 154.745,
+  "weight": {
+    "summary": "56 requests • 1,198 KiB",
+    "total": 1226327,
+    "image": 341941,
+    "imageCount": 12,
+    "script": 718756,
+    "scriptCount": 20,
+    "document": 17592,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1088730,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1842,
+    "violations": 6
+  }
+}

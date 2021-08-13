@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/hello-elementor/",
+  "requestedUrl": "https://wordpress.org/themes/hello-elementor/",
+  "timestamp": 1628784897779,
+  "ranks": {
+    "hundos": 67,
+    "performance": 61,
+    "accessibility": 188,
+    "cumulative": 75
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 330
+  },
+  "firstContentfulPaint": 3198.707,
+  "firstMeaningfulPaint": 8697.220000000001,
+  "speedIndex": 3912.1616877999445,
+  "largestContentfulPaint": 3468.352,
+  "totalBlockingTime": 851.8360000000011,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9727.0655,
+  "maxPotentialFirstInputDelay": 380,
+  "timeToFirstByte": 50.61699999999999,
+  "weight": {
+    "summary": "56 requests • 1,025 KiB",
+    "total": 1049652,
+    "image": 166202,
+    "imageCount": 12,
+    "script": 718945,
+    "scriptCount": 20,
+    "document": 16476,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99516,
+    "stylesheetCount": 13,
+    "thirdParty": 912988,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1856,
+    "violations": 6
+  }
+}

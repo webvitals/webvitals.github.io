@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/airi/",
+  "requestedUrl": "https://wordpress.org/themes/airi/",
+  "timestamp": 1628783377332,
+  "ranks": {
+    "hundos": 64,
+    "performance": 65,
+    "accessibility": 69,
+    "cumulative": 64
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 330
+  },
+  "firstContentfulPaint": 3227.874000000001,
+  "firstMeaningfulPaint": 8545.119,
+  "speedIndex": 4011.434805576062,
+  "largestContentfulPaint": 3466.1465000000007,
+  "totalBlockingTime": 793.3215,
+  "cumulativeLayoutShift": 0.0013773422241210938,
+  "timeToInteractive": 9919.1915,
+  "maxPotentialFirstInputDelay": 359,
+  "timeToFirstByte": 160.16699999999997,
+  "weight": {
+    "summary": "56 requests • 1,060 KiB",
+    "total": 1085860,
+    "image": 202392,
+    "imageCount": 12,
+    "script": 718817,
+    "scriptCount": 20,
+    "document": 16612,
+    "font": 47979,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 949155,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1860,
+    "violations": 5
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/designexo/",
+  "requestedUrl": "https://wordpress.org/themes/designexo/",
+  "timestamp": 1628786005250,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 87,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.64,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 337
+  },
+  "firstContentfulPaint": 2578.6929999999998,
+  "firstMeaningfulPaint": 3216.258999999999,
+  "speedIndex": 4228.9324369494625,
+  "largestContentfulPaint": 3488.0199999999995,
+  "totalBlockingTime": 565.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10333.479,
+  "maxPotentialFirstInputDelay": 384,
+  "timeToFirstByte": 162.50700000000003,
+  "weight": {
+    "summary": "56 requests • 1,320 KiB",
+    "total": 1351377,
+    "image": 467915,
+    "imageCount": 12,
+    "script": 718428,
+    "scriptCount": 20,
+    "document": 16975,
+    "font": 47976,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1214699,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1462,
+    "violations": 5
+  }
+}

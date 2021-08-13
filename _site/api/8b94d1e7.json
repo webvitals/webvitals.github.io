@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/blocksy/",
+  "requestedUrl": "https://wordpress.org/themes/blocksy/",
+  "timestamp": 1628785230454,
+  "ranks": {
+    "hundos": 65,
+    "performance": 62,
+    "accessibility": 15,
+    "cumulative": 65
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.57,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 330
+  },
+  "firstContentfulPaint": 3250.556000000001,
+  "firstMeaningfulPaint": 8425.678,
+  "speedIndex": 3924.3059357478587,
+  "largestContentfulPaint": 3490.8065,
+  "totalBlockingTime": 841.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9941.5275,
+  "maxPotentialFirstInputDelay": 373,
+  "timeToFirstByte": 176.519,
+  "weight": {
+    "summary": "56 requests • 1,034 KiB",
+    "total": 1059237,
+    "image": 175333,
+    "imageCount": 12,
+    "script": 718951,
+    "scriptCount": 20,
+    "document": 16908,
+    "font": 47978,
+    "fontCount": 5,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 922102,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1912,
+    "violations": 5
+  }
+}

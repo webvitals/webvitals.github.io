@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/customizr/",
+  "requestedUrl": "https://wordpress.org/themes/customizr/",
+  "timestamp": 1628785546618,
+  "ranks": {
+    "hundos": 42,
+    "performance": 51,
+    "accessibility": 48,
+    "cumulative": 41
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.58,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 331
+  },
+  "firstContentfulPaint": 3337.4399999999996,
+  "firstMeaningfulPaint": 8673.268000000002,
+  "speedIndex": 4540.582194793874,
+  "largestContentfulPaint": 3939.425,
+  "totalBlockingTime": 530.5,
+  "cumulativeLayoutShift": 0.0015616683959960936,
+  "timeToInteractive": 10486.768,
+  "maxPotentialFirstInputDelay": 315,
+  "timeToFirstByte": 176.375,
+  "weight": {
+    "summary": "56 requests • 1,361 KiB",
+    "total": 1393806,
+    "image": 510162,
+    "imageCount": 12,
+    "script": 718952,
+    "scriptCount": 20,
+    "document": 16656,
+    "font": 47976,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1256945,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1886,
+    "violations": 5
+  }
+}

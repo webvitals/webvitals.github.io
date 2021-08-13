@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/storebiz/",
+  "requestedUrl": "https://wordpress.org/themes/storebiz/",
+  "timestamp": 1628784183074,
+  "ranks": {
+    "hundos": 171,
+    "performance": 169,
+    "accessibility": 125,
+    "cumulative": 171
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.5,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 323
+  },
+  "firstContentfulPaint": 3221.108,
+  "firstMeaningfulPaint": 3850.7075000000004,
+  "speedIndex": 4727.9185094736395,
+  "largestContentfulPaint": 4380.893999999999,
+  "totalBlockingTime": 812,
+  "cumulativeLayoutShift": 0.001319846471150716,
+  "timeToInteractive": 9969.9085,
+  "maxPotentialFirstInputDelay": 344,
+  "timeToFirstByte": 169.365,
+  "weight": {
+    "summary": "55 requests • 919 KiB",
+    "total": 941488,
+    "image": 68555,
+    "imageCount": 12,
+    "script": 718248,
+    "scriptCount": 20,
+    "document": 16538,
+    "font": 38064,
+    "fontCount": 4,
+    "stylesheet": 99548,
+    "stylesheetCount": 13,
+    "thirdParty": 805579,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1002,
+    "violations": 5
+  }
+}

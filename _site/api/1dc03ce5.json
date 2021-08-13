@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/clubnature/",
+  "requestedUrl": "https://wordpress.org/themes/clubnature/",
+  "timestamp": 1628788436884,
+  "ranks": {
+    "hundos": 163,
+    "performance": 164,
+    "accessibility": 116,
+    "cumulative": 159
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.51,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 324
+  },
+  "firstContentfulPaint": 3245.9689999999996,
+  "firstMeaningfulPaint": 3245.9689999999996,
+  "speedIndex": 5242.7778339591305,
+  "largestContentfulPaint": 3548.022,
+  "totalBlockingTime": 1041,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10721.852499999999,
+  "maxPotentialFirstInputDelay": 550,
+  "timeToFirstByte": 190.77499999999998,
+  "weight": {
+    "summary": "55 requests • 1,181 KiB",
+    "total": 1209644,
+    "image": 336825,
+    "imageCount": 12,
+    "script": 718166,
+    "scriptCount": 20,
+    "document": 16535,
+    "font": 38035,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1073690,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1046,
+    "violations": 5
+  }
+}

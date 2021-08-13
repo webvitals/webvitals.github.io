@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/rife-free/",
+  "requestedUrl": "https://wordpress.org/themes/rife-free/",
+  "timestamp": 1628787304065,
+  "ranks": {
+    "hundos": 23,
+    "performance": 24,
+    "accessibility": 21,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 332
+  },
+  "firstContentfulPaint": 3202.602999999999,
+  "firstMeaningfulPaint": 8535.536000000002,
+  "speedIndex": 4103.721520346737,
+  "largestContentfulPaint": 3730.5329999999994,
+  "totalBlockingTime": 622,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10174.210000000001,
+  "maxPotentialFirstInputDelay": 378,
+  "timeToFirstByte": 166.246,
+  "weight": {
+    "summary": "56 requests • 1,229 KiB",
+    "total": 1258651,
+    "image": 374931,
+    "imageCount": 12,
+    "script": 718812,
+    "scriptCount": 20,
+    "document": 16904,
+    "font": 47921,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1121660,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1904,
+    "violations": 5
+  }
+}

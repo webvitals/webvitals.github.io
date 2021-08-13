@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/bovity/",
+  "requestedUrl": "https://wordpress.org/themes/bovity/",
+  "timestamp": 1628788768676,
+  "ranks": {
+    "hundos": 191,
+    "performance": 191,
+    "accessibility": 131,
+    "cumulative": 191
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.44,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 317
+  },
+  "firstContentfulPaint": 3306.2460000000005,
+  "firstMeaningfulPaint": 3706.7560000000003,
+  "speedIndex": 4361.276743892056,
+  "largestContentfulPaint": 4271.3935,
+  "totalBlockingTime": 1499.4829999999997,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10716.970000000001,
+  "maxPotentialFirstInputDelay": 618,
+  "timeToFirstByte": 146.725,
+  "weight": {
+    "summary": "55 requests • 1,181 KiB",
+    "total": 1208961,
+    "image": 336050,
+    "imageCount": 12,
+    "script": 718077,
+    "scriptCount": 20,
+    "document": 16716,
+    "font": 38035,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1072916,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 971,
+    "violations": 5
+  }
+}

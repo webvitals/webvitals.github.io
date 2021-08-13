@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/chic-lite/",
+  "requestedUrl": "https://wordpress.org/themes/chic-lite/",
+  "timestamp": 1628785310355,
+  "ranks": {
+    "hundos": 3,
+    "performance": 5,
+    "accessibility": 98,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.61,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.96,
+    "total": 335
+  },
+  "firstContentfulPaint": 3254.2850000000003,
+  "firstMeaningfulPaint": 3254.2850000000003,
+  "speedIndex": 5221.291995483825,
+  "largestContentfulPaint": 3793.8275000000003,
+  "totalBlockingTime": 459,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10053.575,
+  "maxPotentialFirstInputDelay": 305,
+  "timeToFirstByte": 184.007,
+  "weight": {
+    "summary": "56 requests • 1,147 KiB",
+    "total": 1174044,
+    "image": 290775,
+    "imageCount": 12,
+    "script": 718367,
+    "scriptCount": 20,
+    "document": 16865,
+    "font": 47977,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1037560,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1316,
+    "violations": 5
+  }
+}

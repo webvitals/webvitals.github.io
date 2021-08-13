@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/sparkling/",
+  "requestedUrl": "https://wordpress.org/themes/sparkling/",
+  "timestamp": 1628786123279,
+  "ranks": {
+    "hundos": 121,
+    "performance": 123,
+    "accessibility": 72,
+    "cumulative": 121
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.54,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 327
+  },
+  "firstContentfulPaint": 3304.6749999999993,
+  "firstMeaningfulPaint": 8925.431,
+  "speedIndex": 4338.609755904703,
+  "largestContentfulPaint": 3700.6785,
+  "totalBlockingTime": 872.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10113.447,
+  "maxPotentialFirstInputDelay": 380,
+  "timeToFirstByte": 160.327,
+  "weight": {
+    "summary": "56 requests • 1,056 KiB",
+    "total": 1081600,
+    "image": 197881,
+    "imageCount": 12,
+    "script": 718793,
+    "scriptCount": 20,
+    "document": 16945,
+    "font": 47921,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 944587,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1834,
+    "violations": 5
+  }
+}

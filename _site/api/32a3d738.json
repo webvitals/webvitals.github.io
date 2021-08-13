@@ -1,0 +1,58 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2901",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2901",
+  "timestamp": 1628863407773,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 4,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.34,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 283
+  },
+  "firstContentfulPaint": 3067.1179999999995,
+  "firstMeaningfulPaint": 3498.2579999999994,
+  "speedIndex": 11858.657525536091,
+  "largestContentfulPaint": 4082.239,
+  "totalBlockingTime": 2270.9999999999964,
+  "cumulativeLayoutShift": 0.01446141802337979,
+  "timeToInteractive": 73576.24799999999,
+  "maxPotentialFirstInputDelay": 670,
+  "timeToFirstByte": 143.42200000000003,
+  "weight": {
+    "summary": "279 requests • 21,555 KiB",
+    "total": 22072307,
+    "image": 19213447,
+    "imageCount": 52,
+    "script": 2089130,
+    "scriptCount": 108,
+    "document": 189800,
+    "font": 258853,
+    "fontCount": 10,
+    "stylesheet": 107109,
+    "stylesheetCount": 16,
+    "thirdParty": 21741926,
+    "thirdPartyCount": 229
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1684,
+    "violations": 14
+  },
+  "name": "Beauty Store ",
+  "previousRanks": {
+    "hundos": 371,
+    "performance": 388,
+    "accessibility": 30,
+    "cumulative": 371
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/blog-on/",
+  "requestedUrl": "https://wordpress.org/themes/blog-on/",
+  "timestamp": 1628788779903,
+  "ranks": {
+    "hundos": 97,
+    "performance": 89,
+    "accessibility": 155,
+    "cumulative": 90
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 329
+  },
+  "firstContentfulPaint": 3261.0010000000007,
+  "firstMeaningfulPaint": 3261.0010000000007,
+  "speedIndex": 4189.192385792965,
+  "largestContentfulPaint": 3502.2670000000007,
+  "totalBlockingTime": 851.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9610.627,
+  "maxPotentialFirstInputDelay": 377,
+  "timeToFirstByte": 163.45399999999998,
+  "weight": {
+    "summary": "55 requests • 903 KiB",
+    "total": 924561,
+    "image": 51862,
+    "imageCount": 12,
+    "script": 718024,
+    "scriptCount": 20,
+    "document": 16580,
+    "font": 38035,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 788681,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 867,
+    "violations": 5
+  }
+}

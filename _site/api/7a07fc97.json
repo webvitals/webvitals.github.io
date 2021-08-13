@@ -1,0 +1,51 @@
+{
+  "url": "https://wp-themes.com/twentytwentyone/",
+  "requestedUrl": "https://wp-themes.com/twentytwentyone/",
+  "timestamp": 1628858163821,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 3,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 370
+  },
+  "firstContentfulPaint": 1526.02,
+  "firstMeaningfulPaint": 1526.02,
+  "speedIndex": 2368.463688010454,
+  "largestContentfulPaint": 3238.5200000000004,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1550.52,
+  "maxPotentialFirstInputDelay": 382,
+  "timeToFirstByte": 463.80499999999995,
+  "weight": {
+    "summary": "12 requests • 752 KiB",
+    "total": 769786,
+    "image": 721099,
+    "imageCount": 3,
+    "script": 7614,
+    "scriptCount": 4,
+    "document": 7706,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 33367,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 230,
+    "violations": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2905",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2905",
+  "timestamp": 1628863386718,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.38,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 287
+  },
+  "firstContentfulPaint": 3925.8459999999995,
+  "firstMeaningfulPaint": 3925.8459999999995,
+  "speedIndex": 9662.647800098935,
+  "largestContentfulPaint": 3925.8459999999995,
+  "totalBlockingTime": 1148.065,
+  "cumulativeLayoutShift": 0.014352751084429365,
+  "timeToInteractive": 21241.7645,
+  "maxPotentialFirstInputDelay": 585,
+  "timeToFirstByte": 143.52200000000002,
+  "weight": {
+    "summary": "251 requests • 2,801 KiB",
+    "total": 2868498,
+    "image": 485477,
+    "imageCount": 58,
+    "script": 1775871,
+    "scriptCount": 100,
+    "document": 197751,
+    "font": 141179,
+    "fontCount": 5,
+    "stylesheet": 55188,
+    "stylesheetCount": 10,
+    "thirdParty": 2529383,
+    "thirdPartyCount": 210
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1864,
+    "violations": 12
+  },
+  "name": "Clothing Store",
+  "previousRanks": {
+    "hundos": 355,
+    "performance": 354,
+    "accessibility": 16,
+    "cumulative": 334
+  }
+}

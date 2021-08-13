@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/newscard/",
+  "requestedUrl": "https://wordpress.org/themes/newscard/",
+  "timestamp": 1628788031964,
+  "ranks": {
+    "hundos": 46,
+    "performance": 50,
+    "accessibility": 24,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.58,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 331
+  },
+  "firstContentfulPaint": 3085.787,
+  "firstMeaningfulPaint": 8698.533,
+  "speedIndex": 4430.57568039369,
+  "largestContentfulPaint": 3688.9195,
+  "totalBlockingTime": 644.5,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 10323.1095,
+  "maxPotentialFirstInputDelay": 368,
+  "timeToFirstByte": 187.89499999999998,
+  "weight": {
+    "summary": "56 requests • 1,223 KiB",
+    "total": 1251885,
+    "image": 368266,
+    "imageCount": 12,
+    "script": 718832,
+    "scriptCount": 20,
+    "document": 16778,
+    "font": 47949,
+    "fontCount": 5,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 1115003,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1902,
+    "violations": 5
+  }
+}

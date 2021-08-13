@@ -1,0 +1,58 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2342",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2342",
+  "timestamp": 1628863502738,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 9,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.4,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 289
+  },
+  "firstContentfulPaint": 3080.749,
+  "firstMeaningfulPaint": 3080.749,
+  "speedIndex": 9378.714867103869,
+  "largestContentfulPaint": 3080.749,
+  "totalBlockingTime": 5448.500000000002,
+  "cumulativeLayoutShift": 0.003703471574910488,
+  "timeToInteractive": 24382.470000000005,
+  "maxPotentialFirstInputDelay": 4008.000000000002,
+  "timeToFirstByte": 134.25799999999998,
+  "weight": {
+    "summary": "233 requests • 4,504 KiB",
+    "total": 4611664,
+    "image": 1532387,
+    "imageCount": 32,
+    "script": 1675631,
+    "scriptCount": 103,
+    "document": 145923,
+    "font": 81264,
+    "fontCount": 4,
+    "stylesheet": 91439,
+    "stylesheetCount": 15,
+    "thirdParty": 4327223,
+    "thirdPartyCount": 188
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1298,
+    "violations": 18
+  },
+  "name": "Wellness Store",
+  "previousRanks": {
+    "hundos": 183,
+    "performance": 210,
+    "accessibility": 255,
+    "cumulative": 208
+  }
+}

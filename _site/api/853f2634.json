@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/experon-blog/",
+  "requestedUrl": "https://wordpress.org/themes/experon-blog/",
+  "timestamp": 1628788490896,
+  "ranks": {
+    "hundos": 103,
+    "performance": 107,
+    "accessibility": 138,
+    "cumulative": 103
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 328
+  },
+  "firstContentfulPaint": 3335.297000000001,
+  "firstMeaningfulPaint": 3335.297000000001,
+  "speedIndex": 4207.011782543164,
+  "largestContentfulPaint": 3595.0080000000007,
+  "totalBlockingTime": 868,
+  "cumulativeLayoutShift": 0.002162327263090346,
+  "timeToInteractive": 10041.82,
+  "maxPotentialFirstInputDelay": 395,
+  "timeToFirstByte": 174.33299999999997,
+  "weight": {
+    "summary": "55 requests • 1,080 KiB",
+    "total": 1105817,
+    "image": 232799,
+    "imageCount": 12,
+    "script": 718001,
+    "scriptCount": 20,
+    "document": 16893,
+    "font": 38064,
+    "fontCount": 4,
+    "stylesheet": 99525,
+    "stylesheetCount": 13,
+    "thirdParty": 969647,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "axe": {
+    "passes": 948,
+    "violations": 5
+  }
+}

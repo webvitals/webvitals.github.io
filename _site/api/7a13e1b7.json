@@ -1,0 +1,51 @@
+{
+  "url": "https://wordpress.org/themes/twentynineteen/",
+  "requestedUrl": "https://wordpress.org/themes/twentynineteen/",
+  "timestamp": 1628784931223,
+  "ranks": {
+    "hundos": 86,
+    "performance": 81,
+    "accessibility": 181,
+    "cumulative": 99
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.95,
+    "total": 329
+  },
+  "firstContentfulPaint": 3214.4770000000008,
+  "firstMeaningfulPaint": 8596.512999999999,
+  "speedIndex": 4067.4449347754153,
+  "largestContentfulPaint": 3467.419000000001,
+  "totalBlockingTime": 869.478000000001,
+  "cumulativeLayoutShift": 0.0013765945434570314,
+  "timeToInteractive": 9974.203000000003,
+  "maxPotentialFirstInputDelay": 385,
+  "timeToFirstByte": 160.693,
+  "weight": {
+    "summary": "56 requests • 1,074 KiB",
+    "total": 1099925,
+    "image": 216166,
+    "imageCount": 12,
+    "script": 718914,
+    "scriptCount": 20,
+    "document": 16779,
+    "font": 47976,
+    "fontCount": 5,
+    "stylesheet": 99532,
+    "stylesheetCount": 13,
+    "thirdParty": 962955,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "axe": {
+    "passes": 1883,
+    "violations": 6
+  }
+}
