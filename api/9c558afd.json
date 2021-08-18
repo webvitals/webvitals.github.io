@@ -1,0 +1,52 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2940",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2940",
+  "timestamp": 1629134955056,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 1,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.24,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 273
+  },
+  "firstContentfulPaint": 3058.9579999999996,
+  "firstMeaningfulPaint": 3058.9579999999996,
+  "speedIndex": 20798.04913568394,
+  "largestContentfulPaint": 7444.493999999996,
+  "totalBlockingTime": 1742.0000000000027,
+  "cumulativeLayoutShift": 0.012368421968657974,
+  "timeToInteractive": 22448.67,
+  "maxPotentialFirstInputDelay": 890.0000000000036,
+  "timeToFirstByte": 196.47500000000036,
+  "weight": {
+    "summary": "237 requests • 3,067 KiB",
+    "total": 3140396,
+    "image": 538201,
+    "imageCount": 47,
+    "script": 1943141,
+    "scriptCount": 100,
+    "document": 247784,
+    "font": 139677,
+    "fontCount": 5,
+    "stylesheet": 64895,
+    "stylesheetCount": 11,
+    "thirdParty": 2752089,
+    "thirdPartyCount": 194
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2909,
+    "violations": 10
+  },
+  "name": "Beauty Supply Store"
+}

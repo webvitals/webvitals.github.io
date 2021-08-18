@@ -1,0 +1,52 @@
+{
+  "url": "https://district-theme-coast.myshopify.com/",
+  "requestedUrl": "https://district-theme-coast.myshopify.com/",
+  "timestamp": 1629191388268,
+  "ranks": {
+    "hundos": 4,
+    "performance": 2,
+    "accessibility": 9,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.8,
+    "accessibility": 0.92,
+    "bestPractices": 0.87,
+    "seo": 0.83,
+    "total": 342
+  },
+  "firstContentfulPaint": 2902.582,
+  "firstMeaningfulPaint": 2902.582,
+  "speedIndex": 3561.4458174302813,
+  "largestContentfulPaint": 3992.838,
+  "totalBlockingTime": 108.79650000000015,
+  "cumulativeLayoutShift": 0.0026484425862630208,
+  "timeToInteractive": 3819.3205,
+  "maxPotentialFirstInputDelay": 146,
+  "timeToFirstByte": 497.046,
+  "weight": {
+    "summary": "32 requests • 1,235 KiB",
+    "total": 1264988,
+    "image": 970851,
+    "imageCount": 10,
+    "script": 150606,
+    "scriptCount": 9,
+    "document": 29716,
+    "font": 82235,
+    "fontCount": 5,
+    "stylesheet": 31092,
+    "stylesheetCount": 1,
+    "thirdParty": 1235272,
+    "thirdPartyCount": 31
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1311,
+    "violations": 33
+  },
+  "name": "District theme - $180 USD"
+}

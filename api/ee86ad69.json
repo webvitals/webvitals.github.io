@@ -1,0 +1,52 @@
+{
+  "url": "https://narrative-theme-cold.myshopify.com/",
+  "requestedUrl": "https://narrative-theme-cold.myshopify.com/",
+  "timestamp": 1629191669263,
+  "ranks": {
+    "hundos": 5,
+    "performance": 1,
+    "accessibility": 19,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.82,
+    "accessibility": 0.84,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 339
+  },
+  "firstContentfulPaint": 1123.579,
+  "firstMeaningfulPaint": 3095.6915,
+  "speedIndex": 2076.202228460334,
+  "largestContentfulPaint": 3694.933,
+  "totalBlockingTime": 60,
+  "cumulativeLayoutShift": 0.22893479347229,
+  "timeToInteractive": 3418.9195,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 93.38300000000001,
+  "weight": {
+    "summary": "26 requests • 416 KiB",
+    "total": 425636,
+    "image": 102974,
+    "imageCount": 4,
+    "script": 132600,
+    "scriptCount": 10,
+    "document": 25199,
+    "font": 142944,
+    "fontCount": 4,
+    "stylesheet": 21433,
+    "stylesheetCount": 1,
+    "thirdParty": 400437,
+    "thirdPartyCount": 25
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 601,
+    "violations": 4
+  },
+  "name": "Narrative theme - Free"
+}

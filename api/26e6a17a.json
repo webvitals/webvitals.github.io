@@ -1,0 +1,58 @@
+{
+  "url": "https://highlight-theme-art.myshopify.com/",
+  "requestedUrl": "https://highlight-theme-art.myshopify.com/",
+  "timestamp": 1629188491499,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 7,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.78,
+    "accessibility": 0.88,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 338
+  },
+  "firstContentfulPaint": 2301.3269999999998,
+  "firstMeaningfulPaint": 2301.3269999999998,
+  "speedIndex": 3005.656878501064,
+  "largestContentfulPaint": 4961.4835,
+  "totalBlockingTime": 48.5,
+  "cumulativeLayoutShift": 0.00047149658203125003,
+  "timeToInteractive": 3437.167,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 462.409,
+  "weight": {
+    "summary": "23 requests • 610 KiB",
+    "total": 624328,
+    "image": 406619,
+    "imageCount": 4,
+    "script": 87233,
+    "scriptCount": 7,
+    "document": 21970,
+    "font": 83759,
+    "fontCount": 4,
+    "stylesheet": 24259,
+    "stylesheetCount": 1,
+    "thirdParty": 602358,
+    "thirdPartyCount": 22
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 543,
+    "violations": 8
+  },
+  "name": "Highlight theme - $180 USD",
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 7,
+    "cumulative": 3
+  }
+}

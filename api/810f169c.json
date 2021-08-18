@@ -1,0 +1,52 @@
+{
+  "url": "https://groceries-filter-theme.myshopify.com/",
+  "requestedUrl": "https://groceries-filter-theme.myshopify.com/",
+  "timestamp": 1629189662532,
+  "ranks": {
+    "hundos": 9,
+    "performance": 12,
+    "accessibility": 16,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.86,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 326
+  },
+  "firstContentfulPaint": 1952.6580000000001,
+  "firstMeaningfulPaint": 2017.1580000000004,
+  "speedIndex": 3794.9843729996305,
+  "largestContentfulPaint": 4944.528,
+  "totalBlockingTime": 318.0000000000002,
+  "cumulativeLayoutShift": 1.2859375,
+  "timeToInteractive": 4977.228999999999,
+  "maxPotentialFirstInputDelay": 161,
+  "timeToFirstByte": 862.326,
+  "weight": {
+    "summary": "33 requests • 1,071 KiB",
+    "total": 1096230,
+    "image": 147329,
+    "imageCount": 6,
+    "script": 122325,
+    "scriptCount": 12,
+    "document": 61829,
+    "font": 57604,
+    "fontCount": 2,
+    "stylesheet": 23809,
+    "stylesheetCount": 1,
+    "thirdParty": 1034401,
+    "thirdPartyCount": 32
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1862,
+    "violations": 25
+  },
+  "name": "Avenue theme - $180 USD"
+}

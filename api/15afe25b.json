@@ -1,0 +1,52 @@
+{
+  "url": "https://spark-theme.myshopify.com/",
+  "requestedUrl": "https://spark-theme.myshopify.com/",
+  "timestamp": 1629192095739,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.64,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 330
+  },
+  "firstContentfulPaint": 2850.5140000000006,
+  "firstMeaningfulPaint": 2850.5140000000006,
+  "speedIndex": 5166.942634969133,
+  "largestContentfulPaint": 6182.1225,
+  "totalBlockingTime": 188,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5731.009,
+  "maxPotentialFirstInputDelay": 223,
+  "timeToFirstByte": 851.673,
+  "weight": {
+    "summary": "40 requests • 742 KiB",
+    "total": 759400,
+    "image": 242952,
+    "imageCount": 10,
+    "script": 252034,
+    "scriptCount": 14,
+    "document": 58835,
+    "font": 154048,
+    "fontCount": 6,
+    "stylesheet": 50837,
+    "stylesheetCount": 2,
+    "thirdParty": 700565,
+    "thirdPartyCount": 39
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1805,
+    "violations": 55
+  },
+  "name": "Boost theme - $180 USD"
+}

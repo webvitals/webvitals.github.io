@@ -1,0 +1,52 @@
+{
+  "url": "https://icon-vera.myshopify.com/",
+  "requestedUrl": "https://icon-vera.myshopify.com/",
+  "timestamp": 1629190884583,
+  "ranks": {
+    "hundos": 20,
+    "performance": 16,
+    "accessibility": 21,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.46,
+    "accessibility": 0.74,
+    "bestPractices": 0.87,
+    "seo": 0.71,
+    "total": 278
+  },
+  "firstContentfulPaint": 2533.16,
+  "firstMeaningfulPaint": 2533.16,
+  "speedIndex": 5241.020995758594,
+  "largestContentfulPaint": 8795.84,
+  "totalBlockingTime": 155.5,
+  "cumulativeLayoutShift": 0.8409638191858927,
+  "timeToInteractive": 8094.960000000003,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 542.082,
+  "weight": {
+    "summary": "69 requests • 1,250 KiB",
+    "total": 1280043,
+    "image": 643206,
+    "imageCount": 26,
+    "script": 350262,
+    "scriptCount": 21,
+    "document": 28942,
+    "font": 199341,
+    "fontCount": 6,
+    "stylesheet": 40257,
+    "stylesheetCount": 2,
+    "thirdParty": 1234643,
+    "thirdPartyCount": 66
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 881,
+    "violations": 49
+  },
+  "name": "Icon theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://warehouse-theme-wood.myshopify.com/",
+  "requestedUrl": "https://warehouse-theme-wood.myshopify.com/",
+  "timestamp": 1629190020202,
+  "ranks": {
+    "hundos": 1,
+    "performance": 7,
+    "accessibility": 2,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.66,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 348
+  },
+  "firstContentfulPaint": 2372.165,
+  "firstMeaningfulPaint": 2372.165,
+  "speedIndex": 4522.72593937163,
+  "largestContentfulPaint": 5714.454,
+  "totalBlockingTime": 191.50000000000023,
+  "cumulativeLayoutShift": 0.00033740025096469457,
+  "timeToInteractive": 7200.663500000001,
+  "maxPotentialFirstInputDelay": 133.00000000000023,
+  "timeToFirstByte": 990.405,
+  "weight": {
+    "summary": "74 requests • 1,195 KiB",
+    "total": 1223228,
+    "image": 461713,
+    "imageCount": 27,
+    "script": 291052,
+    "scriptCount": 20,
+    "document": 42444,
+    "font": 124603,
+    "fontCount": 4,
+    "stylesheet": 38636,
+    "stylesheetCount": 2,
+    "thirdParty": 917484,
+    "thirdPartyCount": 63
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2262,
+    "violations": 113
+  },
+  "name": "Warehouse theme - $250 USD"
+}

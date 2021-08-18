@@ -1,0 +1,52 @@
+{
+  "url": "https://focal-black-box.myshopify.com/",
+  "requestedUrl": "https://focal-black-box.myshopify.com/",
+  "timestamp": 1629189518582,
+  "ranks": {
+    "hundos": 7,
+    "performance": 8,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.43,
+    "accessibility": 0.86,
+    "bestPractices": 0.8,
+    "seo": 0.74,
+    "total": 283
+  },
+  "firstContentfulPaint": 2602.922,
+  "firstMeaningfulPaint": 3133.853,
+  "speedIndex": 6620.956003464906,
+  "largestContentfulPaint": 8680.594999999998,
+  "totalBlockingTime": 216.5,
+  "cumulativeLayoutShift": 0.7749873569806417,
+  "timeToInteractive": 7341.667999999998,
+  "maxPotentialFirstInputDelay": 209,
+  "timeToFirstByte": 476.71000000000004,
+  "weight": {
+    "summary": "59 requests • 1,399 KiB",
+    "total": 1432385,
+    "image": 1124316,
+    "imageCount": 26,
+    "script": 192525,
+    "scriptCount": 18,
+    "document": 44431,
+    "font": 46494,
+    "fontCount": 4,
+    "stylesheet": 23919,
+    "stylesheetCount": 3,
+    "thirdParty": 1387954,
+    "thirdPartyCount": 58
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 899,
+    "violations": 46
+  },
+  "name": "Focal theme - $170 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://broadcast-modern.myshopify.com/",
+  "requestedUrl": "https://broadcast-modern.myshopify.com/",
+  "timestamp": 1629189038217,
+  "ranks": {
+    "hundos": 4,
+    "performance": 9,
+    "accessibility": 8,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.58,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 331
+  },
+  "firstContentfulPaint": 2103.571,
+  "firstMeaningfulPaint": 2103.571,
+  "speedIndex": 5345.967547687654,
+  "largestContentfulPaint": 4460.185,
+  "totalBlockingTime": 763.8590000000006,
+  "cumulativeLayoutShift": 0.03651192813449435,
+  "timeToInteractive": 4492.964000000001,
+  "maxPotentialFirstInputDelay": 733.9999999999998,
+  "timeToFirstByte": 578.8349999999999,
+  "weight": {
+    "summary": "56 requests • 6,158 KiB",
+    "total": 6305540,
+    "image": 1228320,
+    "imageCount": 26,
+    "script": 151769,
+    "scriptCount": 11,
+    "document": 37109,
+    "font": 104200,
+    "fontCount": 4,
+    "stylesheet": 61992,
+    "stylesheetCount": 2,
+    "thirdParty": 6267426,
+    "thirdPartyCount": 54
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1374,
+    "violations": 19
+  },
+  "name": "Broadcast theme - $280 USD"
+}

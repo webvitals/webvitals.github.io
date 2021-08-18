@@ -1,0 +1,52 @@
+{
+  "url": "https://clothing-filter-theme.myshopify.com/",
+  "requestedUrl": "https://clothing-filter-theme.myshopify.com/",
+  "timestamp": 1629189056658,
+  "ranks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 13,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.52,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 312
+  },
+  "firstContentfulPaint": 2637.782,
+  "firstMeaningfulPaint": 2637.782,
+  "speedIndex": 4538.620970491314,
+  "largestContentfulPaint": 5464.951999999999,
+  "totalBlockingTime": 220,
+  "cumulativeLayoutShift": 0.8470068595078256,
+  "timeToInteractive": 6298.145,
+  "maxPotentialFirstInputDelay": 98,
+  "timeToFirstByte": 792.808,
+  "weight": {
+    "summary": "47 requests • 1,583 KiB",
+    "total": 1621457,
+    "image": 248038,
+    "imageCount": 11,
+    "script": 180974,
+    "scriptCount": 19,
+    "document": 73646,
+    "font": 46290,
+    "fontCount": 2,
+    "stylesheet": 32703,
+    "stylesheetCount": 2,
+    "thirdParty": 1547811,
+    "thirdPartyCount": 46
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2856,
+    "violations": 20
+  },
+  "name": "Avenue theme - $180 USD"
+}

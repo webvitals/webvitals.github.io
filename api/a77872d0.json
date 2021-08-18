@@ -1,0 +1,52 @@
+{
+  "url": "https://flourish-theme.myshopify.com/",
+  "requestedUrl": "https://flourish-theme.myshopify.com/",
+  "timestamp": 1629189068762,
+  "ranks": {
+    "hundos": 2,
+    "performance": 4,
+    "accessibility": 6,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.67,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 340
+  },
+  "firstContentfulPaint": 3217.455,
+  "firstMeaningfulPaint": 3217.455,
+  "speedIndex": 5063.140913243813,
+  "largestContentfulPaint": 5501.9155,
+  "totalBlockingTime": 150.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4726.455,
+  "maxPotentialFirstInputDelay": 164,
+  "timeToFirstByte": 1223.2710000000002,
+  "weight": {
+    "summary": "22 requests • 677 KiB",
+    "total": 693750,
+    "image": 356629,
+    "imageCount": 2,
+    "script": 212432,
+    "scriptCount": 9,
+    "document": 66431,
+    "font": 23073,
+    "fontCount": 2,
+    "stylesheet": 34485,
+    "stylesheetCount": 1,
+    "thirdParty": 627319,
+    "thirdPartyCount": 21
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1600,
+    "violations": 34
+  },
+  "name": "Boost theme - $180 USD"
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/",
+  "requestedUrl": "https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/",
+  "timestamp": 1628870854958,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 5,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 380
+  },
+  "firstContentfulPaint": 1509.217,
+  "firstMeaningfulPaint": 1520.717,
+  "speedIndex": 1786.7624567955722,
+  "largestContentfulPaint": 1520.717,
+  "totalBlockingTime": 48.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4250.158000000001,
+  "maxPotentialFirstInputDelay": 342,
+  "timeToFirstByte": 230.42399999999998,
+  "weight": {
+    "summary": "13 requests • 636 KiB",
+    "total": 651571,
+    "image": 454021,
+    "imageCount": 3,
+    "script": 63527,
+    "scriptCount": 4,
+    "document": 16819,
+    "font": 88064,
+    "fontCount": 1,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 602431,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 648,
+    "violations": 34
+  },
+  "name": "https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/",
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
+  }
+}

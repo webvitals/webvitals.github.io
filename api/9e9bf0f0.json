@@ -1,0 +1,52 @@
+{
+  "url": "https://beard-theme.myshopify.com/",
+  "requestedUrl": "https://beard-theme.myshopify.com/",
+  "timestamp": 1629190451070,
+  "ranks": {
+    "hundos": 6,
+    "performance": 14,
+    "accessibility": 1,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.59,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 341
+  },
+  "firstContentfulPaint": 2024.007,
+  "firstMeaningfulPaint": 2024.007,
+  "speedIndex": 5044.457488521539,
+  "largestContentfulPaint": 7765.1795,
+  "totalBlockingTime": 251.99999999999932,
+  "cumulativeLayoutShift": 0.1015625,
+  "timeToInteractive": 8143.341999999998,
+  "maxPotentialFirstInputDelay": 162.99999999999955,
+  "timeToFirstByte": 369.79300000000006,
+  "weight": {
+    "summary": "57 requests • 2,651 KiB",
+    "total": 2714837,
+    "image": 1611618,
+    "imageCount": 13,
+    "script": 358104,
+    "scriptCount": 21,
+    "document": 33050,
+    "font": 118904,
+    "fontCount": 6,
+    "stylesheet": 48906,
+    "stylesheetCount": 2,
+    "thirdParty": 2680636,
+    "thirdPartyCount": 55
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1093,
+    "violations": 7
+  },
+  "name": "Showcase theme - $240 USD"
+}

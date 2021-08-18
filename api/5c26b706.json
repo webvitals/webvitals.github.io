@@ -1,0 +1,52 @@
+{
+  "url": "https://mobilia-theme-tokyo.myshopify.com/",
+  "requestedUrl": "https://mobilia-theme-tokyo.myshopify.com/",
+  "timestamp": 1629189893223,
+  "ranks": {
+    "hundos": 11,
+    "performance": 14,
+    "accessibility": 18,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.53,
+    "accessibility": 0.86,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 312
+  },
+  "firstContentfulPaint": 2113.592,
+  "firstMeaningfulPaint": 2113.592,
+  "speedIndex": 3901.5169049410115,
+  "largestContentfulPaint": 7124.5495,
+  "totalBlockingTime": 306.5,
+  "cumulativeLayoutShift": 0.2749734050900572,
+  "timeToInteractive": 7709.013499999999,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 711.1510000000001,
+  "weight": {
+    "summary": "58 requests • 879 KiB",
+    "total": 900180,
+    "image": 237423,
+    "imageCount": 13,
+    "script": 471359,
+    "scriptCount": 21,
+    "document": 24421,
+    "font": 117646,
+    "fontCount": 7,
+    "stylesheet": 43941,
+    "stylesheetCount": 3,
+    "thirdParty": 871486,
+    "thirdPartyCount": 54
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 746,
+    "violations": 71
+  },
+  "name": "Mobilia theme - $180 USD"
+}

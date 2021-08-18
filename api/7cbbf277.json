@@ -1,0 +1,52 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2007",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2007",
+  "timestamp": 1629135086034,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 12,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.37,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 286
+  },
+  "firstContentfulPaint": 3256.3830000000003,
+  "firstMeaningfulPaint": 3256.3830000000003,
+  "speedIndex": 17356.45513865327,
+  "largestContentfulPaint": 3256.3830000000003,
+  "totalBlockingTime": 6080.5000000000055,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 29687.61300000001,
+  "maxPotentialFirstInputDelay": 890.0000000000036,
+  "timeToFirstByte": 187.89999999999998,
+  "weight": {
+    "summary": "254 requests • 4,119 KiB",
+    "total": 4217964,
+    "image": 1524073,
+    "imageCount": 38,
+    "script": 2147967,
+    "scriptCount": 107,
+    "document": 152315,
+    "font": 59985,
+    "fontCount": 2,
+    "stylesheet": 118774,
+    "stylesheetCount": 15,
+    "thirdParty": 3920307,
+    "thirdPartyCount": 204
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1280,
+    "violations": 27
+  },
+  "name": "Cookie Shop"
+}

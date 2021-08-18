@@ -1,0 +1,52 @@
+{
+  "url": "https://reach-theme-plush.myshopify.com/",
+  "requestedUrl": "https://reach-theme-plush.myshopify.com/",
+  "timestamp": 1629192111132,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 5,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.74,
+    "bestPractices": 0.73,
+    "seo": 0.84,
+    "total": 286
+  },
+  "firstContentfulPaint": 2247.8660000000004,
+  "firstMeaningfulPaint": 2247.8660000000004,
+  "speedIndex": 5979.994272660529,
+  "largestContentfulPaint": 9203.7265,
+  "totalBlockingTime": 264,
+  "cumulativeLayoutShift": 0.10730678240458169,
+  "timeToInteractive": 8372.537,
+  "maxPotentialFirstInputDelay": 216,
+  "timeToFirstByte": 879.597,
+  "weight": {
+    "summary": "47 requests • 1,015 KiB",
+    "total": 1038888,
+    "image": 123106,
+    "imageCount": 11,
+    "script": 661879,
+    "scriptCount": 15,
+    "document": 34816,
+    "font": 152286,
+    "fontCount": 3,
+    "stylesheet": 60414,
+    "stylesheetCount": 2,
+    "thirdParty": 1007600,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 989,
+    "violations": 43
+  },
+  "name": "Reach theme - $180 USD"
+}

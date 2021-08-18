@@ -1,0 +1,52 @@
+{
+  "url": "https://blockshop-theme-beauty.myshopify.com/",
+  "requestedUrl": "https://blockshop-theme-beauty.myshopify.com/",
+  "timestamp": 1629190496451,
+  "ranks": {
+    "hundos": 18,
+    "performance": 23,
+    "accessibility": 7,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.39,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 306
+  },
+  "firstContentfulPaint": 2508.144,
+  "firstMeaningfulPaint": 2508.144,
+  "speedIndex": 10623.530725527573,
+  "largestContentfulPaint": 7710.987499999999,
+  "totalBlockingTime": 732.4999999999991,
+  "cumulativeLayoutShift": 0.0055881690979003905,
+  "timeToInteractive": 9001.461000000001,
+  "maxPotentialFirstInputDelay": 254.99999999999818,
+  "timeToFirstByte": 803.406,
+  "weight": {
+    "summary": "108 requests • 5,235 KiB",
+    "total": 5360681,
+    "image": 490689,
+    "imageCount": 28,
+    "script": 463322,
+    "scriptCount": 28,
+    "document": 47190,
+    "font": 70736,
+    "fontCount": 4,
+    "stylesheet": 59087,
+    "stylesheetCount": 5,
+    "thirdParty": 5317606,
+    "thirdPartyCount": 105
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2362,
+    "violations": 38
+  },
+  "name": "Blockshop theme - $180 USD"
+}

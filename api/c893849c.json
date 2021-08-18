@@ -1,0 +1,52 @@
+{
+  "url": "https://jagger-theme.myshopify.com/",
+  "requestedUrl": "https://jagger-theme.myshopify.com/",
+  "timestamp": 1629192120837,
+  "ranks": {
+    "hundos": 3,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.91,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 351
+  },
+  "firstContentfulPaint": 1948.0889999999997,
+  "firstMeaningfulPaint": 1948.0889999999997,
+  "speedIndex": 2785.7062502900626,
+  "largestContentfulPaint": 2574.05,
+  "totalBlockingTime": 104,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6189.5915,
+  "maxPotentialFirstInputDelay": 114,
+  "timeToFirstByte": 98.404,
+  "weight": {
+    "summary": "43 requests • 837 KiB",
+    "total": 856836,
+    "image": 460607,
+    "imageCount": 12,
+    "script": 230046,
+    "scriptCount": 16,
+    "document": 24898,
+    "font": 104720,
+    "fontCount": 4,
+    "stylesheet": 34413,
+    "stylesheetCount": 1,
+    "thirdParty": 830748,
+    "thirdPartyCount": 41
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 830,
+    "violations": 23
+  },
+  "name": "Split theme - $180 USD"
+}

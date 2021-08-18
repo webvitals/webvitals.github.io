@@ -1,0 +1,58 @@
+{
+  "url": "https://simpletheme-light.myshopify.com/",
+  "requestedUrl": "https://simpletheme-light.myshopify.com/",
+  "timestamp": 1629185549202,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.84,
+    "accessibility": 0.92,
+    "bestPractices": 0.87,
+    "seo": 0.99,
+    "total": 362
+  },
+  "firstContentfulPaint": 2160.7479999999996,
+  "firstMeaningfulPaint": 2867.6449999999995,
+  "speedIndex": 2875.241140845444,
+  "largestContentfulPaint": 4111.616999999999,
+  "totalBlockingTime": 31,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2867.6449999999995,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 98.909,
+  "weight": {
+    "summary": "31 requests • 335 KiB",
+    "total": 343419,
+    "image": 141535,
+    "imageCount": 9,
+    "script": 130202,
+    "scriptCount": 11,
+    "document": 16984,
+    "font": 38839,
+    "fontCount": 2,
+    "stylesheet": 14480,
+    "stylesheetCount": 1,
+    "thirdParty": 325542,
+    "thirdPartyCount": 29
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 774,
+    "violations": 10
+  },
+  "name": "Simple theme - Free",
+  "previousRanks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 2
+  }
+}

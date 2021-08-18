@@ -1,0 +1,52 @@
+{
+  "url": "https://simpletheme-beauty.myshopify.com/",
+  "requestedUrl": "https://simpletheme-beauty.myshopify.com/",
+  "timestamp": 1629190412209,
+  "ranks": {
+    "hundos": 5,
+    "performance": 6,
+    "accessibility": 11,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.73,
+    "accessibility": 0.92,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 343
+  },
+  "firstContentfulPaint": 2200.9959999999996,
+  "firstMeaningfulPaint": 3045.2789999999995,
+  "speedIndex": 2593.745323298578,
+  "largestContentfulPaint": 4094.1079999999997,
+  "totalBlockingTime": 98.5,
+  "cumulativeLayoutShift": 0.35066387939453125,
+  "timeToInteractive": 3533.8189999999995,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 102.089,
+  "weight": {
+    "summary": "31 requests • 423 KiB",
+    "total": 433659,
+    "image": 231681,
+    "imageCount": 9,
+    "script": 129485,
+    "scriptCount": 11,
+    "document": 18879,
+    "font": 37720,
+    "fontCount": 2,
+    "stylesheet": 14521,
+    "stylesheetCount": 1,
+    "thirdParty": 413894,
+    "thirdPartyCount": 29
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 701,
+    "violations": 6
+  },
+  "name": "Simple theme - Free"
+}

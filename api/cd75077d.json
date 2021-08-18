@@ -1,0 +1,52 @@
+{
+  "url": "https://ira-theme-sport.myshopify.com/",
+  "requestedUrl": "https://ira-theme-sport.myshopify.com/",
+  "timestamp": 1629191786395,
+  "ranks": {
+    "hundos": 21,
+    "performance": 19,
+    "accessibility": 20,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.44,
+    "accessibility": 0.83,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 300
+  },
+  "firstContentfulPaint": 2044.9310000000003,
+  "firstMeaningfulPaint": 2274.347,
+  "speedIndex": 9326.75714772007,
+  "largestContentfulPaint": 7396.995499999995,
+  "totalBlockingTime": 149,
+  "cumulativeLayoutShift": 0.737158203125,
+  "timeToInteractive": 8920.686999999998,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 726.464,
+  "weight": {
+    "summary": "128 requests • 2,057 KiB",
+    "total": 2105912,
+    "image": 1002385,
+    "imageCount": 81,
+    "script": 322370,
+    "scriptCount": 18,
+    "document": 32799,
+    "font": 72942,
+    "fontCount": 4,
+    "stylesheet": 28634,
+    "stylesheetCount": 2,
+    "thirdParty": 2065700,
+    "thirdPartyCount": 124
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1158,
+    "violations": 183
+  },
+  "name": "Ira theme - $180 USD"
+}

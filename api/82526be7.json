@@ -1,0 +1,52 @@
+{
+  "url": "https://wp-themes.com/twentyseventeen/",
+  "requestedUrl": "https://wp-themes.com/twentyseventeen/",
+  "timestamp": 1629135476389,
+  "ranks": {
+    "hundos": 4,
+    "performance": 4,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.95,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 373
+  },
+  "firstContentfulPaint": 1781.919,
+  "firstMeaningfulPaint": 1786.464,
+  "speedIndex": 3178.679414159977,
+  "largestContentfulPaint": 2544.6230000000005,
+  "totalBlockingTime": 52.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2522.3540000000003,
+  "maxPotentialFirstInputDelay": 149,
+  "timeToFirstByte": 496.1940000000001,
+  "weight": {
+    "summary": "19 requests • 607 KiB",
+    "total": 621125,
+    "image": 498668,
+    "imageCount": 4,
+    "script": 45982,
+    "scriptCount": 8,
+    "document": 20083,
+    "font": 27761,
+    "fontCount": 1,
+    "stylesheet": 28631,
+    "stylesheetCount": 5,
+    "thirdParty": 28875,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 558,
+    "violations": 1
+  },
+  "name": "https://wp-themes.com/twentyseventeen/"
+}

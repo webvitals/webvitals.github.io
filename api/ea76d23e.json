@@ -1,0 +1,52 @@
+{
+  "url": "https://focal-giveat.myshopify.com/",
+  "requestedUrl": "https://focal-giveat.myshopify.com/",
+  "timestamp": 1629189806863,
+  "ranks": {
+    "hundos": 17,
+    "performance": 17,
+    "accessibility": 19,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.47,
+    "accessibility": 0.85,
+    "bestPractices": 0.87,
+    "seo": 0.76,
+    "total": 295
+  },
+  "firstContentfulPaint": 2254.69,
+  "firstMeaningfulPaint": 2254.69,
+  "speedIndex": 4786.431300666237,
+  "largestContentfulPaint": 9676.814999999999,
+  "totalBlockingTime": 252.5,
+  "cumulativeLayoutShift": 0.6780227428012424,
+  "timeToInteractive": 6862.897999999998,
+  "maxPotentialFirstInputDelay": 213,
+  "timeToFirstByte": 316.101,
+  "weight": {
+    "summary": "48 requests • 1,444 KiB",
+    "total": 1478335,
+    "image": 1188755,
+    "imageCount": 17,
+    "script": 190519,
+    "scriptCount": 17,
+    "document": 36554,
+    "font": 37970,
+    "fontCount": 3,
+    "stylesheet": 23842,
+    "stylesheetCount": 3,
+    "thirdParty": 1441781,
+    "thirdPartyCount": 47
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 732,
+    "violations": 45
+  },
+  "name": "Focal theme - $170 USD"
+}

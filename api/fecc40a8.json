@@ -1,0 +1,52 @@
+{
+  "url": "https://ira-theme-modern.myshopify.com/",
+  "requestedUrl": "https://ira-theme-modern.myshopify.com/",
+  "timestamp": 1629190107839,
+  "ranks": {
+    "hundos": 8,
+    "performance": 9,
+    "accessibility": 9,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.64,
+    "accessibility": 0.85,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 322
+  },
+  "firstContentfulPaint": 1974.2759999999998,
+  "firstMeaningfulPaint": 2508.542,
+  "speedIndex": 7372.789939830125,
+  "largestContentfulPaint": 5792.339999999998,
+  "totalBlockingTime": 166.5,
+  "cumulativeLayoutShift": 0.100400390625,
+  "timeToInteractive": 5501.137999999997,
+  "maxPotentialFirstInputDelay": 166,
+  "timeToFirstByte": 1048.985,
+  "weight": {
+    "summary": "77 requests • 1,434 KiB",
+    "total": 1468350,
+    "image": 1039529,
+    "imageCount": 41,
+    "script": 241656,
+    "scriptCount": 12,
+    "document": 30565,
+    "font": 25549,
+    "fontCount": 2,
+    "stylesheet": 34020,
+    "stylesheetCount": 2,
+    "thirdParty": 1436242,
+    "thirdPartyCount": 75
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 873,
+    "violations": 124
+  },
+  "name": "Ira theme - $180 USD"
+}

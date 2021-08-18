@@ -1,0 +1,52 @@
+{
+  "url": "https://launch-theme-bold.myshopify.com/",
+  "requestedUrl": "https://launch-theme-bold.myshopify.com/",
+  "timestamp": 1629191768900,
+  "ranks": {
+    "hundos": 17,
+    "performance": 16,
+    "accessibility": 16,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 1,
+    "total": 308
+  },
+  "firstContentfulPaint": 2265.3840000000005,
+  "firstMeaningfulPaint": 2265.3840000000005,
+  "speedIndex": 4683.37342182382,
+  "largestContentfulPaint": 6760.553999999999,
+  "totalBlockingTime": 317.9999999999991,
+  "cumulativeLayoutShift": 0.1784182537926568,
+  "timeToInteractive": 9496.655499999999,
+  "maxPotentialFirstInputDelay": 194,
+  "timeToFirstByte": 412.097,
+  "weight": {
+    "summary": "69 requests • 1,140 KiB",
+    "total": 1167136,
+    "image": 353300,
+    "imageCount": 15,
+    "script": 593497,
+    "scriptCount": 21,
+    "document": 32739,
+    "font": 131254,
+    "fontCount": 6,
+    "stylesheet": 48154,
+    "stylesheetCount": 2,
+    "thirdParty": 1142619,
+    "thirdPartyCount": 68
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1038,
+    "violations": 69
+  },
+  "name": "Launch theme - $180 USD"
+}

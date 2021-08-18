@@ -1,0 +1,51 @@
+{
+  "url": "https://avatar-jewelry.myshopify.com/",
+  "requestedUrl": "https://avatar-jewelry.myshopify.com/",
+  "timestamp": 1629191162768,
+  "ranks": {
+    "hundos": 22,
+    "performance": 17,
+    "accessibility": 5,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.51,
+    "accessibility": 0.96,
+    "bestPractices": 0.67,
+    "seo": 0.84,
+    "total": 298
+  },
+  "firstContentfulPaint": 3390.255,
+  "firstMeaningfulPaint": 3465.5600000000004,
+  "speedIndex": 6442.321506790095,
+  "largestContentfulPaint": 6217.564999999999,
+  "totalBlockingTime": 431.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6885.394,
+  "maxPotentialFirstInputDelay": 258,
+  "timeToFirstByte": 634.3820000000001,
+  "weight": {
+    "summary": "59 requests • 742 KiB",
+    "total": 759871,
+    "image": 130554,
+    "imageCount": 14,
+    "script": 390807,
+    "scriptCount": 21,
+    "document": 31881,
+    "font": 154627,
+    "fontCount": 4,
+    "stylesheet": 35972,
+    "stylesheetCount": 5,
+    "thirdParty": 727990,
+    "thirdPartyCount": 58
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "name": "Avatar theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://swimclub-theme.myshopify.com/",
+  "requestedUrl": "https://swimclub-theme.myshopify.com/",
+  "timestamp": 1629191917752,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 3,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.77,
+    "accessibility": 0.96,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 350
+  },
+  "firstContentfulPaint": 2210.495,
+  "firstMeaningfulPaint": 3332.6089999999995,
+  "speedIndex": 4049.4620212578225,
+  "largestContentfulPaint": 4016.723,
+  "totalBlockingTime": 213,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5589.951000000001,
+  "maxPotentialFirstInputDelay": 157,
+  "timeToFirstByte": 360.59200000000004,
+  "weight": {
+    "summary": "37 requests • 1,342 KiB",
+    "total": 1373792,
+    "image": 985183,
+    "imageCount": 9,
+    "script": 200773,
+    "scriptCount": 11,
+    "document": 26438,
+    "font": 126170,
+    "fontCount": 7,
+    "stylesheet": 34530,
+    "stylesheetCount": 2,
+    "thirdParty": 1347354,
+    "thirdPartyCount": 36
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1315,
+    "violations": 15
+  },
+  "name": "Alchemy theme - $180 USD"
+}

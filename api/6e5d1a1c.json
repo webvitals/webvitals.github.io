@@ -1,0 +1,52 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2936",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2936",
+  "timestamp": 1629134928007,
+  "ranks": {
+    "hundos": 2,
+    "performance": 1,
+    "accessibility": 5,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.43,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 292
+  },
+  "firstContentfulPaint": 3170.5649999999996,
+  "firstMeaningfulPaint": 3170.5649999999996,
+  "speedIndex": 9137.225473814393,
+  "largestContentfulPaint": 3170.5649999999996,
+  "totalBlockingTime": 1673,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 19617.57999999999,
+  "maxPotentialFirstInputDelay": 466,
+  "timeToFirstByte": 170.339,
+  "weight": {
+    "summary": "208 requests • 2,549 KiB",
+    "total": 2610411,
+    "image": 143636,
+    "imageCount": 35,
+    "script": 1908214,
+    "scriptCount": 92,
+    "document": 158767,
+    "font": 135367,
+    "fontCount": 5,
+    "stylesheet": 65030,
+    "stylesheetCount": 11,
+    "thirdParty": 2309214,
+    "thirdPartyCount": 168
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1164,
+    "violations": 16
+  },
+  "name": "T- Shirt Store"
+}

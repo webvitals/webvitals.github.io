@@ -1,0 +1,52 @@
+{
+  "url": "https://yves-4.myshopify.com/",
+  "requestedUrl": "https://yves-4.myshopify.com/",
+  "timestamp": 1629191427013,
+  "ranks": {
+    "hundos": 17,
+    "performance": 8,
+    "accessibility": 23,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.67,
+    "accessibility": 0.81,
+    "bestPractices": 0.87,
+    "seo": 0.77,
+    "total": 312
+  },
+  "firstContentfulPaint": 2506.044,
+  "firstMeaningfulPaint": 2506.044,
+  "speedIndex": 3983.6707682656734,
+  "largestContentfulPaint": 4493.307999999999,
+  "totalBlockingTime": 68,
+  "cumulativeLayoutShift": 0.34010474734836155,
+  "timeToInteractive": 4638.807999999999,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 332.439,
+  "weight": {
+    "summary": "35 requests • 831 KiB",
+    "total": 851366,
+    "image": 426703,
+    "imageCount": 9,
+    "script": 164452,
+    "scriptCount": 11,
+    "document": 27048,
+    "font": 179113,
+    "fontCount": 5,
+    "stylesheet": 39125,
+    "stylesheetCount": 1,
+    "thirdParty": 809892,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 972,
+    "violations": 32
+  },
+  "name": "Icon theme - $180 USD"
+}

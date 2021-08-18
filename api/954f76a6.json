@@ -1,0 +1,52 @@
+{
+  "url": "https://editorial-theme-adventure.myshopify.com/",
+  "requestedUrl": "https://editorial-theme-adventure.myshopify.com/",
+  "timestamp": 1629191701421,
+  "ranks": {
+    "hundos": 12,
+    "performance": 7,
+    "accessibility": 22,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.72,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 319
+  },
+  "firstContentfulPaint": 2696.002,
+  "firstMeaningfulPaint": 4014.3140000000003,
+  "speedIndex": 3497.9219143327946,
+  "largestContentfulPaint": 4689.698000000001,
+  "totalBlockingTime": 188,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5855.914000000001,
+  "maxPotentialFirstInputDelay": 174,
+  "timeToFirstByte": 580.768,
+  "weight": {
+    "summary": "48 requests • 1,034 KiB",
+    "total": 1059305,
+    "image": 718873,
+    "imageCount": 25,
+    "script": 205230,
+    "scriptCount": 11,
+    "document": 47417,
+    "font": 72255,
+    "fontCount": 3,
+    "stylesheet": 14814,
+    "stylesheetCount": 1,
+    "thirdParty": 1011888,
+    "thirdPartyCount": 47
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1245,
+    "violations": 52
+  },
+  "name": "Editorial theme - $160 USD"
+}

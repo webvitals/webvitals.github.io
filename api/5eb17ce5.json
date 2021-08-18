@@ -1,0 +1,52 @@
+{
+  "url": "https://face-207.myshopify.com/",
+  "requestedUrl": "https://face-207.myshopify.com/",
+  "timestamp": 1629190522344,
+  "ranks": {
+    "hundos": 13,
+    "performance": 13,
+    "accessibility": 6,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.94,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 325
+  },
+  "firstContentfulPaint": 2514.326,
+  "firstMeaningfulPaint": 2514.326,
+  "speedIndex": 4639.9600930739425,
+  "largestContentfulPaint": 5014.01,
+  "totalBlockingTime": 112,
+  "cumulativeLayoutShift": 0.48359400706821015,
+  "timeToInteractive": 4649.522000000001,
+  "maxPotentialFirstInputDelay": 180,
+  "timeToFirstByte": 628.243,
+  "weight": {
+    "summary": "34 requests • 638 KiB",
+    "total": 653485,
+    "image": 220285,
+    "imageCount": 8,
+    "script": 161184,
+    "scriptCount": 11,
+    "document": 26806,
+    "font": 199017,
+    "fontCount": 5,
+    "stylesheet": 44512,
+    "stylesheetCount": 1,
+    "thirdParty": 625497,
+    "thirdPartyCount": 32
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1046,
+    "violations": 36
+  },
+  "name": "Mr Parker theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://canopy-theme-light.myshopify.com/",
+  "requestedUrl": "https://canopy-theme-light.myshopify.com/",
+  "timestamp": 1629190841169,
+  "ranks": {
+    "hundos": 7,
+    "performance": 9,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.6,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.91,
+    "total": 333
+  },
+  "firstContentfulPaint": 2576.35,
+  "firstMeaningfulPaint": 2576.35,
+  "speedIndex": 4308.759965593552,
+  "largestContentfulPaint": 5958.554000000001,
+  "totalBlockingTime": 108.00000000000045,
+  "cumulativeLayoutShift": 0.3348172200520833,
+  "timeToInteractive": 4539.403,
+  "maxPotentialFirstInputDelay": 157.0000000000009,
+  "timeToFirstByte": 727.7230000000001,
+  "weight": {
+    "summary": "41 requests • 1,035 KiB",
+    "total": 1059795,
+    "image": 662469,
+    "imageCount": 14,
+    "script": 180135,
+    "scriptCount": 11,
+    "document": 33775,
+    "font": 139663,
+    "fontCount": 7,
+    "stylesheet": 43266,
+    "stylesheetCount": 2,
+    "thirdParty": 1026020,
+    "thirdPartyCount": 40
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1176,
+    "violations": 15
+  },
+  "name": "Canopy theme - $180 USD"
+}

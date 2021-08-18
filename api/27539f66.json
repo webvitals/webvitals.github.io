@@ -1,0 +1,58 @@
+{
+  "url": "https://label-theme-record.myshopify.com/",
+  "requestedUrl": "https://label-theme-record.myshopify.com/",
+  "timestamp": 1629188697172,
+  "ranks": {
+    "hundos": 7,
+    "performance": 4,
+    "accessibility": 11,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.64,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "seo": 0.79,
+    "total": 304
+  },
+  "firstContentfulPaint": 2313.4610000000002,
+  "firstMeaningfulPaint": 3348.4770000000003,
+  "speedIndex": 3627.972799527453,
+  "largestContentfulPaint": 5562.32,
+  "totalBlockingTime": 331.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6485.731,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 103.22299999999998,
+  "weight": {
+    "summary": "53 requests • 771 KiB",
+    "total": 789571,
+    "image": 361656,
+    "imageCount": 16,
+    "script": 323379,
+    "scriptCount": 21,
+    "document": 23824,
+    "font": 52530,
+    "fontCount": 3,
+    "stylesheet": 19659,
+    "stylesheetCount": 1,
+    "thirdParty": 764578,
+    "thirdPartyCount": 51
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 888,
+    "violations": 49
+  },
+  "name": "Label theme - $160 USD",
+  "previousRanks": {
+    "hundos": 11,
+    "performance": 10,
+    "accessibility": 11,
+    "cumulative": 11
+  }
+}

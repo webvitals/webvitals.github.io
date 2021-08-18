@@ -1,0 +1,52 @@
+{
+  "url": "https://handy-theme-fresh.myshopify.com/",
+  "requestedUrl": "https://handy-theme-fresh.myshopify.com/",
+  "timestamp": 1629191328159,
+  "ranks": {
+    "hundos": 23,
+    "performance": 23,
+    "accessibility": 21,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.39,
+    "accessibility": 0.82,
+    "bestPractices": 0.8,
+    "seo": 0.93,
+    "total": 294
+  },
+  "firstContentfulPaint": 2447.8299999999995,
+  "firstMeaningfulPaint": 2447.8299999999995,
+  "speedIndex": 7767.22673117843,
+  "largestContentfulPaint": 8168.968999999997,
+  "totalBlockingTime": 670.0000000000005,
+  "cumulativeLayoutShift": 0.05032282423973084,
+  "timeToInteractive": 15327.475999999999,
+  "maxPotentialFirstInputDelay": 396,
+  "timeToFirstByte": 597.501,
+  "weight": {
+    "summary": "82 requests • 2,110 KiB",
+    "total": 2160188,
+    "image": 711013,
+    "imageCount": 21,
+    "script": 1068497,
+    "scriptCount": 31,
+    "document": 74158,
+    "font": 228031,
+    "fontCount": 7,
+    "stylesheet": 75630,
+    "stylesheetCount": 3,
+    "thirdParty": 2130777,
+    "thirdPartyCount": 81
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 552,
+    "violations": 24
+  },
+  "name": "Handy theme - $180 USD"
+}

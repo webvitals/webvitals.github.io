@@ -1,0 +1,52 @@
+{
+  "url": "https://loft-theme-demo-nashville.myshopify.com/",
+  "requestedUrl": "https://loft-theme-demo-nashville.myshopify.com/",
+  "timestamp": 1629190056793,
+  "ranks": {
+    "hundos": 12,
+    "performance": 2,
+    "accessibility": 15,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.74,
+    "accessibility": 0.68,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 308
+  },
+  "firstContentfulPaint": 2520.7790000000005,
+  "firstMeaningfulPaint": 3040.091,
+  "speedIndex": 4750.27029498091,
+  "largestContentfulPaint": 4409.5790000000015,
+  "totalBlockingTime": 73.6904999999997,
+  "cumulativeLayoutShift": 0.015641547309027774,
+  "timeToInteractive": 6956.3945,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 523.89,
+  "weight": {
+    "summary": "49 requests • 994 KiB",
+    "total": 1017418,
+    "image": 456721,
+    "imageCount": 9,
+    "script": 340725,
+    "scriptCount": 22,
+    "document": 40781,
+    "font": 128019,
+    "fontCount": 3,
+    "stylesheet": 50181,
+    "stylesheetCount": 6,
+    "thirdParty": 976637,
+    "thirdPartyCount": 48
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1093,
+    "violations": 84
+  },
+  "name": "Loft theme - $160 USD"
+}

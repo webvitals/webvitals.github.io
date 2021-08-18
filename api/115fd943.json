@@ -1,0 +1,52 @@
+{
+  "url": "https://california-theme-fashion.myshopify.com/",
+  "requestedUrl": "https://california-theme-fashion.myshopify.com/",
+  "timestamp": 1629191878509,
+  "ranks": {
+    "hundos": 20,
+    "performance": 21,
+    "accessibility": 6,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 302
+  },
+  "firstContentfulPaint": 2473.338,
+  "firstMeaningfulPaint": 3877.009,
+  "speedIndex": 9665.34207309528,
+  "largestContentfulPaint": 11845.0645,
+  "totalBlockingTime": 461.5,
+  "cumulativeLayoutShift": 0.08930931599934896,
+  "timeToInteractive": 13522.842000000004,
+  "maxPotentialFirstInputDelay": 357,
+  "timeToFirstByte": 186.98000000000002,
+  "weight": {
+    "summary": "47 requests • 2,673 KiB",
+    "total": 2737122,
+    "image": 1736200,
+    "imageCount": 12,
+    "script": 737773,
+    "scriptCount": 15,
+    "document": 37642,
+    "font": 157739,
+    "fontCount": 6,
+    "stylesheet": 66350,
+    "stylesheetCount": 2,
+    "thirdParty": 2723287,
+    "thirdPartyCount": 46
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 644,
+    "violations": 13
+  },
+  "name": "California theme - $240 USD"
+}

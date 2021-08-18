@@ -1,0 +1,52 @@
+{
+  "url": "https://palo-alto-theme.myshopify.com/",
+  "requestedUrl": "https://palo-alto-theme.myshopify.com/",
+  "timestamp": 1629191802225,
+  "ranks": {
+    "hundos": 24,
+    "performance": 22,
+    "accessibility": 15,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.38,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "seo": 0.71,
+    "total": 270
+  },
+  "firstContentfulPaint": 2610.2010000000005,
+  "firstMeaningfulPaint": 2610.2010000000005,
+  "speedIndex": 11936.87879421017,
+  "largestContentfulPaint": 5562.792000000001,
+  "totalBlockingTime": 791.0000000000009,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14491.161999999998,
+  "maxPotentialFirstInputDelay": 387.0000000000009,
+  "timeToFirstByte": 687.673,
+  "weight": {
+    "summary": "98 requests • 5,146 KiB",
+    "total": 5269887,
+    "image": 2201814,
+    "imageCount": 35,
+    "script": 972491,
+    "scriptCount": 22,
+    "document": 86752,
+    "font": 147811,
+    "fontCount": 7,
+    "stylesheet": 118407,
+    "stylesheetCount": 4,
+    "thirdParty": 5143824,
+    "thirdPartyCount": 96
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1375,
+    "violations": 18
+  },
+  "name": "Palo Alto theme - $180 USD"
+}

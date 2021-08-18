@@ -1,0 +1,52 @@
+{
+  "url": "https://local-theme-bright.myshopify.com/",
+  "requestedUrl": "https://local-theme-bright.myshopify.com/",
+  "timestamp": 1629189724453,
+  "ranks": {
+    "hundos": 13,
+    "performance": 15,
+    "accessibility": 10,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.5,
+    "accessibility": 0.9,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 306
+  },
+  "firstContentfulPaint": 2153.286,
+  "firstMeaningfulPaint": 2153.286,
+  "speedIndex": 5591.278330736008,
+  "largestContentfulPaint": 5199.511000000001,
+  "totalBlockingTime": 611.9651135864265,
+  "cumulativeLayoutShift": 0.12972412135865952,
+  "timeToInteractive": 8969.316227172854,
+  "maxPotentialFirstInputDelay": 246,
+  "timeToFirstByte": 711.125,
+  "weight": {
+    "summary": "114 requests • 6,235 KiB",
+    "total": 6384408,
+    "image": 823141,
+    "imageCount": 33,
+    "script": 578729,
+    "scriptCount": 28,
+    "document": 70537,
+    "font": 56289,
+    "fontCount": 5,
+    "stylesheet": 79979,
+    "stylesheetCount": 5,
+    "thirdParty": 6343598,
+    "thirdPartyCount": 111
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1639,
+    "violations": 47
+  },
+  "name": "Emerge theme - $180 USD"
+}

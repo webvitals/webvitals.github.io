@@ -1,0 +1,52 @@
+{
+  "url": "https://atlantic-theme-organic.myshopify.com/",
+  "requestedUrl": "https://atlantic-theme-organic.myshopify.com/",
+  "timestamp": 1629190544399,
+  "ranks": {
+    "hundos": 8,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.84,
+    "accessibility": 0.95,
+    "bestPractices": 0.73,
+    "seo": 0.84,
+    "total": 336
+  },
+  "firstContentfulPaint": 1969.7109999999998,
+  "firstMeaningfulPaint": 1969.7109999999998,
+  "speedIndex": 3982.563539339941,
+  "largestContentfulPaint": 2345.4635,
+  "totalBlockingTime": 285.5,
+  "cumulativeLayoutShift": 0.00026491165161132815,
+  "timeToInteractive": 7414.245999999999,
+  "maxPotentialFirstInputDelay": 191,
+  "timeToFirstByte": 93.02800000000002,
+  "weight": {
+    "summary": "53 requests • 947 KiB",
+    "total": 969986,
+    "image": 385416,
+    "imageCount": 19,
+    "script": 477131,
+    "scriptCount": 16,
+    "document": 21285,
+    "font": 46209,
+    "fontCount": 3,
+    "stylesheet": 34828,
+    "stylesheetCount": 1,
+    "thirdParty": 946901,
+    "thirdPartyCount": 50
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 548,
+    "violations": 29
+  },
+  "name": "Atlantic theme - $180 USD"
+}

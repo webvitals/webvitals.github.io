@@ -1,0 +1,52 @@
+{
+  "url": "https://streamline-theme-luxe.myshopify.com/",
+  "requestedUrl": "https://streamline-theme-luxe.myshopify.com/",
+  "timestamp": 1629191202109,
+  "ranks": {
+    "hundos": 16,
+    "performance": 22,
+    "accessibility": 6,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.4,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.85,
+    "total": 313
+  },
+  "firstContentfulPaint": 3624.2110000000002,
+  "firstMeaningfulPaint": 3624.2110000000002,
+  "speedIndex": 6206.3425517504065,
+  "largestContentfulPaint": 6509.309,
+  "totalBlockingTime": 796.5000000000005,
+  "cumulativeLayoutShift": 0.0033384263780381943,
+  "timeToInteractive": 8652.899000000001,
+  "maxPotentialFirstInputDelay": 655.0000000000005,
+  "timeToFirstByte": 1096.666,
+  "weight": {
+    "summary": "83 requests • 5,215 KiB",
+    "total": 5340481,
+    "image": 272982,
+    "imageCount": 19,
+    "script": 324523,
+    "scriptCount": 47,
+    "document": 57394,
+    "font": 60077,
+    "fontCount": 3,
+    "stylesheet": 122866,
+    "stylesheetCount": 3,
+    "thirdParty": 5283087,
+    "thirdPartyCount": 82
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2755,
+    "violations": 9
+  },
+  "name": "Streamline theme - $180 USD"
+}

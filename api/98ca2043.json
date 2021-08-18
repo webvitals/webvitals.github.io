@@ -1,0 +1,52 @@
+{
+  "url": "https://story-theme.myshopify.com/",
+  "requestedUrl": "https://story-theme.myshopify.com/",
+  "timestamp": 1629190729822,
+  "ranks": {
+    "hundos": 9,
+    "performance": 5,
+    "accessibility": 9,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.73,
+    "accessibility": 0.88,
+    "bestPractices": 0.67,
+    "seo": 0.93,
+    "total": 321
+  },
+  "firstContentfulPaint": 2255.924,
+  "firstMeaningfulPaint": 3851.809,
+  "speedIndex": 3663.9151523421724,
+  "largestContentfulPaint": 4301.809,
+  "totalBlockingTime": 238.99999999999955,
+  "cumulativeLayoutShift": 0.021903856065538192,
+  "timeToInteractive": 6565.2855,
+  "maxPotentialFirstInputDelay": 148.99999999999955,
+  "timeToFirstByte": 415.47299999999996,
+  "weight": {
+    "summary": "47 requests • 560 KiB",
+    "total": 573167,
+    "image": 126283,
+    "imageCount": 23,
+    "script": 276548,
+    "scriptCount": 10,
+    "document": 26031,
+    "font": 109325,
+    "fontCount": 5,
+    "stylesheet": 34033,
+    "stylesheetCount": 1,
+    "thirdParty": 547136,
+    "thirdPartyCount": 46
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1599,
+    "violations": 30
+  },
+  "name": "Story theme - $180 USD"
+}

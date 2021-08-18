@@ -1,0 +1,52 @@
+{
+  "url": "https://editorial-theme-amour.myshopify.com/",
+  "requestedUrl": "https://editorial-theme-amour.myshopify.com/",
+  "timestamp": 1629190333725,
+  "ranks": {
+    "hundos": 7,
+    "performance": 4,
+    "accessibility": 16,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.75,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 337
+  },
+  "firstContentfulPaint": 2410.828,
+  "firstMeaningfulPaint": 3346.9045,
+  "speedIndex": 3404.1922578446524,
+  "largestContentfulPaint": 4009.4865,
+  "totalBlockingTime": 287.2895000000003,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5662.066000000001,
+  "maxPotentialFirstInputDelay": 205,
+  "timeToFirstByte": 390.2950000000001,
+  "weight": {
+    "summary": "50 requests • 595 KiB",
+    "total": 609081,
+    "image": 205704,
+    "imageCount": 18,
+    "script": 320055,
+    "scriptCount": 18,
+    "document": 48115,
+    "font": 18448,
+    "fontCount": 1,
+    "stylesheet": 14087,
+    "stylesheetCount": 1,
+    "thirdParty": 559777,
+    "thirdPartyCount": 48
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1263,
+    "violations": 40
+  },
+  "name": "Editorial theme - $160 USD"
+}

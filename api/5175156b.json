@@ -1,0 +1,52 @@
+{
+  "url": "https://galleria-demo.myshopify.com/",
+  "requestedUrl": "https://galleria-demo.myshopify.com/",
+  "timestamp": 1629190045867,
+  "ranks": {
+    "hundos": 9,
+    "performance": 12,
+    "accessibility": 6,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "bestPractices": 0.87,
+    "seo": 0.9,
+    "total": 320
+  },
+  "firstContentfulPaint": 2876.215,
+  "firstMeaningfulPaint": 5128.4185,
+  "speedIndex": 5213.0693973887555,
+  "largestContentfulPaint": 7897.181000000002,
+  "totalBlockingTime": 263,
+  "cumulativeLayoutShift": 0.09915634155273438,
+  "timeToInteractive": 8213.795500000002,
+  "maxPotentialFirstInputDelay": 180,
+  "timeToFirstByte": 864.324,
+  "weight": {
+    "summary": "61 requests • 997 KiB",
+    "total": 1021324,
+    "image": 338655,
+    "imageCount": 31,
+    "script": 318299,
+    "scriptCount": 12,
+    "document": 126862,
+    "font": 175351,
+    "fontCount": 6,
+    "stylesheet": 60777,
+    "stylesheetCount": 2,
+    "thirdParty": 1000420,
+    "thirdPartyCount": 60
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1049,
+    "violations": 58
+  },
+  "name": "Galleria theme - $180 USD"
+}

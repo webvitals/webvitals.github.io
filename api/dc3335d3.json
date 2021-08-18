@@ -1,0 +1,58 @@
+{
+  "url": "https://baseline-theme-bold.myshopify.com/",
+  "requestedUrl": "https://baseline-theme-bold.myshopify.com/",
+  "timestamp": 1629188480408,
+  "ranks": {
+    "hundos": 6,
+    "performance": 8,
+    "accessibility": 1,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.43,
+    "accessibility": 0.98,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 314
+  },
+  "firstContentfulPaint": 2419.2135000000003,
+  "firstMeaningfulPaint": 2419.2135000000003,
+  "speedIndex": 8411.508547429985,
+  "largestContentfulPaint": 3826.7945000000004,
+  "totalBlockingTime": 1739.4045000000006,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11056.417500000001,
+  "maxPotentialFirstInputDelay": 544.0000000000002,
+  "timeToFirstByte": 675.111,
+  "weight": {
+    "summary": "44 requests • 1,109 KiB",
+    "total": 1135241,
+    "image": 220386,
+    "imageCount": 8,
+    "script": 749298,
+    "scriptCount": 16,
+    "document": 57130,
+    "font": 34498,
+    "fontCount": 2,
+    "stylesheet": 55443,
+    "stylesheetCount": 2,
+    "thirdParty": 1099818,
+    "thirdPartyCount": 42
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1346,
+    "violations": 22
+  },
+  "name": "Baseline theme - $180 USD",
+  "previousRanks": {
+    "hundos": 4,
+    "performance": 6,
+    "accessibility": 1,
+    "cumulative": 4
+  }
+}

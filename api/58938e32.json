@@ -1,0 +1,52 @@
+{
+  "url": "https://colors-theme-generic.myshopify.com/",
+  "requestedUrl": "https://colors-theme-generic.myshopify.com/",
+  "timestamp": 1629191854389,
+  "ranks": {
+    "hundos": 9,
+    "performance": 15,
+    "accessibility": 12,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "bestPractices": 0.87,
+    "seo": 0.92,
+    "total": 325
+  },
+  "firstContentfulPaint": 2558.33,
+  "firstMeaningfulPaint": 2558.33,
+  "speedIndex": 6086.149709411058,
+  "largestContentfulPaint": 3663.553999999999,
+  "totalBlockingTime": 755,
+  "cumulativeLayoutShift": 0.08773040771484375,
+  "timeToInteractive": 10684.692499999997,
+  "maxPotentialFirstInputDelay": 302,
+  "timeToFirstByte": 383.00600000000003,
+  "weight": {
+    "summary": "93 requests • 2,658 KiB",
+    "total": 2721485,
+    "image": 1781737,
+    "imageCount": 36,
+    "script": 557421,
+    "scriptCount": 21,
+    "document": 26578,
+    "font": 121804,
+    "fontCount": 6,
+    "stylesheet": 28004,
+    "stylesheetCount": 4,
+    "thirdParty": 2490592,
+    "thirdPartyCount": 79
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1627,
+    "violations": 187
+  },
+  "name": "Colors theme - $240 USD"
+}

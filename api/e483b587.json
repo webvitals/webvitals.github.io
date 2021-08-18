@@ -1,0 +1,52 @@
+{
+  "url": "https://expanse-theme-beauty.myshopify.com/",
+  "requestedUrl": "https://expanse-theme-beauty.myshopify.com/",
+  "timestamp": 1629190266632,
+  "ranks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 18,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.61,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 327
+  },
+  "firstContentfulPaint": 1972.9020000000003,
+  "firstMeaningfulPaint": 1972.9020000000003,
+  "speedIndex": 5945.228628919602,
+  "largestContentfulPaint": 5937.485500000002,
+  "totalBlockingTime": 393,
+  "cumulativeLayoutShift": 0.0008366161584854126,
+  "timeToInteractive": 4388.421000000001,
+  "maxPotentialFirstInputDelay": 195,
+  "timeToFirstByte": 721.801,
+  "weight": {
+    "summary": "62 requests • 807 KiB",
+    "total": 825986,
+    "image": 513981,
+    "imageCount": 32,
+    "script": 175910,
+    "scriptCount": 16,
+    "document": 35954,
+    "font": 63030,
+    "fontCount": 3,
+    "stylesheet": 36116,
+    "stylesheetCount": 2,
+    "thirdParty": 789545,
+    "thirdPartyCount": 60
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2293,
+    "violations": 49
+  },
+  "name": "Expanse theme - $180 USD"
+}

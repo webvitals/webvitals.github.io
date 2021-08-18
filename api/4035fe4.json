@@ -1,0 +1,58 @@
+{
+  "url": "https://artisan-theme-barcelona.myshopify.com/",
+  "requestedUrl": "https://artisan-theme-barcelona.myshopify.com/",
+  "timestamp": 1629188600874,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 8,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.23,
+    "accessibility": 0.88,
+    "bestPractices": 0.73,
+    "seo": 0.92,
+    "total": 276
+  },
+  "firstContentfulPaint": 2120.343999999999,
+  "firstMeaningfulPaint": 2120.343999999999,
+  "speedIndex": 53445.721717642715,
+  "largestContentfulPaint": 17868.138999999996,
+  "totalBlockingTime": 14572.360999999999,
+  "cumulativeLayoutShift": 0.0003810216320885552,
+  "timeToInteractive": 21067.191,
+  "maxPotentialFirstInputDelay": 10000,
+  "timeToFirstByte": 749.4359999999997,
+  "weight": {
+    "summary": "62 requests • 1,106 KiB",
+    "total": 1132048,
+    "image": 243205,
+    "imageCount": 22,
+    "script": 734237,
+    "scriptCount": 18,
+    "document": 33718,
+    "font": 70122,
+    "fontCount": 5,
+    "stylesheet": 47283,
+    "stylesheetCount": 3,
+    "thirdParty": 1095994,
+    "thirdPartyCount": 59
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1489,
+    "violations": 82
+  },
+  "name": "Artisan theme - $180 USD",
+  "previousRanks": {
+    "hundos": 9,
+    "performance": 11,
+    "accessibility": 8,
+    "cumulative": 9
+  }
+}

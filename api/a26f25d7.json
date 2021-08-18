@@ -1,0 +1,52 @@
+{
+  "url": "https://fresh-theme-sweet.myshopify.com/",
+  "requestedUrl": "https://fresh-theme-sweet.myshopify.com/",
+  "timestamp": 1629189621025,
+  "ranks": {
+    "hundos": 19,
+    "performance": 21,
+    "accessibility": 7,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.3,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.79,
+    "total": 293
+  },
+  "firstContentfulPaint": 3212.495,
+  "firstMeaningfulPaint": 3212.495,
+  "speedIndex": 6231.717746180152,
+  "largestContentfulPaint": 8431.145,
+  "totalBlockingTime": 460.0000000000009,
+  "cumulativeLayoutShift": 1.0227269490559896,
+  "timeToInteractive": 10774.943500000001,
+  "maxPotentialFirstInputDelay": 316.0000000000009,
+  "timeToFirstByte": 1150.808,
+  "weight": {
+    "summary": "74 requests • 1,751 KiB",
+    "total": 1793383,
+    "image": 1140117,
+    "imageCount": 34,
+    "script": 351614,
+    "scriptCount": 19,
+    "document": 47011,
+    "font": 71712,
+    "fontCount": 5,
+    "stylesheet": 178673,
+    "stylesheetCount": 3,
+    "thirdParty": 1743590,
+    "thirdPartyCount": 71
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 914,
+    "violations": 23
+  },
+  "name": "Fresh theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://trademark-gold.myshopify.com/",
+  "requestedUrl": "https://trademark-gold.myshopify.com/",
+  "timestamp": 1629189492654,
+  "ranks": {
+    "hundos": 9,
+    "performance": 5,
+    "accessibility": 9,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.49,
+    "accessibility": 0.75,
+    "bestPractices": 0.67,
+    "seo": 0.75,
+    "total": 266
+  },
+  "firstContentfulPaint": 2210.4049999999997,
+  "firstMeaningfulPaint": 3374.1614999999997,
+  "speedIndex": 4689.5537730350225,
+  "largestContentfulPaint": 8169.296,
+  "totalBlockingTime": 623.5,
+  "cumulativeLayoutShift": 0.022389214409722222,
+  "timeToInteractive": 8712.255000000001,
+  "maxPotentialFirstInputDelay": 283,
+  "timeToFirstByte": 102.70399999999998,
+  "weight": {
+    "summary": "76 requests • 1,074 KiB",
+    "total": 1099893,
+    "image": 385599,
+    "imageCount": 29,
+    "script": 452399,
+    "scriptCount": 29,
+    "document": 132116,
+    "font": 85331,
+    "fontCount": 4,
+    "stylesheet": 42407,
+    "stylesheetCount": 3,
+    "thirdParty": 1072629,
+    "thirdPartyCount": 74
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1002,
+    "violations": 54
+  },
+  "name": "Trademark theme - $180 USD"
+}

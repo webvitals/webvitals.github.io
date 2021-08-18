@@ -1,0 +1,52 @@
+{
+  "url": "https://brooklyn-theme-playful.myshopify.com/",
+  "requestedUrl": "https://brooklyn-theme-playful.myshopify.com/",
+  "timestamp": 1629189796144,
+  "ranks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.69,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 342
+  },
+  "firstContentfulPaint": 2429.6359999999995,
+  "firstMeaningfulPaint": 3376.4725,
+  "speedIndex": 3886.2060732161317,
+  "largestContentfulPaint": 5096.235999999999,
+  "totalBlockingTime": 95.99999999999977,
+  "cumulativeLayoutShift": 0.20881547927856448,
+  "timeToInteractive": 3895.117999999999,
+  "maxPotentialFirstInputDelay": 139.99999999999955,
+  "timeToFirstByte": 328.63699999999994,
+  "weight": {
+    "summary": "30 requests • 417 KiB",
+    "total": 427473,
+    "image": 171500,
+    "imageCount": 7,
+    "script": 142445,
+    "scriptCount": 10,
+    "document": 19289,
+    "font": 70182,
+    "fontCount": 4,
+    "stylesheet": 23567,
+    "stylesheetCount": 2,
+    "thirdParty": 408184,
+    "thirdPartyCount": 29
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 665,
+    "violations": 0
+  },
+  "name": "Brooklyn theme - Free"
+}

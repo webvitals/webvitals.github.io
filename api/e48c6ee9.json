@@ -1,0 +1,52 @@
+{
+  "url": "https://handy-theme-light.myshopify.com/",
+  "requestedUrl": "https://handy-theme-light.myshopify.com/",
+  "timestamp": 1629189256984,
+  "ranks": {
+    "hundos": 23,
+    "performance": 23,
+    "accessibility": 24,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.3,
+    "accessibility": 0.75,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 277
+  },
+  "firstContentfulPaint": 2073.288,
+  "firstMeaningfulPaint": 2073.288,
+  "speedIndex": 6552.7608354107015,
+  "largestContentfulPaint": 10395.960000000001,
+  "totalBlockingTime": 2038,
+  "cumulativeLayoutShift": 0.051904296875000006,
+  "timeToInteractive": 14423.4505,
+  "maxPotentialFirstInputDelay": 668.0000000000009,
+  "timeToFirstByte": 887.604,
+  "weight": {
+    "summary": "87 requests • 1,588 KiB",
+    "total": 1626601,
+    "image": 305523,
+    "imageCount": 19,
+    "script": 1105551,
+    "scriptCount": 33,
+    "document": 84773,
+    "font": 43399,
+    "fontCount": 5,
+    "stylesheet": 78910,
+    "stylesheetCount": 4,
+    "thirdParty": 1585807,
+    "thirdPartyCount": 84
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 876,
+    "violations": 29
+  },
+  "name": "Handy theme - $180 USD"
+}

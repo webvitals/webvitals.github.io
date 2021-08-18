@@ -1,0 +1,52 @@
+{
+  "url": "https://innovate-theme.myshopify.com/",
+  "requestedUrl": "https://innovate-theme.myshopify.com/",
+  "timestamp": 1629190966970,
+  "ranks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 3,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.68,
+    "accessibility": 0.95,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 340
+  },
+  "firstContentfulPaint": 2244.935,
+  "firstMeaningfulPaint": 3933.328,
+  "speedIndex": 3675.801998468348,
+  "largestContentfulPaint": 6103.1265,
+  "totalBlockingTime": 176,
+  "cumulativeLayoutShift": 0.05921518325805664,
+  "timeToInteractive": 5826.874000000001,
+  "maxPotentialFirstInputDelay": 126,
+  "timeToFirstByte": 397.4290000000001,
+  "weight": {
+    "summary": "40 requests • 1,394 KiB",
+    "total": 1427194,
+    "image": 1011937,
+    "imageCount": 16,
+    "script": 229513,
+    "scriptCount": 9,
+    "document": 33094,
+    "font": 122028,
+    "fontCount": 6,
+    "stylesheet": 29924,
+    "stylesheetCount": 1,
+    "thirdParty": 1394100,
+    "thirdPartyCount": 39
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1410,
+    "violations": 28
+  },
+  "name": "Expression theme - $180 USD"
+}

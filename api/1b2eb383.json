@@ -1,0 +1,52 @@
+{
+  "url": "https://cuber-theme.myshopify.com/",
+  "requestedUrl": "https://cuber-theme.myshopify.com/",
+  "timestamp": 1629189212566,
+  "ranks": {
+    "hundos": 13,
+    "performance": 7,
+    "accessibility": 23,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.62,
+    "accessibility": 0.77,
+    "bestPractices": 0.93,
+    "seo": 0.77,
+    "total": 309
+  },
+  "firstContentfulPaint": 2525.518,
+  "firstMeaningfulPaint": 2648.249,
+  "speedIndex": 4874.573850624127,
+  "largestContentfulPaint": 5360.384,
+  "totalBlockingTime": 362.5709999999999,
+  "cumulativeLayoutShift": 0.010298226886325411,
+  "timeToInteractive": 6071.973,
+  "maxPotentialFirstInputDelay": 455,
+  "timeToFirstByte": 626.2239999999999,
+  "weight": {
+    "summary": "31 requests • 681 KiB",
+    "total": 697465,
+    "image": 268492,
+    "imageCount": 5,
+    "script": 149972,
+    "scriptCount": 10,
+    "document": 31947,
+    "font": 69462,
+    "fontCount": 3,
+    "stylesheet": 42446,
+    "stylesheetCount": 2,
+    "thirdParty": 665518,
+    "thirdPartyCount": 30
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1315,
+    "violations": 24
+  },
+  "name": "Split theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://startup-theme-cloth.myshopify.com/",
+  "requestedUrl": "https://startup-theme-cloth.myshopify.com/",
+  "timestamp": 1629190895715,
+  "ranks": {
+    "hundos": 13,
+    "performance": 12,
+    "accessibility": 12,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.52,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 304
+  },
+  "firstContentfulPaint": 2256.604,
+  "firstMeaningfulPaint": 2256.604,
+  "speedIndex": 4329.627947004834,
+  "largestContentfulPaint": 5705.039999999999,
+  "totalBlockingTime": 145,
+  "cumulativeLayoutShift": 1.2974680887858072,
+  "timeToInteractive": 8790.0955,
+  "maxPotentialFirstInputDelay": 87,
+  "timeToFirstByte": 400.043,
+  "weight": {
+    "summary": "42 requests • 906 KiB",
+    "total": 927239,
+    "image": 242819,
+    "imageCount": 6,
+    "script": 456555,
+    "scriptCount": 17,
+    "document": 18049,
+    "font": 165803,
+    "fontCount": 6,
+    "stylesheet": 41990,
+    "stylesheetCount": 2,
+    "thirdParty": 909190,
+    "thirdPartyCount": 41
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 637,
+    "violations": 14
+  },
+  "name": "Startup theme - $180 USD"
+}

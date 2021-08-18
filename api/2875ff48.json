@@ -1,0 +1,52 @@
+{
+  "url": "https://responsive-theme-paris.myshopify.com/",
+  "requestedUrl": "https://responsive-theme-paris.myshopify.com/",
+  "timestamp": 1629190955619,
+  "ranks": {
+    "hundos": 11,
+    "performance": 15,
+    "accessibility": 13,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.46,
+    "accessibility": 0.86,
+    "bestPractices": 0.87,
+    "seo": 0.93,
+    "total": 312
+  },
+  "firstContentfulPaint": 2123.883,
+  "firstMeaningfulPaint": 2123.883,
+  "speedIndex": 3951.790143676749,
+  "largestContentfulPaint": 6298.233999999999,
+  "totalBlockingTime": 478.0704999999998,
+  "cumulativeLayoutShift": 0.4118067016866472,
+  "timeToInteractive": 6947.8565,
+  "maxPotentialFirstInputDelay": 278,
+  "timeToFirstByte": 461.385,
+  "weight": {
+    "summary": "62 requests • 1,212 KiB",
+    "total": 1241182,
+    "image": 757616,
+    "imageCount": 26,
+    "script": 356277,
+    "scriptCount": 13,
+    "document": 30427,
+    "font": 44977,
+    "fontCount": 3,
+    "stylesheet": 43134,
+    "stylesheetCount": 3,
+    "thirdParty": 1202631,
+    "thirdPartyCount": 53
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 816,
+    "violations": 99
+  },
+  "name": "Responsive theme - $180 USD"
+}

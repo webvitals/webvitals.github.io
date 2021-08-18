@@ -1,0 +1,52 @@
+{
+  "url": "https://betty-theme.myshopify.com/",
+  "requestedUrl": "https://betty-theme.myshopify.com/",
+  "timestamp": 1629191450309,
+  "ranks": {
+    "hundos": 7,
+    "performance": 10,
+    "accessibility": 14,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.66,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 334
+  },
+  "firstContentfulPaint": 2318.413,
+  "firstMeaningfulPaint": 2318.413,
+  "speedIndex": 4519.70589133117,
+  "largestContentfulPaint": 5992.52,
+  "totalBlockingTime": 236.5,
+  "cumulativeLayoutShift": 0.007656249999999999,
+  "timeToInteractive": 5177.858,
+  "maxPotentialFirstInputDelay": 231,
+  "timeToFirstByte": 478.023,
+  "weight": {
+    "summary": "40 requests • 1,199 KiB",
+    "total": 1227563,
+    "image": 766791,
+    "imageCount": 8,
+    "script": 234778,
+    "scriptCount": 15,
+    "document": 31726,
+    "font": 144058,
+    "fontCount": 7,
+    "stylesheet": 49516,
+    "stylesheetCount": 2,
+    "thirdParty": 1195837,
+    "thirdPartyCount": 39
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2102,
+    "violations": 26
+  },
+  "name": "Showcase theme - $240 USD"
+}

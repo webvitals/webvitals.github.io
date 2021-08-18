@@ -1,0 +1,52 @@
+{
+  "url": "https://sunrise-theme.myshopify.com/",
+  "requestedUrl": "https://sunrise-theme.myshopify.com/",
+  "timestamp": 1629192139158,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 4,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.84,
+    "accessibility": 0.82,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 359
+  },
+  "firstContentfulPaint": 2337.004,
+  "firstMeaningfulPaint": 2337.004,
+  "speedIndex": 2827.6024743741746,
+  "largestContentfulPaint": 3784.2740000000003,
+  "totalBlockingTime": 56,
+  "cumulativeLayoutShift": 0.003853228002010534,
+  "timeToInteractive": 4901.413500000001,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 414.08799999999997,
+  "weight": {
+    "summary": "50 requests • 658 KiB",
+    "total": 673673,
+    "image": 448791,
+    "imageCount": 29,
+    "script": 103258,
+    "scriptCount": 8,
+    "document": 25078,
+    "font": 82346,
+    "fontCount": 4,
+    "stylesheet": 13251,
+    "stylesheetCount": 1,
+    "thirdParty": 648595,
+    "thirdPartyCount": 49
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 773,
+    "violations": 38
+  },
+  "name": "Sunrise theme - $160 USD"
+}

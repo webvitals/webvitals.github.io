@@ -1,0 +1,52 @@
+{
+  "url": "https://boundless-theme-bikes.myshopify.com/",
+  "requestedUrl": "https://boundless-theme-bikes.myshopify.com/",
+  "timestamp": 1629191821818,
+  "ranks": {
+    "hundos": 4,
+    "performance": 8,
+    "accessibility": 5,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.67,
+    "accessibility": 0.96,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 341
+  },
+  "firstContentfulPaint": 2253.247,
+  "firstMeaningfulPaint": 3380.2309999999998,
+  "speedIndex": 4364.615540563413,
+  "largestContentfulPaint": 6420.254999999997,
+  "totalBlockingTime": 50,
+  "cumulativeLayoutShift": 0.12079136530558268,
+  "timeToInteractive": 5558.181,
+  "maxPotentialFirstInputDelay": 112,
+  "timeToFirstByte": 380.192,
+  "weight": {
+    "summary": "55 requests • 842 KiB",
+    "total": 862160,
+    "image": 607486,
+    "imageCount": 30,
+    "script": 155358,
+    "scriptCount": 11,
+    "document": 17929,
+    "font": 64432,
+    "fontCount": 5,
+    "stylesheet": 16245,
+    "stylesheetCount": 1,
+    "thirdParty": 844231,
+    "thirdPartyCount": 54
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 862,
+    "violations": 56
+  },
+  "name": "Boundless theme - Free"
+}

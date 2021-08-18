@@ -1,0 +1,52 @@
+{
+  "url": "https://narrative-theme-warm.myshopify.com/",
+  "requestedUrl": "https://narrative-theme-warm.myshopify.com/",
+  "timestamp": 1629190794888,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 5,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.85,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 346
+  },
+  "firstContentfulPaint": 1476.2679999999998,
+  "firstMeaningfulPaint": 3107.4709999999995,
+  "speedIndex": 2781.3498148856506,
+  "largestContentfulPaint": 3860.191999999999,
+  "totalBlockingTime": 118.5,
+  "cumulativeLayoutShift": 0.07526212692260743,
+  "timeToInteractive": 3748.595999999999,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 444.37899999999996,
+  "weight": {
+    "summary": "34 requests • 763 KiB",
+    "total": 781641,
+    "image": 524486,
+    "imageCount": 12,
+    "script": 132957,
+    "scriptCount": 10,
+    "document": 27711,
+    "font": 74563,
+    "fontCount": 4,
+    "stylesheet": 21438,
+    "stylesheetCount": 1,
+    "thirdParty": 753930,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 629,
+    "violations": 18
+  },
+  "name": "Narrative theme - Free"
+}

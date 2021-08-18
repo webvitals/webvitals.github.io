@@ -1,0 +1,52 @@
+{
+  "url": "https://chelsea-theme.myshopify.com/",
+  "requestedUrl": "https://chelsea-theme.myshopify.com/",
+  "timestamp": 1629190304698,
+  "ranks": {
+    "hundos": 10,
+    "performance": 9,
+    "accessibility": 14,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.69,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.71,
+    "total": 330
+  },
+  "firstContentfulPaint": 2437.2329999999997,
+  "firstMeaningfulPaint": 2437.2329999999997,
+  "speedIndex": 4770.851234781032,
+  "largestContentfulPaint": 5663.403,
+  "totalBlockingTime": 142,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4858.733499999999,
+  "maxPotentialFirstInputDelay": 208,
+  "timeToFirstByte": 520.942,
+  "weight": {
+    "summary": "57 requests • 2,999 KiB",
+    "total": 3070655,
+    "image": 2511640,
+    "imageCount": 27,
+    "script": 216851,
+    "scriptCount": 13,
+    "document": 53230,
+    "font": 189466,
+    "fontCount": 7,
+    "stylesheet": 47346,
+    "stylesheetCount": 2,
+    "thirdParty": 2965784,
+    "thirdPartyCount": 55
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1414,
+    "violations": 10
+  },
+  "name": "Modular theme - $180 USD"
+}

@@ -1,0 +1,57 @@
+{
+  "url": "https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/",
+  "requestedUrl": "https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/",
+  "timestamp": 1628870825924,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 4,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.63,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 334
+  },
+  "firstContentfulPaint": 1571.972,
+  "firstMeaningfulPaint": 1598.972,
+  "speedIndex": 5866.680360137454,
+  "largestContentfulPaint": 1598.972,
+  "totalBlockingTime": 1151.7295000000013,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10030.584000000003,
+  "maxPotentialFirstInputDelay": 451,
+  "timeToFirstByte": 266.308,
+  "weight": {
+    "summary": "129 requests • 1,038 KiB",
+    "total": 1062494,
+    "image": 325533,
+    "imageCount": 35,
+    "script": 444087,
+    "scriptCount": 54,
+    "document": 24840,
+    "font": 117928,
+    "fontCount": 7,
+    "stylesheet": 1112,
+    "stylesheetCount": 3,
+    "thirdParty": 1014555,
+    "thirdPartyCount": 125
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "name": "https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/",
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 3
+  }
+}

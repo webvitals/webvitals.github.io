@@ -1,0 +1,52 @@
+{
+  "url": "https://pipeline-dark.myshopify.com/",
+  "requestedUrl": "https://pipeline-dark.myshopify.com/",
+  "timestamp": 1629191835070,
+  "ranks": {
+    "hundos": 1,
+    "performance": 3,
+    "accessibility": 10,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.79,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 357
+  },
+  "firstContentfulPaint": 2560.607,
+  "firstMeaningfulPaint": 2560.607,
+  "speedIndex": 4518.853399443261,
+  "largestContentfulPaint": 2786.4590000000003,
+  "totalBlockingTime": 327.5,
+  "cumulativeLayoutShift": 0.0003357442220052084,
+  "timeToInteractive": 6240.955000000002,
+  "maxPotentialFirstInputDelay": 158,
+  "timeToFirstByte": 878.2489999999999,
+  "weight": {
+    "summary": "84 requests • 1,419 KiB",
+    "total": 1453119,
+    "image": 585314,
+    "imageCount": 36,
+    "script": 266629,
+    "scriptCount": 19,
+    "document": 26825,
+    "font": 117550,
+    "fontCount": 5,
+    "stylesheet": 45508,
+    "stylesheetCount": 2,
+    "thirdParty": 1421924,
+    "thirdPartyCount": 80
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 786,
+    "violations": 14
+  },
+  "name": "Pipeline theme - $240 USD"
+}

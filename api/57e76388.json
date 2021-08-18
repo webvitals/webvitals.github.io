@@ -1,0 +1,58 @@
+{
+  "url": "https://minimal-vintage-theme.myshopify.com/",
+  "requestedUrl": "https://minimal-vintage-theme.myshopify.com/",
+  "timestamp": 1629188736941,
+  "ranks": {
+    "hundos": 5,
+    "performance": 7,
+    "accessibility": 4,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.47,
+    "accessibility": 0.92,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 317
+  },
+  "firstContentfulPaint": 2347.57,
+  "firstMeaningfulPaint": 3755.063,
+  "speedIndex": 3594.1398433665054,
+  "largestContentfulPaint": 6229.195,
+  "totalBlockingTime": 446.5,
+  "cumulativeLayoutShift": 0.4967798696094089,
+  "timeToInteractive": 5744.695,
+  "maxPotentialFirstInputDelay": 369,
+  "timeToFirstByte": 467.51,
+  "weight": {
+    "summary": "53 requests • 610 KiB",
+    "total": 624589,
+    "image": 221337,
+    "imageCount": 17,
+    "script": 242967,
+    "scriptCount": 18,
+    "document": 19043,
+    "font": 119207,
+    "fontCount": 5,
+    "stylesheet": 19362,
+    "stylesheetCount": 2,
+    "thirdParty": 604333,
+    "thirdPartyCount": 51
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 772,
+    "violations": 18
+  },
+  "name": "Minimal theme - Free",
+  "previousRanks": {
+    "hundos": 8,
+    "performance": 9,
+    "accessibility": 4,
+    "cumulative": 8
+  }
+}

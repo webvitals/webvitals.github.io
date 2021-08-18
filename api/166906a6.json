@@ -1,0 +1,52 @@
+{
+  "url": "https://providence-seaside.myshopify.com/",
+  "requestedUrl": "https://providence-seaside.myshopify.com/",
+  "timestamp": 1629190533305,
+  "ranks": {
+    "hundos": 15,
+    "performance": 16,
+    "accessibility": 21,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.57,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.98,
+    "total": 314
+  },
+  "firstContentfulPaint": 3025.742,
+  "firstMeaningfulPaint": 3475.742,
+  "speedIndex": 5341.574927767979,
+  "largestContentfulPaint": 3325.742,
+  "totalBlockingTime": 336.5,
+  "cumulativeLayoutShift": 0.5645536295572917,
+  "timeToInteractive": 7810.621999999999,
+  "maxPotentialFirstInputDelay": 277,
+  "timeToFirstByte": 263.337,
+  "weight": {
+    "summary": "76 requests • 1,138 KiB",
+    "total": 1165147,
+    "image": 263863,
+    "imageCount": 13,
+    "script": 616522,
+    "scriptCount": 38,
+    "document": 128713,
+    "font": 116779,
+    "fontCount": 3,
+    "stylesheet": 38284,
+    "stylesheetCount": 9,
+    "thirdParty": 1140634,
+    "thirdPartyCount": 74
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 851,
+    "violations": 66
+  },
+  "name": "Providence theme - $160 USD"
+}

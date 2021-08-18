@@ -1,0 +1,52 @@
+{
+  "url": "https://looker-theme.myshopify.com/",
+  "requestedUrl": "https://looker-theme.myshopify.com/",
+  "timestamp": 1629190067766,
+  "ranks": {
+    "hundos": 2,
+    "performance": 1,
+    "accessibility": 8,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.79,
+    "accessibility": 0.87,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 343
+  },
+  "firstContentfulPaint": 2451.5600000000004,
+  "firstMeaningfulPaint": 2451.5600000000004,
+  "speedIndex": 3361.1749498284007,
+  "largestContentfulPaint": 4618.644,
+  "totalBlockingTime": 27.999999999999773,
+  "cumulativeLayoutShift": 0.009167626168992783,
+  "timeToInteractive": 3262.9400000000005,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 609.119,
+  "weight": {
+    "summary": "25 requests • 352 KiB",
+    "total": 360931,
+    "image": 61519,
+    "imageCount": 4,
+    "script": 112087,
+    "scriptCount": 8,
+    "document": 24768,
+    "font": 127755,
+    "fontCount": 5,
+    "stylesheet": 34321,
+    "stylesheetCount": 1,
+    "thirdParty": 336163,
+    "thirdPartyCount": 24
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 669,
+    "violations": 14
+  },
+  "name": "Split theme - $180 USD"
+}

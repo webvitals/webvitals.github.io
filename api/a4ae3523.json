@@ -1,0 +1,52 @@
+{
+  "url": "https://mht-demo.myshopify.com/",
+  "requestedUrl": "https://mht-demo.myshopify.com/",
+  "timestamp": 1629189144797,
+  "ranks": {
+    "hundos": 19,
+    "performance": 21,
+    "accessibility": 16,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.36,
+    "accessibility": 0.88,
+    "bestPractices": 0.8,
+    "seo": 0.89,
+    "total": 293
+  },
+  "firstContentfulPaint": 2589.715,
+  "firstMeaningfulPaint": 4906.1695,
+  "speedIndex": 6178.271451397818,
+  "largestContentfulPaint": 8549.300500000001,
+  "totalBlockingTime": 940.9999999999995,
+  "cumulativeLayoutShift": 0.09917992485894098,
+  "timeToInteractive": 11946.24,
+  "maxPotentialFirstInputDelay": 276,
+  "timeToFirstByte": 575.0649999999999,
+  "weight": {
+    "summary": "85 requests • 1,612 KiB",
+    "total": 1651009,
+    "image": 689089,
+    "imageCount": 38,
+    "script": 580056,
+    "scriptCount": 26,
+    "document": 128810,
+    "font": 179068,
+    "fontCount": 7,
+    "stylesheet": 72741,
+    "stylesheetCount": 4,
+    "thirdParty": 1628157,
+    "thirdPartyCount": 84
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2102,
+    "violations": 258
+  },
+  "name": "Galleria theme - $180 USD"
+}

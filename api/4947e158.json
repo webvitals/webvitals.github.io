@@ -1,0 +1,58 @@
+{
+  "url": "https://flow-queenstown.myshopify.com/",
+  "requestedUrl": "https://flow-queenstown.myshopify.com/",
+  "timestamp": 1629189743609,
+  "ranks": {
+    "hundos": 21,
+    "performance": 22,
+    "accessibility": 15,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.3,
+    "accessibility": 0.87,
+    "bestPractices": 0.8,
+    "seo": 0.84,
+    "total": 281
+  },
+  "firstContentfulPaint": 2784.686,
+  "firstMeaningfulPaint": 2784.686,
+  "speedIndex": 13332.133113549055,
+  "largestContentfulPaint": 7817.817999999999,
+  "totalBlockingTime": 1028,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 13917.9,
+  "maxPotentialFirstInputDelay": 492,
+  "timeToFirstByte": 867.797,
+  "weight": {
+    "summary": "134 requests • 6,118 KiB",
+    "total": 6264952,
+    "image": 593594,
+    "imageCount": 61,
+    "script": 1094368,
+    "scriptCount": 32,
+    "document": 58029,
+    "font": 146978,
+    "fontCount": 5,
+    "stylesheet": 225376,
+    "stylesheetCount": 4,
+    "thirdParty": 6191621,
+    "thirdPartyCount": 130
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 661,
+    "violations": 53
+  },
+  "name": "Flow theme - $180 USD",
+  "previousRanks": {
+    "hundos": 12,
+    "performance": 12,
+    "accessibility": 9,
+    "cumulative": 12
+  }
+}

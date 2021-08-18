@@ -1,0 +1,52 @@
+{
+  "url": "https://blockshop-theme-deli.myshopify.com/",
+  "requestedUrl": "https://blockshop-theme-deli.myshopify.com/",
+  "timestamp": 1629189856445,
+  "ranks": {
+    "hundos": 2,
+    "performance": 5,
+    "accessibility": 6,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.69,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 348
+  },
+  "firstContentfulPaint": 1976.494,
+  "firstMeaningfulPaint": 1976.494,
+  "speedIndex": 7754.031018057281,
+  "largestContentfulPaint": 3106.4964999999997,
+  "totalBlockingTime": 461,
+  "cumulativeLayoutShift": 0.004259567260742187,
+  "timeToInteractive": 6308.170000000002,
+  "maxPotentialFirstInputDelay": 219,
+  "timeToFirstByte": 1256.7189999999998,
+  "weight": {
+    "summary": "84 requests • 1,221 KiB",
+    "total": 1250072,
+    "image": 858476,
+    "imageCount": 27,
+    "script": 269747,
+    "scriptCount": 22,
+    "document": 39972,
+    "font": 31893,
+    "fontCount": 3,
+    "stylesheet": 35985,
+    "stylesheetCount": 3,
+    "thirdParty": 1204908,
+    "thirdPartyCount": 80
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2140,
+    "violations": 28
+  },
+  "name": "Blockshop theme - $180 USD"
+}

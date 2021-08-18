@@ -1,0 +1,52 @@
+{
+  "url": "https://www.wix.com/website-template/view/html/2514",
+  "requestedUrl": "https://www.wix.com/website-template/view/html/2514",
+  "timestamp": 1629135055565,
+  "ranks": {
+    "hundos": 1,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.43,
+    "accessibility": 0.69,
+    "bestPractices": 0.8,
+    "seo": 1,
+    "total": 292
+  },
+  "firstContentfulPaint": 2932.8959999999997,
+  "firstMeaningfulPaint": 2932.8959999999997,
+  "speedIndex": 10229.13483575123,
+  "largestContentfulPaint": 3008.0505000000003,
+  "totalBlockingTime": 2083.5,
+  "cumulativeLayoutShift": 0.00013461810699351225,
+  "timeToInteractive": 22755.329999999994,
+  "maxPotentialFirstInputDelay": 686,
+  "timeToFirstByte": 233.45600000000002,
+  "weight": {
+    "summary": "263 requests • 4,419 KiB",
+    "total": 4525135,
+    "image": 1706094,
+    "imageCount": 48,
+    "script": 2198646,
+    "scriptCount": 105,
+    "document": 175651,
+    "font": 116990,
+    "fontCount": 6,
+    "stylesheet": 112391,
+    "stylesheetCount": 16,
+    "thirdParty": 4208091,
+    "thirdPartyCount": 215
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1724,
+    "violations": 13
+  },
+  "name": "Accessories Store"
+}

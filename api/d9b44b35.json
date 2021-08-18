@@ -1,0 +1,52 @@
+{
+  "url": "https://warehouse-theme-fabric.myshopify.com/",
+  "requestedUrl": "https://warehouse-theme-fabric.myshopify.com/",
+  "timestamp": 1629189009019,
+  "ranks": {
+    "hundos": 8,
+    "performance": 10,
+    "accessibility": 7,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.57,
+    "accessibility": 0.96,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 325
+  },
+  "firstContentfulPaint": 2480.643,
+  "firstMeaningfulPaint": 2480.643,
+  "speedIndex": 5423.401308795855,
+  "largestContentfulPaint": 6206.430999999999,
+  "totalBlockingTime": 351.9999999999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7994.103,
+  "maxPotentialFirstInputDelay": 253,
+  "timeToFirstByte": 1593.332,
+  "weight": {
+    "summary": "66 requests • 1,474 KiB",
+    "total": 1509064,
+    "image": 774844,
+    "imageCount": 16,
+    "script": 277572,
+    "scriptCount": 23,
+    "document": 51292,
+    "font": 40143,
+    "fontCount": 2,
+    "stylesheet": 38723,
+    "stylesheetCount": 2,
+    "thirdParty": 1132754,
+    "thirdPartyCount": 52
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 3146,
+    "violations": 45
+  },
+  "name": "Warehouse theme - $250 USD"
+}

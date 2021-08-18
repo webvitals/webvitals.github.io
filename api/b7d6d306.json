@@ -1,0 +1,58 @@
+{
+  "url": "https://themes.shopify.com/themes/pipeline/styles/bright/preview",
+  "requestedUrl": "https://themes.shopify.com/themes/pipeline/styles/bright/preview",
+  "timestamp": 1628869597247,
+  "ranks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.32,
+    "accessibility": 0.97,
+    "bestPractices": 0.73,
+    "seo": 1,
+    "total": 302
+  },
+  "firstContentfulPaint": 4243.183,
+  "firstMeaningfulPaint": 4243.183,
+  "speedIndex": 12185.009478848904,
+  "largestContentfulPaint": 4617.177000000001,
+  "totalBlockingTime": 1699.536000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10055.588500000002,
+  "maxPotentialFirstInputDelay": 2064.9999999999995,
+  "timeToFirstByte": 444.4649999999999,
+  "weight": {
+    "summary": "114 requests • 2,211 KiB",
+    "total": 2264458,
+    "image": 486169,
+    "imageCount": 55,
+    "script": 418276,
+    "scriptCount": 20,
+    "document": 41674,
+    "font": 202197,
+    "fontCount": 8,
+    "stylesheet": 70203,
+    "stylesheetCount": 3,
+    "thirdParty": 234649,
+    "thirdPartyCount": 35
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1033,
+    "violations": 32
+  },
+  "name": "https://themes.shopify.com/themes/pipeline/styles/bright/preview",
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  }
+}

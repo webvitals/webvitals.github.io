@@ -1,0 +1,52 @@
+{
+  "url": "https://district-theme-energy.myshopify.com/",
+  "requestedUrl": "https://district-theme-energy.myshopify.com/",
+  "timestamp": 1629191867519,
+  "ranks": {
+    "hundos": 15,
+    "performance": 14,
+    "accessibility": 8,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 0.82,
+    "total": 311
+  },
+  "firstContentfulPaint": 2976.312,
+  "firstMeaningfulPaint": 2976.312,
+  "speedIndex": 6209.349257569496,
+  "largestContentfulPaint": 3959.138,
+  "totalBlockingTime": 528,
+  "cumulativeLayoutShift": 0.0097998046875,
+  "timeToInteractive": 12519.764000000001,
+  "maxPotentialFirstInputDelay": 422,
+  "timeToFirstByte": 520.063,
+  "weight": {
+    "summary": "63 requests • 2,018 KiB",
+    "total": 2066916,
+    "image": 391637,
+    "imageCount": 15,
+    "script": 870807,
+    "scriptCount": 21,
+    "document": 63919,
+    "font": 95784,
+    "fontCount": 3,
+    "stylesheet": 77242,
+    "stylesheetCount": 2,
+    "thirdParty": 2026047,
+    "thirdPartyCount": 62
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1348,
+    "violations": 33
+  },
+  "name": "District theme - $180 USD"
+}

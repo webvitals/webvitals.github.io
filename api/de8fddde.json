@@ -1,0 +1,52 @@
+{
+  "url": "https://maker-theme-bloom.myshopify.com/",
+  "requestedUrl": "https://maker-theme-bloom.myshopify.com/",
+  "timestamp": 1629190390062,
+  "ranks": {
+    "hundos": 9,
+    "performance": 8,
+    "accessibility": 5,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.71,
+    "accessibility": 0.94,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 331
+  },
+  "firstContentfulPaint": 2119.573,
+  "firstMeaningfulPaint": 2119.573,
+  "speedIndex": 4433.632248486405,
+  "largestContentfulPaint": 3904.709500000001,
+  "totalBlockingTime": 354.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7322.093000000001,
+  "maxPotentialFirstInputDelay": 196,
+  "timeToFirstByte": 120.281,
+  "weight": {
+    "summary": "114 requests • 8,654 KiB",
+    "total": 8861350,
+    "image": 397291,
+    "imageCount": 31,
+    "script": 444821,
+    "scriptCount": 26,
+    "document": 49679,
+    "font": 91888,
+    "fontCount": 6,
+    "stylesheet": 57595,
+    "stylesheetCount": 5,
+    "thirdParty": 8817076,
+    "thirdPartyCount": 111
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2221,
+    "violations": 35
+  },
+  "name": "Maker theme - $180 USD"
+}

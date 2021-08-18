@@ -1,0 +1,51 @@
+{
+  "url": "https://narrative-theme-earthy.myshopify.com/",
+  "requestedUrl": "https://narrative-theme-earthy.myshopify.com/",
+  "timestamp": 1629188666490,
+  "ranks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 5,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": null,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "seo": 0.86,
+    "total": 264
+  },
+  "firstContentfulPaint": 7209.3855,
+  "speedIndex": 44298.544785713646,
+  "largestContentfulPaint": 10096.154500000002,
+  "cumulativeLayoutShift": 0.02287769317626953,
+  "maxPotentialFirstInputDelay": 2494.5,
+  "timeToFirstByte": 462.273,
+  "weight": {
+    "summary": "51 requests • 1,066 KiB",
+    "total": 1091167,
+    "image": 621321,
+    "imageCount": 12,
+    "script": 339308,
+    "scriptCount": 21,
+    "document": 25467,
+    "font": 78044,
+    "fontCount": 3,
+    "stylesheet": 23705,
+    "stylesheetCount": 1,
+    "thirdParty": 1064479,
+    "thirdPartyCount": 49
+  },
+  "axe": {
+    "passes": 609,
+    "violations": 1
+  },
+  "name": "Narrative theme - Free",
+  "previousRanks": {
+    "hundos": 4,
+    "performance": 3,
+    "accessibility": 6,
+    "cumulative": 4
+  }
+}

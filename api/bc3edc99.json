@@ -1,57 +1,52 @@
 {
   "url": "https://www.wix.com/website-template/view/html/2898",
   "requestedUrl": "https://www.wix.com/website-template/view/html/2898",
-  "timestamp": 1628782695665,
+  "timestamp": 1629135304145,
   "ranks": {
-    "hundos": 1,
-    "performance": 1,
-    "accessibility": 2,
-    "cumulative": 1
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 3,
+    "cumulative": 4
   },
   "lighthouse": {
     "version": "8.2.0",
-    "performance": 0.48,
+    "performance": 0.44,
     "accessibility": 0.69,
     "bestPractices": 0.8,
     "seo": 1,
-    "total": 297
+    "total": 293
   },
-  "firstContentfulPaint": 3143.049,
-  "firstMeaningfulPaint": 3143.049,
-  "speedIndex": 6352.331967449012,
-  "largestContentfulPaint": 3143.049,
-  "totalBlockingTime": 1391.500000000001,
+  "firstContentfulPaint": 2873.1229999999996,
+  "firstMeaningfulPaint": 2873.1229999999996,
+  "speedIndex": 6234.569014419654,
+  "largestContentfulPaint": 4709.9974999999995,
+  "totalBlockingTime": 850.9999999999991,
   "cumulativeLayoutShift": 0.000020350874829562795,
-  "timeToInteractive": 13190.364000000001,
-  "maxPotentialFirstInputDelay": 445,
-  "timeToFirstByte": 248.10999999999999,
+  "timeToInteractive": 13013.410500000002,
+  "maxPotentialFirstInputDelay": 351,
+  "timeToFirstByte": 177.32100000000003,
   "weight": {
-    "summary": "157 requests • 2,204 KiB",
-    "total": 2256500,
-    "image": 58466,
+    "summary": "157 requests • 1,499 KiB",
+    "total": 1534881,
+    "image": 58018,
     "imageCount": 28,
-    "script": 934853,
+    "script": 975558,
     "scriptCount": 70,
-    "document": 112373,
-    "font": 110100,
+    "document": 112635,
+    "font": 111469,
     "fontCount": 4,
-    "stylesheet": 9437,
+    "stylesheet": 10914,
     "stylesheetCount": 4,
-    "thirdParty": 1998694,
-    "thirdPartyCount": 127
+    "thirdParty": 1277017,
+    "thirdPartyCount": 126
   },
   "run": {
-    "number": 2,
-    "total": 3
+    "number": 1,
+    "total": 1
   },
   "axe": {
-    "passes": 1208,
+    "passes": 1205,
     "violations": 15
   },
-  "previousRanks": {
-    "hundos": 1,
-    "performance": 1,
-    "accessibility": 2,
-    "cumulative": 1
-  }
+  "name": "https://www.wix.com/website-template/view/html/2898"
 }

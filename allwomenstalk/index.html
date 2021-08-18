@@ -1,0 +1,661 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Web Vitals Monitoring</title>
+		<meta name="description" content="Benchmark web pages over time.">
+		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/css/site.css">
+		<script>
+		document.documentElement.classList.add("js");
+		</script>
+	</head>
+	<body class="dark:bg-gray-900 dark:text-white">
+
+<nav class="bg-gray-800">
+  <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+    <div class="relative flex items-center justify-between h-16">
+      <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+      </div>
+      <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
+        <div class="flex-shrink-0 flex items-center font-black">
+        	<a href="/ ">webvitals</a>
+        </div>
+        <div class=" sm:block ml-6">
+          <div class="flex space-x-4">
+            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+            <a href="/" class="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Home</a>
+
+          </div>
+        </div>
+      </div>
+      <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+        <button class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
+          <span class="sr-only">View notifications</span>
+          <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+</nav>
+
+	
+		<p class="font-black text-3xl m-8 text-center mb-2">
+			Allwomenstalk posts web vitals benchmark over time.
+			
+		</p>
+		<p class="text-center p-4">
+				Updates <em>at most</em> once every 1380 minutes. Only the last 10 runs (and the oldest run) are shown.
+		</p>
+
+
+		<div class="bg-gray-800 text-white">
+	<table class="">
+		<thead>
+			<tr>
+				<th>Rank</th>
+				<th class="leaderboard-hide-md">Trophy</th>
+				<th>URL</th>
+				<th class="leaderboard-score">Lighthouse</th>
+				<th class="leaderboard-data-right"><span data-sr-only>Data and Graphs</span></th>
+			</tr>
+		</thead>
+		<tbody>
+			
+			<tr class="leaderboard-list-entry" id="site-42073607">
+				<td class="leaderboard-number"><a href="#site-42073607" class="leaderboard-directlink"><span>#</span>1</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">🥇
+				</td>
+				<td class="w-full"><a href="https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/"><code class="">https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/","requestedUrl":"https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/","timestamp":1628870603177,"ranks":{"hundos":1,"performance":1,"accessibility":4,"cumulative":1},"lighthouse":{"version":"8.2.0","performance":0.83,"accessibility":0.98,"bestPractices":0.93,"seo":0.91,"total":365},"firstContentfulPaint":1228.215,"firstMeaningfulPaint":1509.715,"speedIndex":2162.459246036625,"largestContentfulPaint":1509.715,"totalBlockingTime":605.0000000000002,"cumulativeLayoutShift":0,"timeToInteractive":4912.529500000001,"maxPotentialFirstInputDelay":478,"timeToFirstByte":249.333,"weight":{"summary":"13 requests • 636 KiB","total":651122,"image":453869,"imageCount":3,"script":63495,"scriptCount":4,"document":16710,"font":88070,"fontCount":1,"stylesheet":0,"stylesheetCount":0,"thirdParty":602212,"thirdPartyCount":9},"run":{"number":1,"total":1},"axe":{"passes":648,"violations":34},"name":"https://food.allwomenstalk.com/simple-and-healthy-foods-to-help-you-lose-weight-while-dieting/"}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">365</span></td>
+				<td>
+					<a href="#details-42073607" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-42073607">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:03</span></code></td>
+											<td class="results-bool">🥇</td>
+											<td>#1</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="83">83</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=1228.215&SI=2162.459246036625&LCP=1509.715&TTI=4912.529500000001&TBT=605.0000000000002&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="98">98</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="93">93</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="91">91</td>
+											<td class="results-bool">🚫</td>
+											<td>34</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:03</span></code></td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1509.715">1.51s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="478">478ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="605.0000000000002">605ms</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1228.215">1.23s</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="2162.459246036625">2.16s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="4912.529500000001">4.91s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:03</span></code></td>
+											<td data-numeric-value="635.861328125"><span class="filesize">636<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="16.318359375"><span class="filesize">16<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="0"><span class="filesize">0<span class="filesize-label-sm">B</span><span class="filesize-label-lg"> B</span></span> <span class="count leaderboard-hide-sm">×0</span></td>
+											<td data-numeric-value="62.0068359375"><span class="filesize">62<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×4</span></td>
+											<td data-numeric-value="443.2314453125"><span class="filesize">443<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×3</span></td>
+											<td data-numeric-value="86.005859375"><span class="filesize">86<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×1</span></td>
+											<td data-numeric-value="588.09765625"><span class="filesize">588<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×9</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-d603fbe1">
+				<td class="leaderboard-number"><a href="#site-d603fbe1" class="leaderboard-directlink"><span>#</span>2</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">🥈
+				</td>
+				<td class="w-full"><a href="https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/"><code class="">https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/","requestedUrl":"https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/","timestamp":1628870591787,"ranks":{"hundos":2,"performance":2,"accessibility":3,"cumulative":2},"lighthouse":{"version":"8.2.0","performance":0.6,"accessibility":1,"bestPractices":0.8,"seo":0.84,"total":324},"firstContentfulPaint":1596.625,"firstMeaningfulPaint":1616.625,"speedIndex":9206.807369445858,"largestContentfulPaint":1616.625,"totalBlockingTime":983,"cumulativeLayoutShift":0.00017331420050726998,"timeToInteractive":13768.261999999997,"maxPotentialFirstInputDelay":419,"timeToFirstByte":220.103,"weight":{"summary":"165 requests • 2,476 KiB","total":2535835,"image":979869,"imageCount":37,"script":824227,"scriptCount":73,"document":41214,"font":117928,"fontCount":9,"stylesheet":2923,"stylesheetCount":5,"thirdParty":2488001,"thirdPartyCount":161},"run":{"number":1,"total":1},"axe":{"error":"{\"name\":\"TimeoutError\"}"},"name":"https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/"}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">324</span></td>
+				<td>
+					<a href="#details-d603fbe1" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-d603fbe1">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:03</span></code></td>
+											<td class="results-bool">🥈</td>
+											<td>#2</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="60">60</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=1596.625&SI=9206.807369445858&LCP=1616.625&TTI=13768.261999999997&TBT=983&CLS=0.00017331420050726998&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="84">84</td>
+											<td class="results-bool">🚫</td>
+											<td>Error</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:03</span></code></td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1616.625">1.62s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="419">419ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="983">0.98s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1596.625">1.60s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="9206.807369445858">9.21s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="13768.261999999997">13.77s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:03</span></code></td>
+											<td data-numeric-value="2476.4013671875"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="40.248046875"><span class="filesize">40<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="2.8544921875"><span class="filesize">3<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×5</span></td>
+											<td data-numeric-value="804.9091796875"><span class="filesize">805<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×73</span></td>
+											<td data-numeric-value="956.9033203125"><span class="filesize">957<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×37</span></td>
+											<td data-numeric-value="115.1640625"><span class="filesize">115<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×9</span></td>
+											<td data-numeric-value="2429.6884765625"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×161</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-c63fcbd8">
+				<td class="leaderboard-number"><a href="#site-c63fcbd8" class="leaderboard-directlink"><span>#</span>3</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">🥉
+				</td>
+				<td class="w-full"><a href="https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/"><code class="">https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/","requestedUrl":"https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/","timestamp":1628870570474,"ranks":{"hundos":3,"performance":3,"accessibility":1,"cumulative":3},"lighthouse":{"version":"8.2.0","performance":0.55,"accessibility":1,"bestPractices":0.8,"seo":0.84,"total":319},"firstContentfulPaint":1534.224,"firstMeaningfulPaint":1544.724,"speedIndex":8233.29803266237,"largestContentfulPaint":1544.724,"totalBlockingTime":1891.5,"cumulativeLayoutShift":0,"timeToInteractive":13708.186999999998,"maxPotentialFirstInputDelay":480,"timeToFirstByte":224.827,"weight":{"summary":"184 requests • 1,968 KiB","total":2015045,"image":393642,"imageCount":40,"script":828908,"scriptCount":83,"document":48441,"font":140158,"fontCount":9,"stylesheet":3673,"stylesheetCount":6,"thirdParty":1967014,"thirdPartyCount":180},"run":{"number":1,"total":1},"axe":{"passes":810,"violations":80},"name":"https://food.allwomenstalk.com/varieties-of-nuts-you-should-be-eating-for-your-health/"}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">319</span></td>
+				<td>
+					<a href="#details-c63fcbd8" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-c63fcbd8">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:02</span></code></td>
+											<td class="results-bool">🥉</td>
+											<td>#3</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="55">55</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=1534.224&SI=8233.29803266237&LCP=1544.724&TTI=13708.186999999998&TBT=1891.5&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="84">84</td>
+											<td class="results-bool">🚫</td>
+											<td>80</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:02</span></code></td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1544.724">1.54s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="480">480ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1891.5">1.89s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1534.224">1.53s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="8233.29803266237">8.23s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="13708.186999999998">13.71s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:02</span></code></td>
+											<td data-numeric-value="1967.8173828125"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="47.3056640625"><span class="filesize">47<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="3.5869140625"><span class="filesize">4<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×6</span></td>
+											<td data-numeric-value="809.48046875"><span class="filesize">809<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×83</span></td>
+											<td data-numeric-value="384.416015625"><span class="filesize">384<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×40</span></td>
+											<td data-numeric-value="136.873046875"><span class="filesize">137<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×9</span></td>
+											<td data-numeric-value="1920.912109375"><span class="filesize">2<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×180</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+			
+			<tr class="leaderboard-list-entry" id="site-d42ed4bf">
+				<td class="leaderboard-number"><a href="#site-d42ed4bf" class="leaderboard-directlink"><span>#</span>4</a></td>
+				<td class="leaderboard-hide-md leaderboard-trophies">
+				</td>
+				<td class="w-full"><a href="https://food.allwomenstalk.com/foods-most-likely-to-cause-food-poisoning/"><code class="">https://food.allwomenstalk.com/foods-most-likely-to-cause-food-poisoning/</code></a></td>
+				<td class="leaderboard-score"><speedlify-score class="leaderboard-score-circles" raw-data='{"url":"https://food.allwomenstalk.com/foods-most-likely-to-cause-food-poisoning/","requestedUrl":"https://food.allwomenstalk.com/foods-most-likely-to-cause-food-poisoning/","timestamp":1628870545157,"ranks":{"hundos":4,"performance":4,"accessibility":2,"cumulative":4},"lighthouse":{"version":"8.2.0","performance":0.43,"accessibility":1,"bestPractices":0.8,"seo":0.84,"total":307},"firstContentfulPaint":1687.5659999999998,"firstMeaningfulPaint":2434.1409999999996,"speedIndex":8213.636947000625,"largestContentfulPaint":3930.7159999999994,"totalBlockingTime":1788.4999999999975,"cumulativeLayoutShift":0,"timeToInteractive":15963.788229614249,"maxPotentialFirstInputDelay":476,"timeToFirstByte":273.949,"weight":{"summary":"280 requests • 2,774 KiB","total":2840136,"image":650928,"imageCount":66,"script":875037,"scriptCount":121,"document":64433,"font":223918,"fontCount":6,"stylesheet":3985,"stylesheetCount":7,"thirdParty":2791790,"thirdPartyCount":276},"run":{"number":1,"total":1},"axe":{"passes":1162,"violations":107},"name":"https://food.allwomenstalk.com/foods-most-likely-to-cause-food-poisoning/"}'></speedlify-score><span class="leaderboard-score-sum leaderboard-number">307</span></td>
+				<td>
+					<a href="#details-d42ed4bf" data-expand-alias data-js-only class="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+				  <path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z" />
+				</svg>
+			</a></td>
+			</tr>
+			<tr class="leaderboard-list-entry-details">
+				<td colspan="6">
+					<details class="" id="details-d42ed4bf">
+						<span>Show Data</span>
+						<div class="layout color--lighthouse">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th rowspan="2" colspan="2">Rank</th>
+											<th colspan="9">Lighthouse</th>
+											<th colspan="2" rowspan="2">Axe</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="3"><abbr title="Performance">Perf</abbr></th>
+											<th class="results-series-b" colspan="2"><abbr title="Accessibility">A11Y</abbr></th>
+											<th class="results-series-c" colspan="2">Best Practices</th>
+											<th class="results-series-d" colspan="2">SEO</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:02</span></code></td>
+											<td class="results-bool"></td>
+											<td>#4</td>
+											<td class="results-bool">🚫</td>
+											<td data-numeric-value="43">43</td>
+											<td class="results-calc"><a href="https://googlechrome.github.io/lighthouse/scorecalc/#FCP=1687.5659999999998&SI=8213.636947000625&LCP=3930.7159999999994&TTI=15963.788229614249&TBT=1788.4999999999975&CLS=0&FCI=&FMP=&device=mobile&version=8.2.0" target="_blank" rel="noopener noreferrer" class="leaderboard-hide-md">Calculator</a></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">✅</span></td>
+											<td data-numeric-value="100">100</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="80">80</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="84">84</td>
+											<td class="results-bool">🚫</td>
+											<td>107</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--vitals">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="8">Core Web Vitals</th>
+											<th colspan="6">Web Vitals</th>
+										</tr>
+										<tr>
+											<th class="results-series-a" colspan="2"><abbr title="Largest Contentful Paint">LCP</abbr></th>
+											<th class="results-series-b" colspan="2">Max <span class="leaderboard-hide-sm">Potential </span><abbr title="First Input Delay">FID</abbr></th>
+											<th class="results-series-c" colspan="2"><abbr title="Total Blocking Time">TBT</abbr></th>
+											<th colspan="2"><abbr title="Cumulative Layout Shift">CLS</abbr></th>
+
+											<th class="results-series-d" colspan="2"><abbr title="First Contentful Paint">FCP</abbr></th>
+											<th class="results-series-e" colspan="2"><abbr title="Speed Index">SI</abbr></th>
+											<th class="results-series-f" colspan="2"><abbr title="Time to Interactive">TTI</abbr></th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:02</span></code></td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">⚠️</span></td>
+											<td data-numeric-value="3930.7159999999994">3.93s</td>
+											
+											<td class="results-bool"></td>
+											<td data-numeric-value="476">476ms</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="1788.4999999999975">1.79s</td>
+											<td class="results-bool"></td>
+											<td>0.00</td>
+											<td class="results-bool"></td>
+											<td data-numeric-value="1687.5659999999998">1.69s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="8213.636947000625">8.21s</td>
+											<td class="results-bool"><span class="leaderboard-hide-sm">🚫</span></td>
+											<td data-numeric-value="15963.788229614249">15.96s</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+
+						<div class="layout color--weight">
+							<div class="tablewrap">
+								<table data-make-chart class="results">
+									<thead>
+										<tr>
+											<th rowspan="2" class="results-date">Date</th>
+											<th colspan="7">Weight</th>
+										</tr>
+										<tr>
+											<th class="results-series-a">Total</th>
+											<th class="results-series-b">HTML</th>
+											<th class="results-series-c"><abbr title="Cascading Style Sheets">CSS</abbr></th>
+											<th class="results-series-d"><abbr title="JavaScript">JS</abbr></th>
+											<th class="results-series-e">Images</th>
+											<th class="results-series-f">Fonts</th>
+											<th>Third Party</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td><code class="date">Aug 13 <span class="leaderboard-hide-md">12:02</span></code></td>
+											<td data-numeric-value="2773.5703125"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span></td>
+											<td data-numeric-value="62.9228515625"><span class="filesize">63<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span></td>
+											<td data-numeric-value="3.8916015625"><span class="filesize">4<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×7</span></td>
+											<td data-numeric-value="854.5283203125"><span class="filesize">855<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×121</span></td>
+											<td data-numeric-value="635.671875"><span class="filesize">636<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×66</span></td>
+											<td data-numeric-value="218.669921875"><span class="filesize">219<span class="filesize-label-sm">K</span><span class="filesize-label-lg"> KiB</span></span> <span class="count leaderboard-hide-sm">×6</span></td>
+											<td data-numeric-value="2726.357421875"><span class="filesize">3<span class="filesize-label-sm">M</span><span class="filesize-label-lg"> MiB</span></span> <span class="count leaderboard-hide-sm">×276</span></td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<div data-js-only class="ct-chart ct-double-octave"></div>
+						</div>
+					</details>
+				</td>
+			</tr>
+		</tbody>
+	</table><!-- /leaderboard -->
+	<dl class="category-stats">
+		<div class="category-stats-entry">
+			<dt>Performance 💯</dt>
+			<dd>0<span> / 4</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>Accessibility 💯</dt>
+			<dd>3<span> / 4</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>Best Practices 💯</dt>
+			<dd>0<span> / 4</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>SEO 💯</dt>
+			<dd>0<span> / 4</span></dd>
+		</div>
+		<div class="category-stats-entry">
+			<dt>Perfect 4×💯</dt>
+			<dd>0<span> / 4</span></dd>
+		</div>
+	</dl>
+</div><!-- /leaderboard-wrapper -->
+
+		<footer class="text-center">
+			web vitals tech
+		</footer>
+
+		<script defer src="/chartist.js"></script>
+		<script defer src="/script.js"></script>
+	</body>
+</html>

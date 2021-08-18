@@ -1,0 +1,52 @@
+{
+  "url": "https://baseline-theme-minimal.myshopify.com/",
+  "requestedUrl": "https://baseline-theme-minimal.myshopify.com/",
+  "timestamp": 1629190006709,
+  "ranks": {
+    "hundos": 3,
+    "performance": 8,
+    "accessibility": 1,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.65,
+    "accessibility": 0.98,
+    "bestPractices": 0.93,
+    "seo": 0.82,
+    "total": 338
+  },
+  "firstContentfulPaint": 1241.5810000000001,
+  "firstMeaningfulPaint": 1241.5810000000001,
+  "speedIndex": 2289.027572819199,
+  "largestContentfulPaint": 5024.2545,
+  "totalBlockingTime": 585,
+  "cumulativeLayoutShift": 0.016699218749999998,
+  "timeToInteractive": 4899.348,
+  "maxPotentialFirstInputDelay": 335,
+  "timeToFirstByte": 93.804,
+  "weight": {
+    "summary": "45 requests • 400 KiB",
+    "total": 409710,
+    "image": 68046,
+    "imageCount": 9,
+    "script": 275944,
+    "scriptCount": 18,
+    "document": 35316,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10317,
+    "stylesheetCount": 2,
+    "thirdParty": 371568,
+    "thirdPartyCount": 42
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1304,
+    "violations": 12
+  },
+  "name": "Baseline theme - $180 USD"
+}

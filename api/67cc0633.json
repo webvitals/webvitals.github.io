@@ -1,0 +1,52 @@
+{
+  "url": "https://lorenza-theme-modern.myshopify.com/",
+  "requestedUrl": "https://lorenza-theme-modern.myshopify.com/",
+  "timestamp": 1629191350192,
+  "ranks": {
+    "hundos": 15,
+    "performance": 14,
+    "accessibility": 19,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.54,
+    "accessibility": 0.83,
+    "bestPractices": 0.87,
+    "seo": 0.9,
+    "total": 314
+  },
+  "firstContentfulPaint": 1966.9050000000002,
+  "firstMeaningfulPaint": 2841.3235,
+  "speedIndex": 5150.946868970132,
+  "largestContentfulPaint": 6509.178999999999,
+  "totalBlockingTime": 151,
+  "cumulativeLayoutShift": 0.9375,
+  "timeToInteractive": 4547.576999999998,
+  "maxPotentialFirstInputDelay": 243,
+  "timeToFirstByte": 710.693,
+  "weight": {
+    "summary": "63 requests • 1,257 KiB",
+    "total": 1287167,
+    "image": 908443,
+    "imageCount": 38,
+    "script": 242814,
+    "scriptCount": 11,
+    "document": 32642,
+    "font": 56144,
+    "fontCount": 3,
+    "stylesheet": 45077,
+    "stylesheetCount": 3,
+    "thirdParty": 1252964,
+    "thirdPartyCount": 61
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 994,
+    "violations": 59
+  },
+  "name": "Lorenza theme - $180 USD"
+}

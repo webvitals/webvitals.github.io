@@ -1,0 +1,52 @@
+{
+  "url": "https://local-theme-dark.myshopify.com/",
+  "requestedUrl": "https://local-theme-dark.myshopify.com/",
+  "timestamp": 1629190323526,
+  "ranks": {
+    "hundos": 24,
+    "performance": 24,
+    "accessibility": 10,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.37,
+    "accessibility": 0.93,
+    "bestPractices": 0.8,
+    "seo": 0.85,
+    "total": 295
+  },
+  "firstContentfulPaint": 2253.7090000000003,
+  "firstMeaningfulPaint": 2253.7090000000003,
+  "speedIndex": 6610.1811894615685,
+  "largestContentfulPaint": 6335.9130000000005,
+  "totalBlockingTime": 966.9999999999995,
+  "cumulativeLayoutShift": 0.13078125000000002,
+  "timeToInteractive": 11772.506113586427,
+  "maxPotentialFirstInputDelay": 284,
+  "timeToFirstByte": 588.979,
+  "weight": {
+    "summary": "131 requests • 9,441 KiB",
+    "total": 9667120,
+    "image": 589019,
+    "imageCount": 33,
+    "script": 845945,
+    "scriptCount": 44,
+    "document": 65076,
+    "font": 111656,
+    "fontCount": 7,
+    "stylesheet": 82047,
+    "stylesheetCount": 7,
+    "thirdParty": 9634131,
+    "thirdPartyCount": 129
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1527,
+    "violations": 34
+  },
+  "name": "Emerge theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://duke-16.myshopify.com/",
+  "requestedUrl": "https://duke-16.myshopify.com/",
+  "timestamp": 1629191968625,
+  "ranks": {
+    "hundos": 2,
+    "performance": 6,
+    "accessibility": 7,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 354
+  },
+  "firstContentfulPaint": 1951.0389999999998,
+  "firstMeaningfulPaint": 2689.8509999999997,
+  "speedIndex": 3480.7873337279416,
+  "largestContentfulPaint": 5284.308999999999,
+  "totalBlockingTime": 159,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4099.678,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 95.40599999999998,
+  "weight": {
+    "summary": "34 requests • 1,057 KiB",
+    "total": 1082472,
+    "image": 743248,
+    "imageCount": 12,
+    "script": 188759,
+    "scriptCount": 9,
+    "document": 37594,
+    "font": 80127,
+    "fontCount": 4,
+    "stylesheet": 32055,
+    "stylesheetCount": 1,
+    "thirdParty": 1044878,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2118,
+    "violations": 52
+  },
+  "name": "Symmetry theme - $240 USD"
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://supply-electronics.myshopify.com/",
+  "requestedUrl": "https://supply-electronics.myshopify.com/",
+  "timestamp": 1629189538845,
+  "ranks": {
+    "hundos": 3,
+    "performance": 2,
+    "accessibility": 6,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.64,
+    "accessibility": 0.86,
+    "bestPractices": 0.87,
+    "seo": 0.91,
+    "total": 328
+  },
+  "firstContentfulPaint": 2779.379,
+  "firstMeaningfulPaint": 3818.6614999999997,
+  "speedIndex": 4212.449073100067,
+  "largestContentfulPaint": 5445.906999999999,
+  "totalBlockingTime": 141.5,
+  "cumulativeLayoutShift": 0.1750059710078769,
+  "timeToInteractive": 6009.4974999999995,
+  "maxPotentialFirstInputDelay": 133,
+  "timeToFirstByte": 682.514,
+  "weight": {
+    "summary": "37 requests • 481 KiB",
+    "total": 492311,
+    "image": 191349,
+    "imageCount": 11,
+    "script": 200071,
+    "scriptCount": 13,
+    "document": 18228,
+    "font": 52205,
+    "fontCount": 3,
+    "stylesheet": 29752,
+    "stylesheetCount": 2,
+    "thirdParty": 474083,
+    "thirdPartyCount": 36
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1066,
+    "violations": 16
+  },
+  "name": "Supply theme - Free",
+  "previousRanks": {
+    "hundos": 6,
+    "performance": 5,
+    "accessibility": 10,
+    "cumulative": 6
+  }
+}

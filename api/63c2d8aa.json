@@ -1,0 +1,52 @@
+{
+  "url": "https://allwomenstalk.com/",
+  "requestedUrl": "https://allwomenstalk.com/",
+  "timestamp": 1628870776378,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.8,
+    "accessibility": 1,
+    "bestPractices": 0.87,
+    "seo": 0.98,
+    "total": 365
+  },
+  "firstContentfulPaint": 1058.999,
+  "firstMeaningfulPaint": 1306.999,
+  "speedIndex": 2389.588627747782,
+  "largestContentfulPaint": 2093.34,
+  "totalBlockingTime": 732.4999999999998,
+  "cumulativeLayoutShift": 0.001382722854614258,
+  "timeToInteractive": 4003.478,
+  "maxPotentialFirstInputDelay": 496,
+  "timeToFirstByte": 237.98299999999998,
+  "weight": {
+    "summary": "109 requests • 837 KiB",
+    "total": 857008,
+    "image": 620706,
+    "imageCount": 82,
+    "script": 68412,
+    "scriptCount": 5,
+    "document": 45847,
+    "font": 88070,
+    "fontCount": 1,
+    "stylesheet": 3307,
+    "stylesheetCount": 8,
+    "thirdParty": 275221,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 6014,
+    "violations": 28
+  },
+  "name": "https://allwomenstalk.com/"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://motion-theme-home.myshopify.com/",
+  "requestedUrl": "https://motion-theme-home.myshopify.com/",
+  "timestamp": 1629190785234,
+  "ranks": {
+    "hundos": 8,
+    "performance": 10,
+    "accessibility": 1,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.58,
+    "accessibility": 0.98,
+    "bestPractices": 0.8,
+    "seo": 0.86,
+    "total": 322
+  },
+  "firstContentfulPaint": 2416.092,
+  "firstMeaningfulPaint": 2416.092,
+  "speedIndex": 5286.735316392866,
+  "largestContentfulPaint": 5978.2055,
+  "totalBlockingTime": 382.5,
+  "cumulativeLayoutShift": 0.044765248298645026,
+  "timeToInteractive": 6377.2455,
+  "maxPotentialFirstInputDelay": 252,
+  "timeToFirstByte": 616.474,
+  "weight": {
+    "summary": "54 requests • 2,710 KiB",
+    "total": 2774813,
+    "image": 157258,
+    "imageCount": 16,
+    "script": 228976,
+    "scriptCount": 17,
+    "document": 23797,
+    "font": 100186,
+    "fontCount": 3,
+    "stylesheet": 122074,
+    "stylesheetCount": 3,
+    "thirdParty": 2749940,
+    "thirdPartyCount": 52
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 910,
+    "violations": 14
+  },
+  "name": "Motion theme - $180 USD"
+}

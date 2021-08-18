@@ -1,0 +1,52 @@
+{
+  "url": "https://hoxton-theme.myshopify.com/",
+  "requestedUrl": "https://hoxton-theme.myshopify.com/",
+  "timestamp": 1629189160673,
+  "ranks": {
+    "hundos": 11,
+    "performance": 17,
+    "accessibility": 12,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.4,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 315
+  },
+  "firstContentfulPaint": 2691.996,
+  "firstMeaningfulPaint": 2691.996,
+  "speedIndex": 6550.03721814717,
+  "largestContentfulPaint": 7994.208999999999,
+  "totalBlockingTime": 1121.999999999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5534.504,
+  "maxPotentialFirstInputDelay": 493.9999999999991,
+  "timeToFirstByte": 873.5930000000001,
+  "weight": {
+    "summary": "51 requests • 3,276 KiB",
+    "total": 3354746,
+    "image": 2826402,
+    "imageCount": 23,
+    "script": 214217,
+    "scriptCount": 10,
+    "document": 48221,
+    "font": 171022,
+    "fontCount": 8,
+    "stylesheet": 47256,
+    "stylesheetCount": 2,
+    "thirdParty": 3259380,
+    "thirdPartyCount": 49
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1330,
+    "violations": 12
+  },
+  "name": "Modular theme - $180 USD"
+}

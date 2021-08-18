@@ -1,0 +1,52 @@
+{
+  "url": "https://vogue-theme-editorial.myshopify.com/",
+  "requestedUrl": "https://vogue-theme-editorial.myshopify.com/",
+  "timestamp": 1629190343875,
+  "ranks": {
+    "hundos": 11,
+    "performance": 10,
+    "accessibility": 4,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.67,
+    "accessibility": 0.95,
+    "bestPractices": 0.73,
+    "seo": 0.93,
+    "total": 328
+  },
+  "firstContentfulPaint": 2146.9210000000003,
+  "firstMeaningfulPaint": 2146.9210000000003,
+  "speedIndex": 4432.328180358552,
+  "largestContentfulPaint": 6703.883000000002,
+  "totalBlockingTime": 162,
+  "cumulativeLayoutShift": 0.0054073277844323055,
+  "timeToInteractive": 6319.093000000002,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 269.18899999999996,
+  "weight": {
+    "summary": "45 requests • 639 KiB",
+    "total": 654775,
+    "image": 197303,
+    "imageCount": 21,
+    "script": 393306,
+    "scriptCount": 12,
+    "document": 21319,
+    "font": 18519,
+    "fontCount": 1,
+    "stylesheet": 23123,
+    "stylesheetCount": 1,
+    "thirdParty": 633456,
+    "thirdPartyCount": 44
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 341,
+    "violations": 48
+  },
+  "name": "Vogue theme - $180 USD"
+}

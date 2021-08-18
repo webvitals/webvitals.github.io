@@ -1,0 +1,52 @@
+{
+  "url": "https://native-theme.myshopify.com/",
+  "requestedUrl": "https://native-theme.myshopify.com/",
+  "timestamp": 1629191907579,
+  "ranks": {
+    "hundos": 13,
+    "performance": 18,
+    "accessibility": 4,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.49,
+    "accessibility": 0.96,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 316
+  },
+  "firstContentfulPaint": 2185.657,
+  "firstMeaningfulPaint": 2185.657,
+  "speedIndex": 5755.911679413187,
+  "largestContentfulPaint": 7851.958999999997,
+  "totalBlockingTime": 469.28299999999945,
+  "cumulativeLayoutShift": 0.007656249999999999,
+  "timeToInteractive": 11269.6915,
+  "maxPotentialFirstInputDelay": 203,
+  "timeToFirstByte": 647.799,
+  "weight": {
+    "summary": "83 requests • 2,238 KiB",
+    "total": 2291431,
+    "image": 1201429,
+    "imageCount": 19,
+    "script": 505064,
+    "scriptCount": 29,
+    "document": 56072,
+    "font": 123121,
+    "fontCount": 6,
+    "stylesheet": 49477,
+    "stylesheetCount": 2,
+    "thirdParty": 2239965,
+    "thirdPartyCount": 81
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2587,
+    "violations": 21
+  },
+  "name": "Showcase theme - $240 USD"
+}

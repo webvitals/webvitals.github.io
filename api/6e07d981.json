@@ -1,0 +1,52 @@
+{
+  "url": "https://cooktime.myshopify.com/",
+  "requestedUrl": "https://cooktime.myshopify.com/",
+  "timestamp": 1629190857597,
+  "ranks": {
+    "hundos": 23,
+    "performance": 23,
+    "accessibility": 22,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.2,
+    "accessibility": 0.74,
+    "bestPractices": 0.73,
+    "seo": 0.77,
+    "total": 244
+  },
+  "firstContentfulPaint": 2868.9819999999995,
+  "firstMeaningfulPaint": 4782.081,
+  "speedIndex": 8706.069387652826,
+  "largestContentfulPaint": 6559.741000000002,
+  "totalBlockingTime": 846.0000000000018,
+  "cumulativeLayoutShift": 1.4079381132125857,
+  "timeToInteractive": 16755.214,
+  "maxPotentialFirstInputDelay": 299.0000000000009,
+  "timeToFirstByte": 396.23900000000003,
+  "weight": {
+    "summary": "110 requests • 2,642 KiB",
+    "total": 2705209,
+    "image": 1119362,
+    "imageCount": 43,
+    "script": 1152369,
+    "scriptCount": 37,
+    "document": 45432,
+    "font": 266060,
+    "fontCount": 8,
+    "stylesheet": 119654,
+    "stylesheetCount": 8,
+    "thirdParty": 2682711,
+    "thirdPartyCount": 109
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1434,
+    "violations": 122
+  },
+  "name": "ShowTime theme - $180 USD"
+}

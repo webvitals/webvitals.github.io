@@ -1,0 +1,58 @@
+{
+  "url": "https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/",
+  "requestedUrl": "https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/",
+  "timestamp": 1628870845381,
+  "ranks": {
+    "hundos": 5,
+    "performance": 5,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.45,
+    "accessibility": 1,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 316
+  },
+  "firstContentfulPaint": 1320.3519999999999,
+  "firstMeaningfulPaint": 2294.3849999999998,
+  "speedIndex": 6861.481544718961,
+  "largestContentfulPaint": 4018.4179999999997,
+  "totalBlockingTime": 1705,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 12795.164999999997,
+  "maxPotentialFirstInputDelay": 441,
+  "timeToFirstByte": 248.96500000000003,
+  "weight": {
+    "summary": "167 requests • 1,886 KiB",
+    "total": 1930821,
+    "image": 655564,
+    "imageCount": 42,
+    "script": 720808,
+    "scriptCount": 70,
+    "document": 40706,
+    "font": 117934,
+    "fontCount": 9,
+    "stylesheet": 2929,
+    "stylesheetCount": 5,
+    "thirdParty": 1882828,
+    "thirdPartyCount": 163
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1083,
+    "violations": 109
+  },
+  "name": "https://food.allwomenstalk.com/naturally-gluten-free-foods-you-dont-have-to-worry-about-enjoying/",
+  "previousRanks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 3,
+    "cumulative": 2
+  }
+}

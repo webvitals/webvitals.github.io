@@ -1,0 +1,52 @@
+{
+  "url": "https://express-theme-bistro.myshopify.com/",
+  "requestedUrl": "https://express-theme-bistro.myshopify.com/",
+  "timestamp": 1629189648694,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.78,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 366
+  },
+  "firstContentfulPaint": 1101.446,
+  "firstMeaningfulPaint": 2102.1884999999997,
+  "speedIndex": 2864.9350635732535,
+  "largestContentfulPaint": 2508.121,
+  "totalBlockingTime": 297.5,
+  "cumulativeLayoutShift": 0.4487609041002062,
+  "timeToInteractive": 3173.793,
+  "maxPotentialFirstInputDelay": 232,
+  "timeToFirstByte": 729.029,
+  "weight": {
+    "summary": "30 requests • 424 KiB",
+    "total": 434243,
+    "image": 254520,
+    "imageCount": 10,
+    "script": 78382,
+    "scriptCount": 8,
+    "document": 25964,
+    "font": 57533,
+    "fontCount": 3,
+    "stylesheet": 16455,
+    "stylesheetCount": 1,
+    "thirdParty": 407378,
+    "thirdPartyCount": 28
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 707,
+    "violations": 5
+  },
+  "name": "Express theme - Free"
+}

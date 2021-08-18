@@ -1,0 +1,52 @@
+{
+  "url": "https://debut-theme-lightroom.myshopify.com/",
+  "requestedUrl": "https://debut-theme-lightroom.myshopify.com/",
+  "timestamp": 1629190093992,
+  "ranks": {
+    "hundos": 6,
+    "performance": 5,
+    "accessibility": 13,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.68,
+    "accessibility": 0.78,
+    "bestPractices": 0.87,
+    "seo": 0.93,
+    "total": 326
+  },
+  "firstContentfulPaint": 2748.259,
+  "firstMeaningfulPaint": 4098.8745,
+  "speedIndex": 5188.412853054289,
+  "largestContentfulPaint": 4628.9715,
+  "totalBlockingTime": 207.49999999999955,
+  "cumulativeLayoutShift": 0.0005004391140407986,
+  "timeToInteractive": 6800.708500000001,
+  "maxPotentialFirstInputDelay": 175,
+  "timeToFirstByte": 894.8100000000001,
+  "weight": {
+    "summary": "52 requests • 1,045 KiB",
+    "total": 1069694,
+    "image": 615608,
+    "imageCount": 20,
+    "script": 314830,
+    "scriptCount": 12,
+    "document": 34113,
+    "font": 64428,
+    "fontCount": 3,
+    "stylesheet": 38799,
+    "stylesheetCount": 2,
+    "thirdParty": 1043772,
+    "thirdPartyCount": 51
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1075,
+    "violations": 18
+  },
+  "name": "Debut theme - Free"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://beyond-theme-2.myshopify.com/",
+  "requestedUrl": "https://beyond-theme-2.myshopify.com/",
+  "timestamp": 1629190250359,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 13,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.75,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 345
+  },
+  "firstContentfulPaint": 2284.892,
+  "firstMeaningfulPaint": 2284.892,
+  "speedIndex": 3627.1909096892564,
+  "largestContentfulPaint": 3301.2330000000006,
+  "totalBlockingTime": 407,
+  "cumulativeLayoutShift": 0.10037109375,
+  "timeToInteractive": 5271.658000000001,
+  "maxPotentialFirstInputDelay": 162,
+  "timeToFirstByte": 518.8969999999999,
+  "weight": {
+    "summary": "61 requests • 556 KiB",
+    "total": 568871,
+    "image": 245367,
+    "imageCount": 18,
+    "script": 211783,
+    "scriptCount": 17,
+    "document": 32320,
+    "font": 43023,
+    "fontCount": 2,
+    "stylesheet": 26322,
+    "stylesheetCount": 2,
+    "thirdParty": 532762,
+    "thirdPartyCount": 58
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1615,
+    "violations": 49
+  },
+  "name": "Beyond theme - $180 USD"
+}

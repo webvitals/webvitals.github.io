@@ -1,0 +1,52 @@
+{
+  "url": "https://artisan-theme-victoria.myshopify.com/",
+  "requestedUrl": "https://artisan-theme-victoria.myshopify.com/",
+  "timestamp": 1629189109663,
+  "ranks": {
+    "hundos": 22,
+    "performance": 16,
+    "accessibility": 17,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.42,
+    "accessibility": 0.86,
+    "bestPractices": 0.73,
+    "seo": 0.78,
+    "total": 279
+  },
+  "firstContentfulPaint": 2150.42,
+  "firstMeaningfulPaint": 2150.42,
+  "speedIndex": 4295.151578384927,
+  "largestContentfulPaint": 5843.647999999999,
+  "totalBlockingTime": 1015.0000000000009,
+  "cumulativeLayoutShift": 0.13253601201375326,
+  "timeToInteractive": 11456.944,
+  "maxPotentialFirstInputDelay": 488,
+  "timeToFirstByte": 789.065,
+  "weight": {
+    "summary": "62 requests • 1,514 KiB",
+    "total": 1550797,
+    "image": 469382,
+    "imageCount": 18,
+    "script": 860000,
+    "scriptCount": 20,
+    "document": 38667,
+    "font": 130434,
+    "fontCount": 7,
+    "stylesheet": 48760,
+    "stylesheetCount": 3,
+    "thirdParty": 1509723,
+    "thirdPartyCount": 59
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1249,
+    "violations": 97
+  },
+  "name": "Artisan theme - $180 USD"
+}

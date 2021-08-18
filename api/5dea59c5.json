@@ -1,0 +1,52 @@
+{
+  "url": "https://season-theme.myshopify.com/",
+  "requestedUrl": "https://season-theme.myshopify.com/",
+  "timestamp": 1629189834382,
+  "ranks": {
+    "hundos": 8,
+    "performance": 9,
+    "accessibility": 5,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.62,
+    "accessibility": 0.95,
+    "bestPractices": 0.87,
+    "seo": 0.84,
+    "total": 328
+  },
+  "firstContentfulPaint": 2427.7709999999997,
+  "firstMeaningfulPaint": 2427.7709999999997,
+  "speedIndex": 3930.5250745105905,
+  "largestContentfulPaint": 6510.564499999999,
+  "totalBlockingTime": 306.50000000000045,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5991.567999999999,
+  "maxPotentialFirstInputDelay": 167.00000000000045,
+  "timeToFirstByte": 584.568,
+  "weight": {
+    "summary": "34 requests • 1,271 KiB",
+    "total": 1301853,
+    "image": 991950,
+    "imageCount": 9,
+    "script": 200134,
+    "scriptCount": 11,
+    "document": 24204,
+    "font": 48243,
+    "fontCount": 4,
+    "stylesheet": 36628,
+    "stylesheetCount": 2,
+    "thirdParty": 1277649,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1201,
+    "violations": 25
+  },
+  "name": "Alchemy theme - $180 USD"
+}

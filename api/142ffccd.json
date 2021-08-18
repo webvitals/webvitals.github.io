@@ -1,0 +1,58 @@
+{
+  "url": "https://impulse-theme-apparel.myshopify.com/",
+  "requestedUrl": "https://impulse-theme-apparel.myshopify.com/",
+  "timestamp": 1629188527105,
+  "ranks": {
+    "hundos": 9,
+    "performance": 9,
+    "accessibility": 6,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.36,
+    "accessibility": 0.9,
+    "bestPractices": 0.87,
+    "seo": 0.85,
+    "total": 298
+  },
+  "firstContentfulPaint": 2445.0459999999994,
+  "firstMeaningfulPaint": 2445.0459999999994,
+  "speedIndex": 7380.48856692475,
+  "largestContentfulPaint": 8974.466999999999,
+  "totalBlockingTime": 1047.5,
+  "cumulativeLayoutShift": 0.006647415161132812,
+  "timeToInteractive": 9940.7195,
+  "maxPotentialFirstInputDelay": 260,
+  "timeToFirstByte": 1019.1300000000001,
+  "weight": {
+    "summary": "51 requests • 5,819 KiB",
+    "total": 5958447,
+    "image": 1665301,
+    "imageCount": 20,
+    "script": 181878,
+    "scriptCount": 14,
+    "document": 24622,
+    "font": 67354,
+    "fontCount": 2,
+    "stylesheet": 122714,
+    "stylesheetCount": 3,
+    "thirdParty": 5932752,
+    "thirdPartyCount": 49
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1017,
+    "violations": 17
+  },
+  "name": "Impulse theme - $180 USD",
+  "previousRanks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 6,
+    "cumulative": 7
+  }
+}

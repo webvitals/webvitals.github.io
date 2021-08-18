@@ -1,0 +1,52 @@
+{
+  "url": "https://pacific-theme-bright.myshopify.com/",
+  "requestedUrl": "https://pacific-theme-bright.myshopify.com/",
+  "timestamp": 1629190871573,
+  "ranks": {
+    "hundos": 16,
+    "performance": 14,
+    "accessibility": 11,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.51,
+    "accessibility": 0.87,
+    "bestPractices": 0.73,
+    "seo": 0.91,
+    "total": 302
+  },
+  "firstContentfulPaint": 2146.9100000000003,
+  "firstMeaningfulPaint": 2146.9100000000003,
+  "speedIndex": 5361.611676256078,
+  "largestContentfulPaint": 7541.332500000002,
+  "totalBlockingTime": 258.0000000000009,
+  "cumulativeLayoutShift": 0.2930086135864258,
+  "timeToInteractive": 7091.357000000002,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 753.403,
+  "weight": {
+    "summary": "53 requests • 830 KiB",
+    "total": 849729,
+    "image": 289352,
+    "imageCount": 19,
+    "script": 411639,
+    "scriptCount": 17,
+    "document": 23351,
+    "font": 96013,
+    "fontCount": 5,
+    "stylesheet": 28239,
+    "stylesheetCount": 1,
+    "thirdParty": 785399,
+    "thirdPartyCount": 50
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 684,
+    "violations": 93
+  },
+  "name": "Pacific theme - $180 USD"
+}

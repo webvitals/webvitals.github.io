@@ -1,0 +1,52 @@
+{
+  "url": "https://pipeline-theme.myshopify.com/",
+  "requestedUrl": "https://pipeline-theme.myshopify.com/",
+  "timestamp": 1629190404182,
+  "ranks": {
+    "hundos": 1,
+    "performance": 7,
+    "accessibility": 15,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.73,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 356
+  },
+  "firstContentfulPaint": 2569.42,
+  "firstMeaningfulPaint": 2569.42,
+  "speedIndex": 4906.459457744901,
+  "largestContentfulPaint": 4699.163,
+  "totalBlockingTime": 148.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4824.625,
+  "maxPotentialFirstInputDelay": 138,
+  "timeToFirstByte": 491.529,
+  "weight": {
+    "summary": "81 requests • 1,603 KiB",
+    "total": 1641455,
+    "image": 509318,
+    "imageCount": 47,
+    "script": 150743,
+    "scriptCount": 11,
+    "document": 30978,
+    "font": 93705,
+    "fontCount": 5,
+    "stylesheet": 47716,
+    "stylesheetCount": 2,
+    "thirdParty": 1607966,
+    "thirdPartyCount": 78
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 942,
+    "violations": 28
+  },
+  "name": "Pipeline theme - $240 USD"
+}

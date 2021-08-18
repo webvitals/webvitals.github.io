@@ -1,0 +1,52 @@
+{
+  "url": "https://empire-theme-industrial.myshopify.com/",
+  "requestedUrl": "https://empire-theme-industrial.myshopify.com/",
+  "timestamp": 1629189480244,
+  "ranks": {
+    "hundos": 4,
+    "performance": 6,
+    "accessibility": 5,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.48,
+    "accessibility": 0.87,
+    "bestPractices": 0.8,
+    "seo": 0.92,
+    "total": 307
+  },
+  "firstContentfulPaint": 3984.4939999999997,
+  "firstMeaningfulPaint": 5261.826,
+  "speedIndex": 6981.654304059328,
+  "largestContentfulPaint": 8306.006000000001,
+  "totalBlockingTime": 197.5,
+  "cumulativeLayoutShift": 0.14851929473876951,
+  "timeToInteractive": 9261.580000000002,
+  "maxPotentialFirstInputDelay": 205,
+  "timeToFirstByte": 1822.321,
+  "weight": {
+    "summary": "57 requests • 1,126 KiB",
+    "total": 1153302,
+    "image": 370272,
+    "imageCount": 22,
+    "script": 496738,
+    "scriptCount": 16,
+    "document": 54259,
+    "font": 163548,
+    "fontCount": 6,
+    "stylesheet": 67277,
+    "stylesheetCount": 3,
+    "thirdParty": 1099043,
+    "thirdPartyCount": 56
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 2247,
+    "violations": 59
+  },
+  "name": "Empire theme - $300 USD"
+}

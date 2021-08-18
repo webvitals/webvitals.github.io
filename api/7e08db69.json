@@ -1,0 +1,52 @@
+{
+  "url": "https://prestige-theme-couture.myshopify.com/",
+  "requestedUrl": "https://prestige-theme-couture.myshopify.com/",
+  "timestamp": 1629189126006,
+  "ranks": {
+    "hundos": 24,
+    "performance": 22,
+    "accessibility": 10,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.34,
+    "accessibility": 0.91,
+    "bestPractices": 0.73,
+    "seo": 0.77,
+    "total": 275
+  },
+  "firstContentfulPaint": 1979.635,
+  "firstMeaningfulPaint": 2924.714,
+  "speedIndex": 8643.318936334588,
+  "largestContentfulPaint": 6172.450500000001,
+  "totalBlockingTime": 1350.5,
+  "cumulativeLayoutShift": 0.010672886530558269,
+  "timeToInteractive": 14085.017,
+  "maxPotentialFirstInputDelay": 482,
+  "timeToFirstByte": 107.24999999999997,
+  "weight": {
+    "summary": "106 requests • 4,042 KiB",
+    "total": 4138746,
+    "image": 753544,
+    "imageCount": 33,
+    "script": 994645,
+    "scriptCount": 33,
+    "document": 54501,
+    "font": 69690,
+    "fontCount": 4,
+    "stylesheet": 80333,
+    "stylesheetCount": 3,
+    "thirdParty": 4103515,
+    "thirdPartyCount": 103
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1235,
+    "violations": 41
+  },
+  "name": "Prestige theme - $250 USD"
+}

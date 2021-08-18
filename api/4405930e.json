@@ -1,0 +1,58 @@
+{
+  "url": "https://fashionopolism-secret-sale.myshopify.com/",
+  "requestedUrl": "https://fashionopolism-secret-sale.myshopify.com/",
+  "timestamp": 1629185657229,
+  "ranks": {
+    "hundos": 9,
+    "performance": 8,
+    "accessibility": 7,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.53,
+    "accessibility": 0.91,
+    "bestPractices": 0.87,
+    "seo": 0.82,
+    "total": 313
+  },
+  "firstContentfulPaint": 2601.638,
+  "firstMeaningfulPaint": 2601.638,
+  "speedIndex": 4631.332775669703,
+  "largestContentfulPaint": 6024.746999999999,
+  "totalBlockingTime": 166.5,
+  "cumulativeLayoutShift": 0.640625,
+  "timeToInteractive": 5448.7135,
+  "maxPotentialFirstInputDelay": 188,
+  "timeToFirstByte": 788.307,
+  "weight": {
+    "summary": "59 requests • 1,077 KiB",
+    "total": 1102668,
+    "image": 651269,
+    "imageCount": 30,
+    "script": 183671,
+    "scriptCount": 12,
+    "document": 30225,
+    "font": 175536,
+    "fontCount": 6,
+    "stylesheet": 45592,
+    "stylesheetCount": 2,
+    "thirdParty": 991046,
+    "thirdPartyCount": 56
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1066,
+    "violations": 55
+  },
+  "name": "Fashionopolism theme - $220 USD",
+  "previousRanks": {
+    "hundos": 9,
+    "performance": 8,
+    "accessibility": 7,
+    "cumulative": 9
+  }
+}

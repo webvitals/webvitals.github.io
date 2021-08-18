@@ -1,0 +1,52 @@
+{
+  "url": "https://retina-theme.myshopify.com/",
+  "requestedUrl": "https://retina-theme.myshopify.com/",
+  "timestamp": 1629191942698,
+  "ranks": {
+    "hundos": 18,
+    "performance": 20,
+    "accessibility": 14,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.42,
+    "accessibility": 0.89,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 302
+  },
+  "firstContentfulPaint": 1994.9160000000002,
+  "firstMeaningfulPaint": 2956.5370000000003,
+  "speedIndex": 9271.721235705174,
+  "largestContentfulPaint": 9193.56,
+  "totalBlockingTime": 142,
+  "cumulativeLayoutShift": 1.044921875,
+  "timeToInteractive": 9141.454999999998,
+  "maxPotentialFirstInputDelay": 184,
+  "timeToFirstByte": 734.794,
+  "weight": {
+    "summary": "58 requests • 2,903 KiB",
+    "total": 2972710,
+    "image": 1946762,
+    "imageCount": 26,
+    "script": 413351,
+    "scriptCount": 13,
+    "document": 34324,
+    "font": 38835,
+    "fontCount": 2,
+    "stylesheet": 46562,
+    "stylesheetCount": 2,
+    "thirdParty": 2895625,
+    "thirdPartyCount": 54
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1187,
+    "violations": 24
+  },
+  "name": "Retina theme - $180 USD"
+}

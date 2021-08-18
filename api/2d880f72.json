@@ -1,0 +1,52 @@
+{
+  "url": "https://artisan-theme-phoenix.myshopify.com/",
+  "requestedUrl": "https://artisan-theme-phoenix.myshopify.com/",
+  "timestamp": 1629190755490,
+  "ranks": {
+    "hundos": 19,
+    "performance": 19,
+    "accessibility": 6,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.41,
+    "accessibility": 0.9,
+    "bestPractices": 0.67,
+    "seo": 0.84,
+    "total": 282
+  },
+  "firstContentfulPaint": 2189.247,
+  "firstMeaningfulPaint": 2189.247,
+  "speedIndex": 6134.737137944006,
+  "largestContentfulPaint": 8443.6705,
+  "totalBlockingTime": 751.5000000000009,
+  "cumulativeLayoutShift": 0.08706700174013775,
+  "timeToInteractive": 11942.623,
+  "maxPotentialFirstInputDelay": 281,
+  "timeToFirstByte": 511.61699999999996,
+  "weight": {
+    "summary": "83 requests • 1,476 KiB",
+    "total": 1511632,
+    "image": 417157,
+    "imageCount": 24,
+    "script": 878488,
+    "scriptCount": 27,
+    "document": 39506,
+    "font": 112029,
+    "fontCount": 6,
+    "stylesheet": 55997,
+    "stylesheetCount": 3,
+    "thirdParty": 1467263,
+    "thirdPartyCount": 78
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1484,
+    "violations": 108
+  },
+  "name": "Artisan theme - $180 USD"
+}

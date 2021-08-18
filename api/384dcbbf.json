@@ -1,0 +1,52 @@
+{
+  "url": "https://kagami-tokyo.myshopify.com/",
+  "requestedUrl": "https://kagami-tokyo.myshopify.com/",
+  "timestamp": 1629189771051,
+  "ranks": {
+    "hundos": 20,
+    "performance": 13,
+    "accessibility": 20,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.55,
+    "accessibility": 0.82,
+    "bestPractices": 0.73,
+    "seo": 0.76,
+    "total": 286
+  },
+  "firstContentfulPaint": 2018.3519999999999,
+  "firstMeaningfulPaint": 3045.946,
+  "speedIndex": 5157.669981983598,
+  "largestContentfulPaint": 8564.647,
+  "totalBlockingTime": 420.1240000000005,
+  "cumulativeLayoutShift": 0.09117431640625,
+  "timeToInteractive": 6082.701000000001,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 494.41499999999996,
+  "weight": {
+    "summary": "76 requests • 2,146 KiB",
+    "total": 2197283,
+    "image": 1406307,
+    "imageCount": 30,
+    "script": 549184,
+    "scriptCount": 24,
+    "document": 140791,
+    "font": 52398,
+    "fontCount": 3,
+    "stylesheet": 44606,
+    "stylesheetCount": 3,
+    "thirdParty": 2168694,
+    "thirdPartyCount": 74
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1636,
+    "violations": 67
+  },
+  "name": "Kagami theme - $180 USD"
+}

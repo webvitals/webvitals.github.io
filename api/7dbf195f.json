@@ -1,0 +1,52 @@
+{
+  "url": "https://mrparkerdemo.myshopify.com/",
+  "requestedUrl": "https://mrparkerdemo.myshopify.com/",
+  "timestamp": 1629190928454,
+  "ranks": {
+    "hundos": 21,
+    "performance": 22,
+    "accessibility": 20,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.26,
+    "accessibility": 0.76,
+    "bestPractices": 0.8,
+    "seo": 0.83,
+    "total": 265
+  },
+  "firstContentfulPaint": 2897.3689999999997,
+  "firstMeaningfulPaint": 2897.3689999999997,
+  "speedIndex": 6635.183465598492,
+  "largestContentfulPaint": 8733.169000000002,
+  "totalBlockingTime": 604.4624999999996,
+  "cumulativeLayoutShift": 0.7314184453752306,
+  "timeToInteractive": 15247.9035,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 408.93500000000006,
+  "weight": {
+    "summary": "93 requests • 2,719 KiB",
+    "total": 2784073,
+    "image": 1476117,
+    "imageCount": 34,
+    "script": 909024,
+    "scriptCount": 30,
+    "document": 54681,
+    "font": 225776,
+    "fontCount": 7,
+    "stylesheet": 99057,
+    "stylesheetCount": 3,
+    "thirdParty": 2733697,
+    "thirdPartyCount": 90
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1414,
+    "violations": 54
+  },
+  "name": "Mr Parker theme - $180 USD"
+}

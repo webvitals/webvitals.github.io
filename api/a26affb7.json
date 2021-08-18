@@ -1,0 +1,52 @@
+{
+  "url": "https://grid-theme-bright.myshopify.com/",
+  "requestedUrl": "https://grid-theme-bright.myshopify.com/",
+  "timestamp": 1629190426381,
+  "ranks": {
+    "hundos": 19,
+    "performance": 20,
+    "accessibility": 23,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.53,
+    "accessibility": 0.81,
+    "bestPractices": 0.8,
+    "seo": 0.91,
+    "total": 305
+  },
+  "firstContentfulPaint": 2041.6440000000002,
+  "firstMeaningfulPaint": 2041.6440000000002,
+  "speedIndex": 4160.237988038194,
+  "largestContentfulPaint": 5465.0065,
+  "totalBlockingTime": 488,
+  "cumulativeLayoutShift": 0.15039957682291666,
+  "timeToInteractive": 11245.5155,
+  "maxPotentialFirstInputDelay": 199,
+  "timeToFirstByte": 456.02500000000003,
+  "weight": {
+    "summary": "90 requests • 1,409 KiB",
+    "total": 1442576,
+    "image": 310290,
+    "imageCount": 21,
+    "script": 593932,
+    "scriptCount": 29,
+    "document": 32227,
+    "font": 118432,
+    "fontCount": 8,
+    "stylesheet": 28035,
+    "stylesheetCount": 1,
+    "thirdParty": 1413322,
+    "thirdPartyCount": 87
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 936,
+    "violations": 91
+  },
+  "name": "Grid theme - $180 USD"
+}

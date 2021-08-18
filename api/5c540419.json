@@ -1,0 +1,58 @@
+{
+  "url": "https://icon-coco-shopify-theme.myshopify.com/",
+  "requestedUrl": "https://icon-coco-shopify-theme.myshopify.com/",
+  "timestamp": 1629188727540,
+  "ranks": {
+    "hundos": 8,
+    "performance": 6,
+    "accessibility": 9,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.56,
+    "accessibility": 0.86,
+    "bestPractices": 0.87,
+    "seo": 0.71,
+    "total": 300
+  },
+  "firstContentfulPaint": 2590.7839999999997,
+  "firstMeaningfulPaint": 2590.7839999999997,
+  "speedIndex": 4404.488787583962,
+  "largestContentfulPaint": 5419.139,
+  "totalBlockingTime": 109.5,
+  "cumulativeLayoutShift": 1.0060455640157064,
+  "timeToInteractive": 5134.304,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 670.213,
+  "weight": {
+    "summary": "35 requests • 719 KiB",
+    "total": 735882,
+    "image": 238658,
+    "imageCount": 5,
+    "script": 202003,
+    "scriptCount": 13,
+    "document": 29558,
+    "font": 196038,
+    "fontCount": 6,
+    "stylesheet": 53920,
+    "stylesheetCount": 2,
+    "thirdParty": 691129,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1258,
+    "violations": 29
+  },
+  "name": "Icon theme - $180 USD",
+  "previousRanks": {
+    "hundos": 10,
+    "performance": 8,
+    "accessibility": 9,
+    "cumulative": 10
+  }
+}

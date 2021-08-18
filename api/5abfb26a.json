@@ -1,0 +1,52 @@
+{
+  "url": "https://prince-theme-v2.myshopify.com/",
+  "requestedUrl": "https://prince-theme-v2.myshopify.com/",
+  "timestamp": 1629192129716,
+  "ranks": {
+    "hundos": 2,
+    "performance": 3,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.81,
+    "accessibility": 0.94,
+    "bestPractices": 0.93,
+    "seo": 0.86,
+    "total": 354
+  },
+  "firstContentfulPaint": 2258.562,
+  "firstMeaningfulPaint": 2258.562,
+  "speedIndex": 2849.593940000699,
+  "largestContentfulPaint": 4469.844999999999,
+  "totalBlockingTime": 51,
+  "cumulativeLayoutShift": 0.000028953552246093753,
+  "timeToInteractive": 3106.0570000000002,
+  "maxPotentialFirstInputDelay": 95,
+  "timeToFirstByte": 416.83799999999997,
+  "weight": {
+    "summary": "23 requests • 409 KiB",
+    "total": 418472,
+    "image": 158717,
+    "imageCount": 3,
+    "script": 110482,
+    "scriptCount": 8,
+    "document": 22405,
+    "font": 93046,
+    "fontCount": 4,
+    "stylesheet": 33340,
+    "stylesheetCount": 1,
+    "thirdParty": 396067,
+    "thirdPartyCount": 22
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 565,
+    "violations": 8
+  },
+  "name": "Kingdom theme - $180 USD"
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://launch-26.myshopify.com/",
+  "requestedUrl": "https://launch-26.myshopify.com/",
+  "timestamp": 1629191956048,
+  "ranks": {
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 13,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.59,
+    "accessibility": 0.89,
+    "bestPractices": 0.87,
+    "seo": 0.9,
+    "total": 325
+  },
+  "firstContentfulPaint": 2504.955,
+  "firstMeaningfulPaint": 2504.955,
+  "speedIndex": 3887.3504061396197,
+  "largestContentfulPaint": 5236.169,
+  "totalBlockingTime": 96,
+  "cumulativeLayoutShift": 0.9755938741895888,
+  "timeToInteractive": 4645.4490000000005,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 360.578,
+  "weight": {
+    "summary": "33 requests • 1,039 KiB",
+    "total": 1063597,
+    "image": 602173,
+    "imageCount": 6,
+    "script": 161860,
+    "scriptCount": 11,
+    "document": 27782,
+    "font": 212146,
+    "fontCount": 6,
+    "stylesheet": 44545,
+    "stylesheetCount": 1,
+    "thirdParty": 1021225,
+    "thirdPartyCount": 31
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1009,
+    "violations": 18
+  },
+  "name": "Mr Parker theme - $180 USD"
+}

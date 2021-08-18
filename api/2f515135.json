@@ -1,0 +1,52 @@
+{
+  "url": "https://editions-theme-modern.myshopify.com/",
+  "requestedUrl": "https://editions-theme-modern.myshopify.com/",
+  "timestamp": 1629189903309,
+  "ranks": {
+    "hundos": 12,
+    "performance": 16,
+    "accessibility": 11,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.49,
+    "accessibility": 0.89,
+    "bestPractices": 0.73,
+    "seo": 1,
+    "total": 311
+  },
+  "firstContentfulPaint": 3507.975000000001,
+  "firstMeaningfulPaint": 3507.975000000001,
+  "speedIndex": 3863.278635302364,
+  "largestContentfulPaint": 6200.745000000001,
+  "totalBlockingTime": 184,
+  "cumulativeLayoutShift": 0.7883318903181287,
+  "timeToInteractive": 6297.959500000002,
+  "maxPotentialFirstInputDelay": 163,
+  "timeToFirstByte": 440.83000000000004,
+  "weight": {
+    "summary": "36 requests • 600 KiB",
+    "total": 614282,
+    "image": 170292,
+    "imageCount": 11,
+    "script": 358889,
+    "scriptCount": 11,
+    "document": 19117,
+    "font": 41875,
+    "fontCount": 2,
+    "stylesheet": 23102,
+    "stylesheetCount": 2,
+    "thirdParty": 595165,
+    "thirdPartyCount": 35
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 527,
+    "violations": 20
+  },
+  "name": "Editions theme - $100 USD"
+}

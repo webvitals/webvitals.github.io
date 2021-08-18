@@ -1,0 +1,52 @@
+{
+  "url": "https://venue-theme-evening.myshopify.com/",
+  "requestedUrl": "https://venue-theme-evening.myshopify.com/",
+  "timestamp": 1629189702793,
+  "ranks": {
+    "hundos": 6,
+    "performance": 7,
+    "accessibility": 8,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "8.2.0",
+    "performance": 0.67,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 0.84,
+    "total": 335
+  },
+  "firstContentfulPaint": 2310.141,
+  "firstMeaningfulPaint": 2310.141,
+  "speedIndex": 4811.291197202114,
+  "largestContentfulPaint": 7118.6709999999985,
+  "totalBlockingTime": 109,
+  "cumulativeLayoutShift": 0.0006030273437499999,
+  "timeToInteractive": 5784.221999999999,
+  "maxPotentialFirstInputDelay": 130,
+  "timeToFirstByte": 823.4970000000001,
+  "weight": {
+    "summary": "52 requests • 2,632 KiB",
+    "total": 2695440,
+    "image": 860768,
+    "imageCount": 19,
+    "script": 197485,
+    "scriptCount": 16,
+    "document": 44860,
+    "font": 62930,
+    "fontCount": 3,
+    "stylesheet": 48739,
+    "stylesheetCount": 3,
+    "thirdParty": 2649685,
+    "thirdPartyCount": 50
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "axe": {
+    "passes": 1198,
+    "violations": 61
+  },
+  "name": "Venue theme - $180 USD"
+}
